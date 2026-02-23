@@ -6,6 +6,7 @@ Usage:
     python run_pipeline.py --stage 2          # Start from Stage 2 (uses saved Stage 1 data)
     python run_pipeline.py --stage 3          # Start from Stage 3 (uses saved Stage 2 data)
     python run_pipeline.py --headless false   # Run with visible browser
+    python run_pipeline.py --demo             # Demo with known large-cap tickers (FMP free plan)
 """
 
 from __future__ import annotations
@@ -66,25 +67,31 @@ def build_final_report(cfg: Config) -> list[dict]:
         merged = {
             "rank": len(final) + 1,
             "ticker": ticker,
-            "name": s1.get("name", ""),
+            "name": row.get("company_name") or s1.get("name", ""),
             "market_cap": s1.get("market_cap", ""),
             # ROIC data
             "roic_avg": s2.get("avg"),
             "roic_trend": s2.get("trend"),
             "roic_min": s2.get("min"),
             "roic_max": s2.get("max"),
-            # Roundaboutness data
-            "roundaboutness_score": row.get("score"),
-            "confidence": row.get("confidence"),
-            "capex_stance": row.get("capex_stance"),
-            "rd_trajectory": row.get("rd_trajectory"),
-            "management_horizon": row.get("management_horizon"),
-            "summary": row.get("summary", ""),
+            # Roundaboutness data (4-pass)
+            "transcript_score": row.get("transcript_score"),
+            "transcript_decision": row.get("transcript_decision"),
+            "filings_score": row.get("filings_score"),
+            "filings_decision": row.get("filings_decision"),
+            "combined_decision": row.get("combined_decision"),
         }
         final.append(merged)
 
-    # Sort by roundaboutness score descending
-    final.sort(key=lambda r: r.get("roundaboutness_score") or -1, reverse=True)
+    # Sort: PASS first, then WATCH, then FAIL
+    decision_order = {"PASS": 0, "WATCH": 1, "FAIL": 2, "ERROR": 3, "UNKNOWN": 4}
+    final.sort(
+        key=lambda r: (
+            decision_order.get(r.get("combined_decision", "UNKNOWN"), 4),
+            -(r.get("filings_score") or -99),
+            -(r.get("transcript_score") or -99),
+        )
+    )
 
     # Re-rank
     for i, row in enumerate(final):
@@ -105,50 +112,66 @@ def print_summary(report: list[dict]) -> None:
     )
     table.add_column("#", style="dim", width=3)
     table.add_column("Ticker", style="bold cyan", width=8)
-    table.add_column("Name", width=25)
+    table.add_column("Name", width=22)
     table.add_column("ROIC Avg", justify="right", width=9)
-    table.add_column("ROIC Trend", width=12)
-    table.add_column("Roundabout", justify="right", width=10)
-    table.add_column("Confidence", justify="right", width=10)
-    table.add_column("CapEx", width=12)
-    table.add_column("R&D", width=12)
-    table.add_column("Horizon", width=11)
+    table.add_column("ROIC Trend", width=10)
+    table.add_column("T-Score", justify="right", width=8)
+    table.add_column("T-Dec", width=6)
+    table.add_column("F-Score", justify="right", width=8)
+    table.add_column("F-Dec", width=6)
+    table.add_column("Final", style="bold", width=6)
 
     for row in report:
-        score = row.get("roundaboutness_score")
-        score_str = f"{score:.1f}/10" if score is not None else "N/A"
-        conf = row.get("confidence")
-        conf_str = f"{conf:.0%}" if conf is not None else "N/A"
         roic = row.get("roic_avg")
         roic_str = f"{roic:.1f}%" if roic is not None else "N/A"
+
+        t_score = row.get("transcript_score")
+        t_str = f"{t_score:+d}" if t_score is not None else "N/A"
+        f_score = row.get("filings_score")
+        f_str = f"{f_score:+d}" if f_score is not None else "N/A"
+
+        decision = row.get("combined_decision", "?")
+        decision_style = {
+            "PASS": "bold green",
+            "WATCH": "yellow",
+            "FAIL": "red",
+        }.get(decision, "dim")
 
         table.add_row(
             str(row.get("rank", "")),
             row.get("ticker", ""),
-            (row.get("name", "") or "")[:25],
+            (row.get("name", "") or "")[:22],
             roic_str,
             row.get("roic_trend", ""),
-            score_str,
-            conf_str,
-            row.get("capex_stance", ""),
-            row.get("rd_trajectory", ""),
-            row.get("management_horizon", ""),
+            t_str,
+            row.get("transcript_decision", ""),
+            f_str,
+            row.get("filings_decision", ""),
+            f"[{decision_style}]{decision}[/{decision_style}]",
         )
 
     console.print(table)
 
     # Print top picks summary
-    top = [r for r in report if (r.get("roundaboutness_score") or 0) >= 7]
-    if top:
-        console.print(f"\n[bold green]Top picks (score >= 7.0):[/bold green]")
-        for r in top:
+    passed = [r for r in report if r.get("combined_decision") == "PASS"]
+    watched = [r for r in report if r.get("combined_decision") == "WATCH"]
+    if passed:
+        console.print(f"\n[bold green]PASS — proceed to position sizing:[/bold green]")
+        for r in passed:
             console.print(
-                f"  [cyan]{r['ticker']}[/cyan] - "
-                f"Score: {r['roundaboutness_score']:.1f}, "
-                f"ROIC: {r.get('roic_avg', 'N/A')}%"
+                f"  [cyan]{r['ticker']}[/cyan] — "
+                f"T={r.get('transcript_score', 'N/A')}, "
+                f"F={r.get('filings_score', 'N/A')}, "
+                f"ROIC={r.get('roic_avg', 'N/A')}%"
             )
-            if r.get("summary"):
-                console.print(f"    {r['summary'][:120]}")
+    if watched:
+        console.print(f"\n[yellow]WATCH — needs more evidence:[/yellow]")
+        for r in watched:
+            console.print(
+                f"  [cyan]{r['ticker']}[/cyan] — "
+                f"T={r.get('transcript_score', 'N/A')}, "
+                f"F={r.get('filings_score', 'N/A')}"
+            )
 
 
 def main():
@@ -159,7 +182,7 @@ def main():
 Stages:
   1  Magic Formula screen (requires MF_EMAIL, MF_PASSWORD)
   2  ROIC consistency filter (requires FMP_API_KEY)
-  3  Roundaboutness analysis (requires FMP_API_KEY, ANTHROPIC_API_KEY)
+  3  Roundaboutness 4-pass analysis (requires ANTHROPIC_API_KEY, EDGAR_IDENTITY)
         """,
     )
     parser.add_argument(
@@ -176,12 +199,33 @@ Stages:
         choices=["true", "false"],
         help="Run browser in headless mode (default: true)",
     )
+    parser.add_argument(
+        "--demo",
+        action="store_true",
+        help="Demo mode: skip Stage 1 and use known large-cap tickers compatible with FMP free plan",
+    )
     args = parser.parse_args()
 
     cfg = Config.load()
     cfg.headless = args.headless.lower() == "true"
 
     console.rule("[bold]AFQ Investment Screening Pipeline[/bold]")
+
+    # Demo mode: use known free-plan-compatible tickers
+    if args.demo:
+        log.info("Demo mode: using large-cap tickers (FMP free plan compatible)")
+        demo_tickers = ["AAPL", "MSFT", "AMZN", "META", "NVDA"]
+        args.stage = 2  # skip Stage 1
+
+        # Save fake Stage 1 data for the final report
+        from afq.utils import save_json as _save
+        _save(
+            [{"ticker": t, "name": t, "market_cap": ""} for t in demo_tickers],
+            DATA_DIR / "raw" / "magic_formula_latest.json",
+        )
+    else:
+        demo_tickers = None
+
     log.info(f"Starting from Stage {args.stage}")
 
     # Stage 1
@@ -199,10 +243,15 @@ Stages:
         console.rule("Stage 2: ROIC Consistency Filter")
         from pipelines.stage2_roic_filter import run_stage2
 
-        stage2_results = run_stage2(cfg)
+        stage2_results = run_stage2(cfg, tickers=demo_tickers)
         if not stage2_results:
-            log.error("Stage 2: No stocks passed the ROIC filter. Aborting.")
-            sys.exit(1)
+            log.warning("Stage 2: No stocks passed the ROIC filter.")
+            if not args.demo:
+                log.info(
+                    "Tip: FMP free plan only covers major stocks. "
+                    "Use --demo to test with large-cap tickers, or upgrade your FMP plan."
+                )
+                sys.exit(1)
 
     # Stage 3
     if args.stage <= 3:
