@@ -1,0 +1,27 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Data & cache
+data/raw/
+data/stage2/
+data/stage3/
+data/cache/
+data/final/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Poetry
+poetry.lock
+
+# Playwright
+playwright-browsers/
