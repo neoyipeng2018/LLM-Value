@@ -1,0 +1,125 @@
+[
+  {
+    "ticker": "HRMY",
+    "company_name": "Harmony Biosciences Holdings, Inc.",
+    "transcript_source": "available",
+    "transcript_chars": 60442,
+    "transcript_score": 8,
+    "transcript_decision": "PASS",
+    "filings_tenk_date": "2025-02-25",
+    "filings_proxy_date": "2025-04-04",
+    "filings_score": 8,
+    "filings_decision": "PASS",
+    "combined_decision": "PASS",
+    "errors": []
+  },
+  {
+    "ticker": "MO",
+    "company_name": "ALTRIA GROUP, INC.",
+    "transcript_source": "available",
+    "transcript_chars": 38965,
+    "transcript_score": 4,
+    "transcript_decision": "PASS",
+    "filings_tenk_date": "2025-02-26",
+    "filings_proxy_date": "2025-04-03",
+    "filings_score": 1,
+    "filings_decision": "WATCH",
+    "combined_decision": "WATCH",
+    "errors": []
+  },
+  {
+    "ticker": "HRB",
+    "company_name": "H&R BLOCK INC",
+    "transcript_source": "available",
+    "transcript_chars": 26749,
+    "transcript_score": 4,
+    "transcript_decision": "PASS",
+    "filings_tenk_date": "2025-08-15",
+    "filings_proxy_date": "2025-09-24",
+    "filings_score": 1,
+    "filings_decision": "WATCH",
+    "combined_decision": "WATCH",
+    "errors": []
+  },
+  {
+    "ticker": "CCSI",
+    "company_name": "Consensus Cloud Solutions, Inc.",
+    "transcript_source": "available",
+    "transcript_chars": 37060,
+    "transcript_score": 3,
+    "transcript_decision": "WATCH",
+    "filings_tenk_date": "2026-02-13",
+    "filings_proxy_date": "2025-04-24",
+    "filings_score": 1,
+    "filings_decision": "WATCH",
+    "combined_decision": "WATCH",
+    "errors": []
+  },
+  {
+    "ticker": "PXED",
+    "company_name": "Phoenix Education Partners, Inc.",
+    "transcript_source": "none",
+    "transcript_chars": 0,
+    "transcript_score": null,
+    "transcript_decision": "UNKNOWN",
+    "filings_tenk_date": "",
+    "filings_proxy_date": "2025-12-29",
+    "filings_score": -1,
+    "filings_decision": "FAIL",
+    "combined_decision": "FAIL",
+    "errors": [
+      "No transcript available",
+      "10-K fetch error: 'EntityFiling' object is not iterable"
+    ]
+  },
+  {
+    "ticker": "SBC",
+    "company_name": "SBC Medical Group Holdings Inc",
+    "transcript_source": "none",
+    "transcript_chars": 0,
+    "transcript_score": null,
+    "transcript_decision": "UNKNOWN",
+    "filings_tenk_date": "2025-03-28",
+    "filings_proxy_date": "2025-05-28",
+    "filings_score": -1,
+    "filings_decision": "FAIL",
+    "combined_decision": "FAIL",
+    "errors": [
+      "No transcript available"
+    ]
+  },
+  {
+    "ticker": "GIB",
+    "company_name": "CGI INC",
+    "transcript_source": "none",
+    "transcript_chars": 0,
+    "transcript_score": null,
+    "transcript_decision": "UNKNOWN",
+    "filings_tenk_date": "",
+    "filings_proxy_date": "",
+    "filings_score": null,
+    "filings_decision": "UNKNOWN",
+    "combined_decision": "FAIL",
+    "errors": [
+      "No transcript available",
+      "No 10-K filings found",
+      "No DEF 14A filings found"
+    ]
+  },
+  {
+    "ticker": "MTCH",
+    "company_name": "Match Group, Inc.",
+    "transcript_source": "none",
+    "transcript_chars": 0,
+    "transcript_score": null,
+    "transcript_decision": "UNKNOWN",
+    "filings_tenk_date": "2025-02-27",
+    "filings_proxy_date": "2025-04-29",
+    "filings_score": 0,
+    "filings_decision": "FAIL",
+    "combined_decision": "FAIL",
+    "errors": [
+      "No transcript available"
+    ]
+  }
+]

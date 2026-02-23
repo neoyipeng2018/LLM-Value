@@ -1,0 +1,641 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+SCHEDULE 14A
+
+  Proxy Statement Pursuant to Section 14(a) of          
+  the Securities Exchange Act of 1934 (Amendment No. )  
+
+Filed by the Registrant ☑
+
+Filed by a Party other than the Registrant ☐
+
+Check the appropriate box:
+
+☐ Preliminary Proxy Statement
+
+☐Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+
+☑ Definitive Proxy Statement
+
+☐ Definitive Additional Materials
+
+☐Soliciting Material Pursuant to §240.14a-12
+
+Match Group, Inc.
+
+(Name of registrant as specified in its charter)
+
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+Payment of Filing Fee (Check all boxes that apply):
+
+☑ No fee required
+
+☐ Fee paid previously with preliminary materials
+
+☐ Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11
+
+April 29, 2025
+
+Dear Stockholder:
+
+You are invited to attend the Annual Meeting of Stockholders of Match Group, Inc., which will be held on June 18, 2025, at 11:00 a. m. Eastern Time. The Annual Meeting will be a virtual meeting, conducted solely online. Stockholders must pre-register to attend the Annual Meeting no later than 11:00 a. m. Eastern Time on June 17, 2025. To pre-register to participate in the virtual meeting, go to www. cesonlineservices. com/mtch25_vm and enter the control number included in your Notice of Internet
+Availability of Proxy Materials, proxy card or the instructions that accompanied your proxy materials. Once you have pre-registered, you will receive a confirmation email with information on how to attend and vote at the meeting. If the voting instruction form that you received does not indicate that you may vote your shares through the www. cesonlineservices. com/mtch25_vm website, you should contact your bank, broker or other nominee (preferably at least 5 days before the meeting) and obtain a
+“legal proxy” (which will contain a control number that will allow you to pre-register to attend, participate in or vote at the meeting).
+
+At the Annual Meeting, stockholders will be asked to: (1) elect three directors, (2) approve, on a nonbinding advisory basis, the compensation paid to our named executive officers in 2024, (3) approve the Match Group, Inc. Amended and Restated 2024 Stock and Annual Incentive Plan, (4) ratify the appointment of Ernst & Young as Match Group’s independent registered public accounting firm for the 2025 fiscal year and (5) approve an amendment to Match Group’s Certificate of Incorporation to 
+declassify its Board of Directors (the "Board"). Match Group’s Board of Directors believes that the proposals being submitted for stockholder approval are in the best interests of Match Group and its stockholders. The Board recommends a vote consistent with the Board’s recommendation for each proposal.
+
+It is important that your shares be represented and voted at the Annual Meeting regardless of the size of your holdings. Whether or not you plan to participate in the Annual Meeting online, please take the time to vote online, by telephone or, if you receive a printed proxy card, by returning a marked, signed and dated proxy card. If you participate in the Annual Meeting online, you may vote your shares online at that time if you wish, even if you have previously submitted your vote.
+
+Sincerely,
+
+Spencer Rascoff Chief Executive Officer
+
+MATCH GROUP, INC.
+
+8750 North Central Expressway, Suite 1400
+
+Dallas, Texas 75231
+
+NOTICE OF 2025 ANNUAL MEETING OF STOCKHOLDERS
+
+To the Stockholders:
+
+Match Group, Inc. (“ Match Group” or the “ Company”) is making this proxy statement available to holders of our common stock in connection with the solicitation of proxies by Match Group’s Board of Directors (the “ Board”) for use at the Annual Meeting of Stockholders to be held on June 18, 2025, at 11:00 a. m. Eastern Time (the “ Annual Meeting”). The Annual Meeting will be a virtual meeting, conducted solely online. We believe that a virtual meeting provides expanded access, improved 
+communication, and cost savings. Stockholders must pre-register to attend the Annual Meeting no later than 11:00 a. m. Eastern Time on June 17, 2025. To pre-register to participate in the virtual meeting, go to www. cesonlineservices. com/mtch25_vm and enter the control number included in your Notice of Internet Availability of Proxy Materials, proxy card or the instructions that accompanied your proxy materials. Once you have pre-registered, you will receive a confirmation email with 
+information on how to attend and vote at the meeting. If the voting instruction form that you received does not indicate that you may vote your shares through the www. cesonlineservices. com/mtch25_vm website, you should contact your bank, broker or other nominee (preferably at least 5 days before the meeting) and obtain a “legal proxy” (which will contain a control number that will allow you to pre-register to attend, participate in or vote at the meeting). At the Annual Meeting, stockholders 
+will be asked to:
+
+1. elect three members of our Board, each to hold office for a three-year term ending on the date of the annual meeting of stockholders in 2028 or until such director’s successor shall have been duly elected and qualified (or, if earlier, such director’s removal or resignation from our Board of Directors);
+
+2. hold an advisory vote on executive compensation;
+
+3. approve the Match Group, Inc. Amended and Restated 2024 Stock and Annual Incentive Plan;
+
+4. ratify the appointment of Ernst & Young LLP as Match Group’s independent registered public accounting firm for the 2025 fiscal year;
+
+5. approve an amendment to Match Group’s Certificate of Incorporation to declassify the Board; and
+
+6. transact such other business as may properly come before the meeting and any related adjournments or postponements.
+
+Match Group’s Board of Directors has set April 24, 2025 as the record date for the Annual Meeting. This means that holders of record of our common stock at the close of business on that date are entitled to receive notice of the Annual Meeting and to vote their shares at the Annual Meeting and any related adjournments or postponements.
+
+As permitted by applicable Securities and Exchange Commission rules, on or about April 29, 2025, we first mailed a Notice of Internet Availability of Proxy Materials containing instructions on how to access our Annual Meeting proxy statement and 2024 Annual Report on Form 10-K online, as well as instructions on how to obtain printed copies of these materials by mail.
+
+This proxy statement and the 2024 Annual Report on Form 10-K are available at www. eproxyaccess. com/mtch2025 beginning on April 29, 2025.
+
+By order of the Board of Directors,
+
+Sean Edgett
+
+Chief Legal Officer and Secretary
+
+April 29, 2025
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This proxy statement may contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements that are not historical facts are “forward looking statements.” The use of words such as “anticipates,” “estimates,” “expects," "plans” and “believes,” among others, generally identify forward-looking statements.
+
+These forward-looking statements include, among others, statements relating to: Match Group’s future financial performance, Match Group’s business prospects and strategy, anticipated trends, and other similar matters. These forward-looking statements are based on management's current expectations and assumptions about future events, which are inherently subject to uncertainties, risks and changes in circumstances that are difficult to predict. Actual results could differ materially from those 
+contained in these forward-looking statements for a variety of reasons, including, among others: our ability to maintain or grow the size of our user base and convert users to paying users, competition, the limited operating history of some of our brands, our ability to attract users to our services through cost-effective marketing and related efforts, our ability to distribute our services through third parties and offset related fees, risks relating to our use of artificial intelligence, 
+foreign currency exchange rate fluctuations, the integrity and scalability of our systems and infrastructure (and those of third parties) and our ability to adapt ours to changes in a timely and cost-effective manner, our ability to protect our systems from cyberattacks and to protect personal and confidential user information, impacts to our offices and employees from more frequent extreme weather events, risks relating to certain of our international operations and acquisitions, damage to our 
+brands' reputations as a result of inappropriate actions by users of our services, and macroeconomic conditions. Certain of these and other risks and uncertainties are discussed in Match Group's filings with the Securities and Exchange Commission. Other unknown or unpredictable factors that could also adversely affect Match Group's business, financial condition and results of operations may arise from time to time. In light of these risks and uncertainties, these forward-looking statements may 
+not prove to be accurate. Accordingly, you should not place undue reliance on these forward-looking statements, which only reflect the views of Match Group management as of the date of this proxy statement. Match Group does not undertake to update these forward-looking statements.
+
+PROXY STATEMENT
+
+TABLE OF CONTENTS
+
+  Section                                                                                                            Page  
+  Questions and Answers About the Annual Meeting and Voting                                                             1  
+  Proposal 1— Election of Directors                                                                                     7  
+  Information Concerning Director Nominees and Other Members                                                            8  
+  Corporate Governance                                                                                                 17  
+  The Board and Board Committees                                                                                       21  
+  Proposal 2— Advisory Vote on Executive Compensation                                                                  22  
+  Proposal 3— Approval of the Amended and Restated 2024 Stock and Annual Incentive Plan                                22  
+  Proposal 4— Ratification of Appointment of Independent Registered Public Accounting Firm                             30  
+  Proposal 5— Management Proposal to Amend Match Group’s Certificate of Incorporation to Declassify the Board          31  
+  Audit Committee Matters                                                                                              32  
+  Audit Committee Report                                                                                               32  
+  Fees Paid to Our Independent Registered Public Accounting Firm                                                       32  
+  Audit and Non-Audit Services Pre-Approval Policy                                                                     33  
+  Information Concerning Match Group Executive Officers Who Are Not Directors                                          34  
+  Compensation Discussion and Analysis                                                                                 34  
+  Compensation Committee Report                                                                                        46  
+  Compensation Committee Interlocks and Insider Participation                                                          46  
+  Executive Compensation                                                                                               47  
+  2024 Summary Compensation Table                                                                                      47  
+  Grants of Plan-Based Awards in 2024                                                                                  48  
+  Outstanding Equity Awards at 2024 Fiscal Year-End                                                                    49  
+  2024 Option Exercises and Stock Vested                                                                               50  
+  Estimated Potential Payments Upon Termination or Change in Control                                                   50  
+  CEO Pay Ratio                                                                                                        54  
+  Equity Compensation Plan Information                                                                                 54  
+  Pay Versus Performance                                                                                               55  
+  Director Compensation                                                                                                58  
+  Security Ownership of Certain Beneficial Owners and Management                                                       61  
+  Certain Relationships and Related Person Transactions                                                                63  
+  Annual Reports                                                                                                       63  
+  Stockholder Proposals and Director Nominees for Presentation at the 2026 Annual Meeting                              64  
+  H ouseholding                                                                                                        64  
+  Notice of Internet Availability of Proxy Materials                                                                   64  
+  Appendix A— Match Group, Inc. Amended and Restated 2024 Stock and Annual Incentive Plan                             A-1  
+  Appendix B -1— Proposed Amendments to the Certificate of Incorporation                                            B-1-1  
+  Appendix B -2— Proposed Amendments to the Certificate of Incorporation                                            B-2-1  
+  Appendix B -3— Proposed Second Amended and Restated Certificate of Incorporation                                  B-3-1  
+
+PROXY STATEMENT
+
+QUESTIONS AND ANSWERS ABOUT THE ANNUAL MEETING AND VOTING
+
+Q: What is included in these proxy materials and why am I receiving these proxy materials?
+
+A: These proxy materials relate to the Match Group, Inc. Board of Director’s solicitation of your proxy for use at our Annual Meeting to be held virtually on www. cesonlineservices. com/mtch25_vm. The following questions and answers provide guidance on how to vote your shares.
+
+Our Board of Directors (the "Board") is soliciting proxies for our Annual Meeting. You are receiving these proxy materials, which include this Proxy Statement, the enclosed proxy card or voting instruction form, and the Annual Report, because you owned shares of our common stock as of the close of business on the record date. These proxy materials are first being mailed on or about April 29, 2025 to stockholders of record as of the record date. This proxy statement and our 2024 Annual Report on 
+Form 10-K will also be available at www. eproxyaccess. com/mtch2025 beginning on April 29, 2025.
+
+You are invited to participate in the Annual Meeting online and we request that you vote on the proposals described in this Proxy Statement. However, you do not need to participate in the Annual Meeting to vote your shares. Instead, you may simply complete, sign, date and return the enclosed proxy card or voting instruction form or submit your proxy through the Internet or by telephone according to the instructions contained in the Notice of Internet Availability of Proxy Materials, enclosed 
+proxy card or voting instruction form.
+
+Due to possible delays in the postal system, we are encouraging all stockholders to vote electronically - by Internet or by telephone - whenever possible.
+
+Q: Why did I receive a Notice of Internet Availability of Proxy Materials?
+
+A: In accordance with rules adopted by the U. S. Securities and Exchange Commission (the “ SEC”), we have elected to deliver this proxy statement and our 2024 Annual Report on Form 10-K to the majority of our stockholders online in lieu of mailing printed copies of these materials to each of our stockholders. If you received a Notice of Internet Availability of Proxy Materials (the “ Notice”) by mail, you will not receive printed copies of our proxy materials unless you request them. Instead, 
+the Notice provides instructions on how to access this proxy statement and our 2024 Annual Report on Form 10-K online, as well as how to obtain printed copies of these materials by mail. We believe that this process allows us to provide our stockholders with the information they need in a more timely manner than if we had elected to mail printed materials, while reducing the environmental impact of, and lowering the costs associated with, the printing and distribution of our proxy materials.
+
+If you received a Notice by mail but would rather receive printed copies of our proxy materials, please follow the instructions included in the Notice. You will not receive a Notice if you have previously elected to receive printed copies of our proxy materials.
+
+Q: Can I vote my shares by filling out and returning the Notice?
+
+A: No. However, the Notice provides instructions on how to vote your shares by way of completing and submitting your proxy online or by phone, by requesting and returning a written proxy card by mail or by voting at the Annual Meeting online at www. cesonlineservices. com/mtch25_vm.
+
+Q: How do I participate in the Annual Meeting?
+
+A: The Annual Meeting will be accessible only through the Internet. We have adopted a virtual format for the Annual Meeting to make participation accessible for stockholders from any geographic location with Internet connectivity.
+
+Stockholders must pre-register to attend the Annual Meeting no later than 11:00 a. m. Eastern Time on June 17, 2025. To pre-register to participate in the virtual meeting, go to www. cesonlineservices. com/mtch25_vm and enter the control number included in your Notice, proxy card or the instructions that accompanied your proxy materials. Once you have pre-registered, you will receive a confirmation email with information on how to attend and vote at the meeting. If the voting instruction form 
+that you received does not indicate that you may vote your shares through the www. cesonlineservices. com/mtch25_vm website, you should contact your bank, broker or other nominee (preferably at least 5 days before the meeting) and obtain a “legal proxy” (which will contain a control number that will allow you to pre-register to attend, participate in or vote at the meeting).
+
+Stockholders may submit questions during the Annual Meeting by entering them in the 'Ask a Question' box located on the virtual meeting site. A copy of the rules of conduct will be available online at the Annual Meeting. We will
+
+address questions applicable to Match Group’s business during a question and answer session following the conclusion of the formal portion of the Annual Meeting. If we receive substantially similar questions, we plan to group such questions together and provide a single response to avoid repetition and allow time for additional question topics.
+
+We encourage you to access the Annual Meeting before it begins. Online check-in will start approximately 15 minutes before the meeting, and you should allow ample time to ensure your ability to access the meeting. Participants should ensure that they have a reliable Internet connection wherever they intend to participate in the Annual Meeting.
+
+Q: Who is entitled to vote at the Annual Meeting?
+
+A: Holders of common stock of Match Group, Inc. (“ Match Group” or the “ Company”) as of the close of business on April 24, 2025, the record date for the Annual Meeting established by the Board, are entitled to receive notice of the Annual Meeting and to vote their shares at the Annual Meeting and any related adjournments or postponements.
+
+At the close of business on April 24, 2025, there were 245,225,322 shares of Match Group common stock outstanding and entitled to vote. Holders of Match Group common stock are entitled to one vote per share.
+
+Q: How many votes do I have?
+
+A: On each matter to be voted upon, holders of common stock will have one vote for each share of common stock they owned as of the close of business on April 24, 2025, the record date for the Annual Meeting.
+
+Q: What is the difference between a stockholder of record and a stockholder who holds stock in street name?
+
+A: If your Match Group shares are registered in your name, you are a stockholder of record. If your Match Group shares are held in the name of your broker, bank or other holder of record, your shares are held in street name.
+
+You may examine a list of the stockholders of record at the close of business on April 24, 2025 for any purpose germane to the Annual Meeting during normal business hours during the 10-day period preceding the date of the meeting at our Dallas offices, located at 8750 North Central Expressway, Suite 1400, Dallas, Texas 75231.
+
+Q: What are the quorum requirements for the Annual Meeting?
+
+A: The presence at the Annual Meeting, in person or by proxy, of holders of shares of Match Group common stock representing a majority of the voting power of Match Group common stock entitled to vote at the Annual Meeting constitutes a quorum. Stockholders who participate in the Annual Meeting online at www. cesonlineservices. com/mtch25_vm will be deemed to be present for purposes of determining whether a quorum has been met. Shares of Match Group common stock represented by proxy will be 
+treated as present at the Annual Meeting for purposes of determining whether there is a quorum (including abstentions and broker non-votes).
+
+Q: What matters will Match Group stockholders vote on at the Annual Meeting?
+
+A: Match Group stockholders will vote on the following proposals:
+
+•Proposal 1 - to elect three members of Match Group’s Board of Directors, each to hold office for a three-year term ending on the date of the annual meeting of stockholders in 2028 or until such director’s successor shall have been duly elected and qualified (or, if earlier, such director’s removal or resignation from Match Group’s Board of Directors);
+
+•Proposal 2 - to hold an advisory vote on executive compensation (the "say on pay proposal");
+
+•Proposal 3 - to approve the Match Group, Inc. Amended and Restated 2024 Stock and Annual Incentive Plan (the "2024 Stock Plan Proposal");
+
+•Proposal 4 - to ratify the appointment of Ernst & Young LLP as Match Group’s independent registered public accounting firm for the 2025 fiscal year;
+
+•Proposal 5 - to approve an amendment to Match Group’s Certificate of Incorporation to declassify the Board; and
+
+• to transact such other business as may properly come before the Annual Meeting and any related adjournments or postponements.
+
+Q: If I hold my Match Group shares in street name, will my broker, bank or other holder of record vote these shares for me?
+
+A: If you hold your Match Group shares in street name, you must provide your broker, bank or other holder of record with instructions in order to vote these shares. If you do not provide voting instructions, whether your shares can be voted by your broker, bank or other holder of record in their discretion depends on the type of item being considered for a vote.
+
+Non-Discretionary Items. The election of directors, the say on pay proposal, the 2024 Stock Plan Proposal, and the declassification proposal are non-discretionary items and may not be voted on by your broker, bank or other holder of record absent specific voting instruction from you. “ Broker non-votes” refer to shares held by a broker, bank or other holder of record that are present at the Annual Meeting, but the beneficial owner has not instructed such broker, bank or other holder of record 
+how to vote the shares on a particular proposal, and the broker, bank or other holder of record does not have discretionary voting power on the proposal.
+
+Discretionary Items. The ratification of Ernst & Young LLP as Match Group's independent registered public accounting firm for the 2025 fiscal year is a discretionary item. Generally, brokers, banks and other holders of record that do not receive voting instructions may vote on this proposal in their discretion.
+
+Q: What are my voting choices when voting for director nominees and what votes are required to elect director nominees to Match Group’s Board of Directors?
+
+A: You may vote ” For" or “ Withhold” on each of the nominees for election as a director.
+
+The election of directors will be considered a contested election under Article II Section 9 of Match Group's Bylaws because the number of nominees exceeded the number of directors to be elected as of the 10th day preceding the date Match Group first mailed the Notice. As a result, all director nominees will be elected by a plurality of votes cast at the election of directors, assuming a quorum is present. "Withhold" votes, failure to vote and any broker non-votes will not be counted as votes 
+cast and will result in the applicable nominee(s) receiving fewer votes cast "FOR" such nominee(s).
+
+The Board recommends that our stockholders vote “ FOR” the election of each of the Board’s director nominees (Stephen Bailey, Melissa Brenner and Kelly Campbell).
+
+Q: What are my voting choices when voting on the say on pay proposal and what votes are required to approve this proposal?
+
+A: You may vote “ For,” “ Against” or “ Abstain” on the say on pay proposal.
+
+The approval, on an advisory basis, of the say on pay proposal requires the affirmative vote of a majority of the voting power of the shares of Match Group common stock present at the Annual Meeting in person or represented by proxy and entitled to vote on the matter.
+
+Abstentions are considered shares present and entitled to vote on this proposal, and thus, will have the same effect as a vote “ Against” this proposal. Broker non-votes are not entitled to vote on this proposal and, as a result, will have no effect on the outcome of this proposal.
+
+The Board recommends that our stockholders vote “ FOR” the say on pay proposal.
+
+Q: What are my voting choices when voting on the 2024 Stock Plan Proposal and what votes are required to approve this proposal?
+
+A: You may vote “ For,” “ Against” or “ Abstain” on the 2024 Stock Plan Proposal.
+
+The approval of the 2024 Stock Plan Proposal requires the affirmative vote of a majority of the voting power of the shares of Match Group common stock present at the Annual Meeting in person or represented by proxy and entitled to vote on the matter.
+
+Abstentions are considered shares present and entitled to vote on this proposal, and thus, will have the same effect as a vote “ Against” this proposal. Broker non-votes are not entitled to vote on this proposal and, as a result, will have no effect on the outcome of this proposal.
+
+The Board recommends that our stockholders vote “ FOR” the 2024 Stock Plan Proposal.
+
+Q: What are my voting choices when voting on the ratification of the appointment of Ernst & Young LLP as Match Group’s independent registered public accounting firm for the 2025 fiscal year and what votes are required to ratify this appointment?
+
+A: You may vote “ For,” “ Against” or “ Abstain” on the ratification.
+
+The ratification of the appointment of Ernst & Young LLP as Match Group’s independent registered public accounting firm for the 2025 fiscal year requires the affirmative vote of a majority of the voting power of the shares of Match Group common stock present at the Annual Meeting in person or represented by proxy and entitled to vote on the matter.
+
+Abstentions are considered shares present and entitled to vote on this proposal, and thus, will have the same effect as a vote “ Against” this proposal. This proposal is a “discretionary” item. Therefore, if you hold your shares in street name and do not provide voting instructions to your broker, bank, or other holder of record that holds your shares, your broker, bank, or other holder of record that holds your shares has discretionary authority to vote your shares on this proposal.
+
+The Board recommends that our stockholders vote “ FOR” the ratification of the appointment of Ernst & Young LLP as Match Group’s independent registered public accounting firm for the 2025 fiscal year.
+
+Q: What are my voting choices when voting on the amendment to Match Group’s Certificate of Incorporation to declassify the Board?
+
+A: You may vote “ For,” “ Against” or “ Abstain” on the proposal to amend Match Group’s Certificate of Incorporation to declassify the Board.
+
+The approval of the amendment to Match Group’s Certificate of Incorporation to declassify the Board requires the affirmative vote of a majority of the outstanding shares of Match Group common stock entitled to vote on the matter.
+
+Because the approval of the proposal to amend Match Group’s Certificate of Incorporation to declassify the Board requires the affirmative vote of a majority of the outstanding shares of Match Group common stock entitled to vote on the matter (whether or not such shares are present or represented by proxy at the Annual Meeting), abstentions and broker non-votes have the same effect as a vote “ AGAINST” this proposal.
+
+The Board recommends that our stockholders vote “ FOR” the proposal to amend Match Group’s Certificate of Incorporation to declassify the Board.
+
+Q: What are the voting standards for each of the proposals?
+
+A:
+
+  Proposal                                                                                                         Voting Options and Board Recommendation                                                                               Voting Standard                                                                 Effect of Abstentions or "Withhold" Votes       Effect of Broker Non-Votes                                                                 
+  Proposal 1: Election of Directors                                                                                FOR OR WITHHOLD                                                                                                       Plurality of votes cast                                                         No effect – not counted as a vote               No effect – broker discretionary voting is not permitted                                   
+                                                                                                                   (for each nominee for director)                                                                                                                                                                                                                                                                                                                  
+                                                                                                                   The Board recommends a vote “ FOR” each of the three Match Group nominees for director                                                                                                                                                                                                                                                           
+  Proposal 2: Advisory Vote on Executive Compensation                                                              FOR, AGAINST or ABSTAIN                                                                                               Majority of the shares present and entitled to vote on the matter               Same effect as a vote AGAINST the proposal      No effect – broker discretionary voting is not permitted                                   
+                                                                                                                   The Board recommends a vote “ FOR” the advisory vote on executive compensation                                                                                                                                                                                                                                                                   
+  Proposal 3: Approval of the Amended and Restated 2024 Stock and Annual Incentive Plan                            FOR, AGAINST or ABSTAIN                                                                                               Majority of the shares present and entitled to vote on the matter               Same effect as a vote AGAINST the proposal      No effect – broker discretionary voting is not permitted                                   
+                                                                                                                   The Board recommends a vote “ FOR” the approval of the Amended and Restated 2024 Stock and Annual Incentive Plan                                                                                                                                                                                                                                 
+  Proposal 4: Ratification of the Appointment of Ernst & Young                                                     FOR, AGAINST or ABSTAIN                                                                                               Majority of the shares present and entitled to vote on the matter               Same effect as a vote AGAINST the proposal      No broker non-votes are expected - broker discretionary voting is permitted                
+                                                                                                                   The Board recommends a vote “ FOR” the ratification                                                                                                                                                                                                                                                                                              
+  Proposal 5: Management Proposal to Amend Match Group’s Certificate of Incorporation to Declassify the Board      FOR, AGAINST or ABSTAIN                                                                                               Majority of the outstanding shares of stock entitled to vote on the matter      Same effect as a vote AGAINST the proposal      Same effect as a vote AGAINST the proposal – broker discretionary voting is not permitted  
+                                                                                                                   The Board recommends a vote “ FOR” the amendment to the Certificate of Incorporation to declassify the Board                                                                                                                                                                                                                                     
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Q: Could other matters be decided at the Annual Meeting?
+
+A: As of the date of this proxy statement, we did not know of any matters to be raised at the Annual Meeting, other than those referred to in this proxy statement.
+
+If any other matters are properly presented at the Annual Meeting for consideration, the three Match Group officers who have been designated as proxies for the Annual Meeting, Sean J. Edgett, Philip D. Eigenmann and Francisco J. Villamar, will have the discretion to vote on those matters for stockholders who have submitted their executed proxy.
+
+Q: What do I need to do now to vote at the Annual Meeting?
+
+A: Match Group’s Board of Directors is soliciting proxies for use at the Annual Meeting. Stockholders may submit proxies to instruct the designated proxies to vote their shares in any of the following three ways:
+
+• Submitting a proxy online: Submit your proxy online by following the instructions on your enclosed proxy card;
+
+•Submitting a proxy by telephone: Submit your proxy by telephone by following the instructions on your enclosed proxy card. Telephone proxy voting is available 24 hours a day and will close at 11:59 p. m., Eastern Time, on June 17, 2025; or
+
+•Submitting a proxy by mail: If you choose to submit your proxy by mail, simply mark, date and sign your proxy, and return it in the postage-paid envelope provided.
+
+You may also participate in the Annual Meeting online at www. cesonlineservices. com/mtch25_vm and vote your shares online at that time, even if you have previously submitted your vote. Stockholders must pre-register to participate in the Annual Meeting no later than 11:00 a. m. Eastern Time on June 17, 2025. To pre-register to participate in the virtual meeting, go to www. cesonlineservices. com/mtch25_vm and enter the control number included in your Notice, proxy card or the instructions that 
+accompanied your proxy materials. Once you have pre-
+
+registered, you will receive a confirmation email with information on how to attend and vote at the meeting. If the voting instruction form that you received does not indicate that you may vote your shares through the www. cesonlineservices. com/mtch25_vm website, you should contact your bank, broker or other nominee (preferably at least 5 days before the meeting) and obtain a “legal proxy” (which will contain a control number that will allow you to pre-register to attend, participate in or vote
+at the meeting). To vote your shares online, you will need to use the "Stockholder Ballot" link located on the virtual meeting site.
+
+For Match Group shares held in street name, holders may submit a proxy online or by telephone if their broker, bank or other holder of record makes these methods available. If you submit a proxy online or by telephone, do not request and return a printed proxy card from Match Group or from your broker, bank or other holder of record. If you hold your shares through a broker, bank or other holder of record, follow the voting instructions you receive from your broker, bank or other holder of 
+record.
+
+If your shares are held by a broker, then the broker will ask you how you want your shares to be voted. You may instruct your broker or other nominee to vote your shares by following instructions that the broker or nominee provides to you. Most brokers offer voting by mail, by telephone, and online. You may submit new voting instructions by contacting your broker or other nominee or by voting at the Annual Meeting. Please note that in order to attend and vote at the Annual Meeting, you must have
+pre-registered for the meeting no later than 11:00 a. m. Eastern Time on June 17, 2025 and provide a ‘‘legal proxy” from your broker or nominee. Once you have pre-registered, you will receive a confirmation e-mail with information on how to attend and vote at the Annual Meeting.
+
+Q: Can I change my vote or revoke my proxy?
+
+A: Yes. If you are a stockholder of record, you may change your vote or revoke your proxy at any time before the vote at the Annual Meeting by:
+
+• submitting a later-dated proxy relating to the same shares online, by telephone or by mail prior to the vote at the Annual Meeting. Online and telephone proxy voting are available 24 hours a day and will close at 11:59 p. m., Eastern Time, on June 17, 2025;
+
+• delivering a written notice, bearing a date later than your proxy, stating that you revoke the proxy; or
+
+• participating in the Annual Meeting and voting online at that time at www. cesonlineservices. com/mtch25_vm (although online attendance at the Annual Meeting will not, by itself, change your vote or revoke a proxy, and stockholders must pre-register to participate in the Annual Meeting no later than 11:00 a. m. Eastern Time on June 17, 2025).
+
+To change your vote or revoke your proxy, follow the instructions provided on the Notice or the proxy card.
+
+If you hold your shares through a broker, bank or other holder of record, follow the instructions that you receive from your broker, bank or other holder of record if you wish to change your vote or revoke your proxy.
+
+Q: Who can attend the Annual Meeting, and what are the rules for admission at the meeting?
+
+A: Only stockholders and persons holding proxies from stockholders may participate in the Annual Meeting. To participate in the Annual Meeting, stockholders must pre-register to attend the Annual Meeting no later than 11:00 a. m. Eastern Time on June 17, 2025. To pre-register to participate in the virtual meeting, go to www. cesonlineservices. com/mtch25_vm and enter the control number included in your Notice, proxy card or the instructions that accompanied your proxy materials and follow the 
+instructions provided.
+
+Q: What if I do not specify a choice for a matter when returning a proxy?
+
+A: If you return a signed proxy card or voting instruction form without indicating your vote (and the proxy is not revoked), your shares will be voted in accordance with the Board's recommendations, meaning they will be voted “ FOR” the election of all director nominees, “ FOR” the say on pay proposal, “ FOR” the 2024 Stock Plan Proposal, “ FOR” the ratification of the appointment of Ernst & Young LLP as Match Group’s independent registered public accounting firm for the 2025 fiscal year and “ 
+FOR” the approval of the amendment to Match Group’s Certificate of Incorporation to declassify the Board.
+
+Q: What if I give voting instructions for fewer than three candidates?
+
+A: If you vote for fewer than three nominees for director, your shares will only be voted “ FOR” those nominees you have so marked. No discretionary authority is available to vote shares represented by an undervoted proxy card for the remaining director seats up for election.
+
+Q: How are proxies solicited and who bears the related costs?
+
+A: Match Group bears all expenses incurred in connection with the solicitation of proxies. In addition to solicitations by mail, directors, officers and employees of Match Group may solicit proxies from stockholders by telephone, email, letter, facsimile or in person. Following the initial mailing of the Notice and proxy materials, Match Group will request brokers, banks and other holders of record to forward copies of these materials to persons for whom they hold shares of Match Group common 
+stock and to request authority for the exercise of proxies. In such cases, Match Group, upon the request of these holders, will reimburse these parties for their reasonable expenses.
+
+In addition, our directors, officers, and employees may solicit proxies by telephone or other means of communication personally. Our directors, officers and employees will receive no additional compensation for these services other than their regular compensation.
+
+Q: What should I do if I have questions regarding the Annual Meeting?
+
+A: If you have any questions about the Annual Meeting, the various proposals to be voted at the Annual Meeting, and/or how to participate in the Annual Meeting online at www. cesonlineservices. com/mtch25_vm and vote at that time, or would like copies of any of the documents referred to in this proxy statement, contact Match Group Investor Relations atIR@match. com.
+
+Q: Who can I contact with questions about voting?
+
+A: If you have any questions or need assistance voting, please contact our proxy solicitor, Innisfree M& A Incorporated, at (877) 750-8269 (toll-free from the U. S. and Canada), or (412) 232-3651 (from other countries).
+
+PROPOSAL 1 - ELECTION OF DIRECTORS
+
+Proposal and Required Vote
+
+The following nominees have been selected by the Nominating Committee and approved by the Board for submission to our stockholders, each to serve a three-year term expiring at the annual meeting of Match Group’s stockholders in 2028 or until such director’s successor shall have been duly elected and qualified (or, if earlier, such director’s removal or resignation from the Board):
+
+• Stephen Bailey;
+
+• Melissa Brenner; and
+
+• Kelly Campbell.
+
+Information concerning the director nominees appears below. Mr. Bailey and Ms. Brenner are incumbent directors of Match Group. Each of the Board’s nominees has agreed to serve if elected. If any nominee becomes unavailable to serve before the Annual Meeting, the Board may designate a substitute nominee and the persons named as proxies may, in their discretion, vote your shares for the substitute nominee. Alternatively, the Board may reduce the number of directors to be elected at the Annual 
+Meeting. At this time, the Board knows of no reason why any of the Board’s nominees would not be able to serve as a director if elected.
+
+The election of directors will be considered a contested election under Article II Section 9 of Match Group's Bylaws because the number of nominees exceeded the number of directors to be elected as of the 10th day preceding the date Match Group first mailed the Notice. As a result, all director nominees will be elected by a plurality of votes cast at the election of directors, assuming a quorum is present. "Withhold" votes, failure to vote and any broker non-votes will not be counted as votes 
+cast and will result in the applicable nominee(s) receiving fewer votes cast "FOR" such nominee(s).
+
+The Board unanimously recommends that you vote “ FOR” all three nominees listed on the Notice or the enclosed proxy card or voting instruction form and as the Board recommends on all other proposals recommended by the Board.
+
+If you are a registered holder and submit a validly executed proxy card but do not specify how you want to vote your shares with respect to the election of directors, then your shares will be voted in line with the Board’s recommendation with respect to the proposal, i. e., “ FOR” the nominees proposed by your Board and named in this proxy statement.
+
+If you are a beneficial holder and properly mark, sign and return your voting instruction form by mail or complete your proxy via Internet or by telephone, your shares will be voted as you direct your bank or broker. If you date, sign and return your voting instruction form but do not specify how you want your shares voted with respect to the election of directors, they will be voted “ FOR” the nominees proposed by your Board and named in this proxy statement. It is therefore
+
+important that you provide specific instructions to your broker or bank regarding the election of directors so that your vote with respect to this item is counted.
+
+Information Concerning Director Nominees and Other Board Members
+
+Background information about each director nominee recommended by the Board and other directors serving unexpired terms is set forth below, including information regarding the specific experiences, characteristics, attributes and skills that the Nominating Committee and the Board considered in determining that each director should serve on the Board, and which the Nominating Committee and the Board believe provide Match Group with the perspective and judgment needed to guide, monitor and execute
+its strategies. Alan Spoon, an incumbent Board member whose current term expires at the Annual Meeting, has notified the Board of his decision to not stand for re-election.
+
+Nominees for election at theAnnualMeeting to a term expiring in 2028:
+
+  Stephen Bailey            Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director      • Mr. Bailey provides valuable perspective on leadership, business growth, and strategy and development from his experience as Founder and CEO of ExecOnline and CEO and Chief Product Officer of...  
+  Age: 45                   • He has first-hand experience in growing businesses from early-stage start-ups into companies that serve significant audiences across a range of international markets and functions                 
+  Director Since: 2020      • Mr. Bailey has extensive executive management experience which gives him insight into business strategy, leadership and marketing                                                                   
+                            Other Key Skill Sets                                                                                                                                                                                  
+                            • Deep knowledge of leadership development, executive coaching and succession planning                                                                                                                
+                            • Expertise in business development, consumer-facing technology and management processes gained as a technology company founder                                                                       
+                            Employment and Other Experience                                                                                                                                                                       
+                            • 2019 – Present: Board Trustee, Prospect Schools (a charter school network in New York City)                                                                                                         
+                            • 2011 – Present: Co-Founder and CEO, ExecOnline (a leading provider of B2B leadership development solutions)                                                                                         
+                            • 2006 – Present: Board Chair, Truman Center for National Policy                                                                                                                                      
+                            • 2006 – 2011: CEO, Frontier Strategy Group                                                                                                                                                           
+                            • 2004 – 2006: Associate, Wilmer Hale                                                                                                                                                                 
+                            Other Public Company Directorships                                                                                                                                                                    
+                            • 2024 – Present: Ibotta, Inc.                                                                                                                                                                        
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Melissa Brenner           Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director      • Ms. Brenner has extensive marketing and executive management expertise from her experience in a variety of marketing, advertising and digital media roles with the National Basketball Associat...  
+  Age: 50                   • Ms. Brenner brings to the Board valuable experience leading the development, oversight and implementation of a global digital strategy and emerging technology initiatives, including the use o...  
+  Director Since: 2020      • Through her sophisticated understanding of social / digital media communities and network building, she makes valuable contributions to Match Group’s strategy and the Board’s oversight of the...  
+                            • Ms. Brenner further expands the Board’s skills in digital products and mobile applications, as well as developing and growing a brand’s online presence                                             
+                            Other Key Skill Sets                                                                                                                                                                                  
+                            • Deep experience in social media and digital products, having led groundbreaking deals for the NBA with leading social media companies such as Facebook, Twitter (X) and Snapchat                    
+                            • Deep understanding of structure, operations and cost management in an international organization                                                                                                    
+                            Employment and Other Experience                                                                                                                                                                       
+                            • 2018 – Present: Executive Vice President, NBA                                                                                                                                                       
+                            • 2014 – 2017: Senior Vice President, Digital Media, NBA                                                                                                                                              
+                            • 2013 – 2014: Senior Vice President, Marketing, NBA                                                                                                                                                  
+                            • 2007 – 2013: Vice President, Marketing, NBA                                                                                                                                                         
+                            • 1997 – 2007: Various leadership roles in consumer products marketing and advertising, NBA                                                                                                           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Kelly Campbell            Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director      • Ms. Campbell has nearly 20 years of leadership experience across streaming, digital media, marketing, technology, and direct-to-consumer businesses                                                 
+  Age: 47                   • As President of Peacock, she was responsible for growing NBCUniversal’s streaming business and leading the platform’s go-forward strategy                                                           
+                            • Under her leadership, Peacock achieved record growth and was the fastest-growing streaming service in the U. S. for two consecutive years, supported by marquee experiences like Peacock’s Pari...  
+                            • Ms. Campbell previously served as President of Hulu, where she led its subscription and live TV streaming businesses and oversaw its integration into Disney                                        
+                            • She brings a deep understanding of brand, technology, and global marketing from her 12-year tenure at Google, including senior leadership roles in G-Suite marketing, Google Cloud, and AdWords...  
+                            Other Key Skill Sets                                                                                                                                                                                  
+                            • Ability to build strong, high-performing teams across consumer-facing technology businesses                                                                                                         
+                            • Development of brands / brand equity in a competitive landscape                                                                                                                                     
+                            • Expertise in ad-supported and subscription-based digital platforms, especially in subscriber acquisition                                                                                            
+                            • Deep knowledge of data-driven global marketing, brand development, and go-to-market strategy                                                                                                        
+                            Employment and Other Experience                                                                                                                                                                       
+                            • 2021 – 2025: President, Peacock (NBCUniversal)                                                                                                                                                      
+                            • 2020 – 2021: President, Hulu                                                                                                                                                                        
+                            • 2017 – 2020: Chief Marketing Officer, Hulu                                                                                                                                                          
+                            • 2015 – 2017: Senior Director, Global Marketing, Google Cloud                                                                                                                                        
+                            • 2011 – 2015: Director, Global Marketing, Google Cloud                                                                                                                                               
+                            • 2010 – 2011: Director, Global Customer Marketing, Google                                                                                                                                            
+                            • 2008 – 2010: Head of North America Marketing, Google                                                                                                                                                
+                            • 2008: Head of Online Sales & Operations, AdWords Japan, Google                                                                                                                                      
+                            • 2005 – 2008: Senior Manager, Online Sales & Operations, AdWords North America, Google                                                                                                               
+                            • 2004: Global Marketing Intern, Procter & Gamble (Gillette)                                                                                                                                          
+                            • 2000 – 2002: Investment Banking Analyst, J. P. Morgan                                                                                                                                               
+                            Other Public Company Directorships                                                                                                                                                                    
+                            • 2021 – Present: Urban Outfitters, Inc.                                                                                                                                                              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Directors whose terms expire in 2026:
+
+  Sharmistha Dubey          Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Director                  • Ms. Dubey brings deep experience in executive management, product development, marketing and branding, engineering and revenue functions at global, consumer-facing Internet companies              
+  Age: 54                   • Ms. Dubey has expertise in providing oversight of a portfolio of brands at different stages of growth and development                                                                               
+  Director Since: 2019      • She provides the Board valuable, first-hand and specific insight into Match Group’s operations given her extensive knowledge of the Company and its brands throughout their evolution               
+                            • Ms. Dubey has successfully delivered product launches and the shift to subscription models, and driven monetization, providing key perspective to the Board as it continues to provide oversigh...  
+                            Other Key Skill Sets                                                                                                                                                                                  
+                            • Extensive operational, strategic planning and product innovation knowledge                                                                                                                          
+                            • Deep understanding of the strategic and leadership needs of technology companies at different stages of their growth                                                                                
+                            • Diverse risk management expertise from managing unique risks of several different Match Group brands                                                                                                
+                            • Understanding of merger and acquisition execution from her time involved in a variety of acquisitions as a Match Group executive, including overseeing the acquisition of Hinge                     
+                            Employment and Other Experience                                                                                                                                                                       
+                            • 2022 – Present: Operating Partner, Advent International (a global private equity investing firm)                                                                                                    
+                            • 2020 – 2022: Chief Executive Officer, Match Group                                                                                                                                                   
+                            • 2018 – 2020: President, Match Group                                                                                                                                                                 
+                            • 2017: Chief Operating Officer, Tinder                                                                                                                                                               
+                            • 2016 – 2017: North America President, Match Group                                                                                                                                                   
+                            • 2014 – 2016: Chief Product Officer, Princeton Review and Tutor.com                                                                                                                                  
+                            • 2013 – 2014: EVP, Tutor.com                                                                                                                                                                         
+                            • 2013: Chief Product Officer, Match.com                                                                                                                                                              
+                            • 2008 – 2012: SVP Product, Match.com, Chemistry.com                                                                                                                                                  
+                            • 2006 – 2008: Senior Director, Product, Match.com                                                                                                                                                    
+                            • 2001 – 2006: Director, Product Marketing and Management, i2 Technologies                                                                                                                            
+                            • 1998 – 2001: Product Manager, i2 Technologies                                                                                                                                                       
+                            Other Public Company Directorships                                                                                                                                                                    
+                            • 2022 – Present: Naspers Limited                                                                                                                                                                     
+                            • 2022 – Present: Prosus Group                                                                                                                                                                        
+                            • 2020 – Present: FORTIVE Corporation (Chair, 2025 – Present)                                                                                                                                         
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Laura Rachel Jones        Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director      • Given her experience leading marketing and branding efforts at Visa, Google, Uber and most recently as Chief Marketing Officer of Instacart, Ms. Jones offers valuable insight to the Board and...  
+  Age: 43                   • She has deep expertise in shaping and refreshing brands, fueling a company's growth, and developing a world-class marketing organization, all of which are invaluable to the Board as it contin...  
+  Director Since: 2024      • Ms. Jones has successfully created best-in-class marketing organizations that have shaped brands and fueled growth at a variety of consumer-facing companies                                        
+                            • Her work has been recognized by and featured in top industry and consumer publications                                                                                                              
+                            Other Key Skill Sets                                                                                                                                                                                  
+                            • Building and developing global marketing teams from the ground up                                                                                                                                   
+                            • Significant expertise in marketing and the consumer Internet industry and success in driving brand refreshes                                                                                        
+                            • Strong leadership of marketing functions encompassing brand, partner, and product marketing across broad product portfolios                                                                         
+                            Employment and Other Experience                                                                                                                                                                       
+                            • 2023 – Present: Board Member, UNICEF USA                                                                                                                                                            
+                            • 2022 – Present: Chief Marketing Officer, Instacart                                                                                                                                                  
+                            • 2021 – 2022: Head of Marketing, and VP, Brand & Marketing, Instacart                                                                                                                                
+                            • Feb 2021 – May 2021: Global Head of Marketing, Rides & Masterbrand, Senior Director, Uber                                                                                                           
+                            • 2018 – 2021: Global Head of Product Marketing, Director, Uber                                                                                                                                       
+                            • 2016 – 2018: Group Product Marketing Manager, Uber                                                                                                                                                  
+                            • 2015 – 2016: Senior Product Marketing Manager, Uber                                                                                                                                                 
+                            • 2011 – 2015: Brand & Marketing Communications, Commerce, Google                                                                                                                                     
+                            • 2010 – 2011: Business Leader, Innovations and eCommerce Marketing, Visa                                                                                                                             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Ann L. McDaniel                                 Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director                            • Ms. McDaniel has deep expertise and insight into human resources, business strategy, leadership and marketing and in the management of a portfolio of brands at an interactive media company, h...  
+  Age: 69                                         • Ms. McDaniel’s insight into executive management and compensation matters from her time at Graham Holdings Company adds to the Board’s ability to provide a well-rounded, considered approach t...  
+  Director Since: 2015                            Other Key Skill Sets                                                                                                                                                                                  
+                                                  • Insightful perspective on the shifting marketing and branding landscape in consumer-facing media                                                                                                    
+                                                  Employment and Other Experience                                                                                                                                                                       
+                                                  • 2020 – Present: Member of the Board of Advisors, ExecOnline                                                                                                                                         
+                                                  • 2017 – 2022: CEO, Foreign Policy Magazine                                                                                                                                                           
+                                                  • 2015 – Present: Consultant, Graham Holdings Company                                                                                                                                                 
+                                                  • 2010 – 2012: Managing Director, Newsweek                                                                                                                                                            
+                                                  • 2008 – 2015: Senior Vice President, Graham Holdings Company                                                                                                                                         
+                                                  • 2001 – 2008: Vice President, Human Resources, The Washington Post Company                                                                                                                           
+                                                  • 2001 – 2008: Vice President, The Washington Post Company                                                                                                                                            
+                                                  • 1984 – 2000: Correspondent, Chief of Correspondents, Assistant Managing Editor, Managing Editor, Newsweek                                                                                           
+  Thomas J. McInerney                             Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Chairman and Independent Director               • Mr. McInerney brings to the board 25+ years of executive management and branding experience across a career spanning industries, including media, retail, entertainment and financial services      
+  Age: 60                                         • Mr. McInerney offers valuable insight into strategy and operations, including as it relates to growing and managing a portfolio of brands from his time as CEO of the retailing division of the...  
+  Director Since: 2015 (Chairman since 2021)      • Mr. McInerney has significant senior leadership experience from his time at Former IAC as well as extensive related knowledge and experience regarding Match Group                                  
+                                                  • Through his deep public company board and committee experience, Mr. McInerney has developed a highly sophisticated perspective on business management and organizational structure                  
+                                                  Other Key Skill Sets                                                                                                                                                                                  
+                                                  • High level of financial literacy and expertise regarding restructurings, mergers and acquisitions and operations                                                                                    
+                                                  • Ability to manage diverse, multifaceted global teams across the multimedia landscape from decades of experience at the nexus of entertainment, media and consumer engagement                        
+                                                  • Sophisticated awareness of online retail and consumer behavior and trends, as well as extensive marketing and branding experience                                                                   
+                                                  Employment and Other Experience                                                                                                                                                                       
+                                                  • 2017 – 2021: Chief Executive Officer, Altaba Inc. (a publicly traded registered investment company and successor to Yahoo! Inc.)                                                                    
+                                                  • 2005 – 2012: Executive Vice President and Chief Financial Officer, IAC/InterActiveCorp                                                                                                              
+                                                  • 2003 – 2005: Chief Executive Officer, retailing division of IAC/InterActiveCorp (including HSN, Inc. and Cornerstone Brands)                                                                        
+                                                  • 1999 – 2003: Executive Vice President and Chief Financial Officer, Ticketmaster                                                                                                                     
+                                                  • 1986 – 1988; 1990 – 1999: Morgan Stanley, most recently as Principal                                                                                                                                
+                                                  Other Public Company Directorships                                                                                                                                                                    
+                                                  • 2017 – Present: Altaba (Chair, 2022 – Present)                                                                                                                                                      
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Directors whose terms expire in 2027:
+
+  Darrell Cavens                                                              Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director                                                        • Mr. Cavens has over 20 years of executive leadership and digital/e-commerce expertise                                                                                                               
+  Age: 52                                                                     • As co-founder and CEO of Zulily, Mr. Cavens has first-hand experience in building a consumer-focused brand and company, as well as completing liquidity events                                      
+  (appointed in connection with and effective as of, the Annual Meeting)      • Across his career, Mr. Cavens developed expertise leading and driving creative technology and retail concepts                                                                                       
+                                                                              • During his time at Qurate, he led efforts to drive growth through internal innovation, strategic partnerships, joint ventures and acquisitions                                                      
+                                                                              • Mr. Cavens has deep knowledge of technology infrastructure and digital commerce, gained from his leadership roles at Microsoft and Blue Nile, where he played a key role in growing the company...  
+                                                                              • From his time on a number of different company boards, Mr. Cavens brings strategic oversight and governance experience across consumer retail, technology, and e-commerce businesses                
+                                                                              Other Key Skill Sets                                                                                                                                                                                  
+                                                                              • Expertise in online retailing, technology and data analytics                                                                                                                                        
+                                                                              • Software development experience, including the development of large-scale digital properties such as ESPN.com and NBA.com                                                                           
+                                                                              Employment and Other Experience                                                                                                                                                                       
+                                                                              • 2021 – Present: Board Member, Vouched (privately held)                                                                                                                                              
+                                                                              • 2019 – Present: Advisory Board Member, Brooks Running (privately held)                                                                                                                              
+                                                                              • 2019 – Present: Board Member, Rad Power Bikes (privately held)                                                                                                                                      
+                                                                              • 2017 – 2018: President, Qurate Retail Group                                                                                                                                                         
+                                                                              • 2017 – 2021: Board Member, OfferUp (privately held)                                                                                                                                                 
+                                                                              • 2017 – 2021: Board Member, Deliveroo (privately held)                                                                                                                                               
+                                                                              • 2016 – 2017: Board Member, Plated (privately held)                                                                                                                                                  
+                                                                              • 2012 – 2014: Board Member, Trupanion (privately held)                                                                                                                                               
+                                                                              • 2009 – 2018: Chief Executive Officer, Zulily                                                                                                                                                        
+                                                                              • 2008 – 2009: Director, SQLServer/Biztalk Server, Microsoft                                                                                                                                          
+                                                                              • 1999 – 2008: Chief Technology Officer and Senior Vice President, Blue Nile                                                                                                                          
+                                                                              • 1996 – 1999: Advanced Technology Team, Starwave                                                                                                                                                     
+                                                                              • 1995: Consultant, Ingenia Communications                                                                                                                                                            
+                                                                              Other Public Company Directorships                                                                                                                                                                    
+                                                                              • 2018 – Present: Tapestry, Inc.                                                                                                                                                                      
+                                                                              Previous Public Company Directorships                                                                                                                                                                 
+                                                                              • 2021 – 2022: Big Sky Growth Partners, Inc.                                                                                                                                                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Spencer Rascoff                           Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Director and Chief Executive Officer      • Mr. Rascoff’s proven track record scaling consumer Internet businesses, most notably as co-founder and former CEO of Zillow, is directly relevant to helping Match Group continue to innovate a...  
+  Age: 49                                   • His brand-building experience in the online consumer products space adds to the Board’s collective experience and insight on how to effectively build brands and foster collaboration across teams  
+  Director Since: 2024                      • Mr. Rascoff has significant insights into the strategy, innovation and continuous brand evolution required to develop, lead and grow a consumer Internet business that embraces technological a...  
+                                            • As CEO of Match Group, Mr. Rascoff provides the board with direct operating experience and insight into Match Group’s current business opportunities and challenges                                 
+                                            Other Key Skill Sets                                                                                                                                                                                  
+                                            • Unique vantage point on disruptive technology and AI, and how they can be leveraged to support / grow a business                                                                                    
+                                            • Significant experience as a technology entrepreneur                                                                                                                                                 
+                                            • Insight into changing consumer trends and behaviors                                                                                                                                                 
+                                            • Understanding of strategic dealmaking and investing in growth businesses                                                                                                                            
+                                            Employment and Other Experience                                                                                                                                                                       
+                                            • 2025 – Present: Chief Executive Officer, Match Group                                                                                                                                                
+                                            • 2021 – Present: Founder and CEO, 75 & Sunny (startup studio and family office)                                                                                                                      
+                                            • 2020 – Present: Co-Founder, Chairman of the Board, Pacaso (vacation home marketplace)                                                                                                               
+                                            • 2019 – Present: Visiting Professor, Harvard University                                                                                                                                              
+                                            • 2019 – 2024: Co-Founder, Executive Chairman, dot. LA (media and events company)                                                                                                                     
+                                            • 2005 – 2019: Co-Founder and CEO, Zillow Group                                                                                                                                                       
+                                            • 2003 – 2005: VP, Lodging, Expedia                                                                                                                                                                   
+                                            • 1999 – 2003: Co-founder, VP Corporate Development, Hotwire.com                                                                                                                                      
+                                            • 1999 – 2000: Investment Professional, Texas Pacific Group                                                                                                                                           
+                                            • 1997 – 1999: Investment Banker, Goldman Sachs                                                                                                                                                       
+                                            Previous Public Company Directorships                                                                                                                                                                 
+                                            • 2021 – 2023: Supernova Partners Acquisition Company III, Ltd.                                                                                                                                       
+                                            • 2020 – 2022: Palantir Technologies, Inc.                                                                                                                                                            
+                                            • 2020 – 2022: Supernova Partners Acquisition Company II, Ltd.                                                                                                                                        
+                                            • 2020 – 2021: Supernova Partners Acquisition Company, Inc.                                                                                                                                           
+                                            • 2013 – 2020: TripAdvisor, Inc.                                                                                                                                                                      
+                                            • 2011 – 2020: Zillow Group, Inc.                                                                                                                                                                     
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Glenn H. Schiffman        Key Experience, Qualifications and Board Contributions                                                                                                                                                
+  Independent Director      • Mr. Schiffman has deep financial knowledge and expertise, bringing to the Board decades of experience in dealmaking, corporate finance, banking, financial planning and analysis, investor rela...  
+  Age: 55                   • From his current role as Chief Financial Officer of Fanatics, Inc., Mr. Schiffman has valuable insight into a broad set of financial and corporate functions across an entire global enterprise...  
+  Director Since: 2016      • Mr. Schiffman understands how to drive a business’ strategy and growth objectives from his executive management and public board experience working with dozens of online brands and services       
+                            • During his tenure at IAC, Mr. Schiffman was integral in the company’s operations and cost management initiatives                                                                                    
+                            Other Key Skill Sets                                                                                                                                                                                  
+                            • Advanced understanding of consumer Internet / technology companies to drive long-term results and adapt to changing ways to interact with and reach consumers                                       
+                            • Critical understanding of international relations and international business from work as a member of the National Committee on U. S. – China Relations                                             
+                            • Execution of successful, large, global transactions                                                                                                                                                 
+                            • Endowing organizations and funding initiatives with permanent capital to make lasting change                                                                                                        
+                            Employment and Other Experience                                                                                                                                                                       
+                            • 2021 – Present: Executive Vice President and Chief Financial Officer, Fanatics, Inc.                                                                                                                
+                            • 2023: Donor, Endowment at Duke University to fund scholarships for athletes from underrepresented communities                                                                                       
+                            • 2021: Donor, Endowment at Washington & Lee for Women’s Athletics                                                                                                                                    
+                            • 2016 – 2021: Executive Vice President and Chief Financial Officer, IAC Inc.                                                                                                                         
+                            • 2013 – 2016: Senior Managing Director, Guggenheim Partners                                                                                                                                          
+                            • 2013, 2019: Donor, Endowment at Duke Medical Center for pediatric cancer                                                                                                                            
+                            • 2011 – 2013: Partner, The Raine Group                                                                                                                                                               
+                            • 2010 – 2011: Senior Managing Director, Head of Investment Banking, Americas, Nomura                                                                                                                 
+                            • 2008 – 2010: Senior Managing Director, Head of Investment Banking, APAC CEO, Nomura                                                                                                                 
+                            • 2007 – 2008: Managing Director, Head of Investment Banking APAC, Lehman Brothers                                                                                                                    
+                            • 2005: Founder and Chairman, Valerie Fund Endowment                                                                                                                                                  
+                            • 2004 – 2007: Managing Director, Global Head of Media Group, Lehman Brothers                             
+
+[Proxy truncated]

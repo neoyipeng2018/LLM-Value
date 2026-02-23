@@ -1,0 +1,2 @@
+ticker,company_name,transcript_score,transcript_decision,filings_score,filings_decision,combined_decision,transcript_chars,filings_tenk_date,filings_proxy_date,errors
+MO,"ALTRIA GROUP, INC.",7,PASS,-2,FAIL,FAIL,38965,2025-02-26,2025-04-03,

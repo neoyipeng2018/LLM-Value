@@ -1,0 +1,502 @@
+[
+  {
+    "ticker": "ANF",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/ANF?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "ATGE",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/ATGE?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "MO",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/MO?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "AMCX",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/AMCX?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "BMBL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/BMBL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "CPRX",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CPRX?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "CRNC",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CRNC?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "GIB",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GIB?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "COLL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/COLL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "CCSI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CCSI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "CRMD",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CRMD?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "CROX",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CROX?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "EGHSF",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/EGHSF?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "EVER",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/EVER?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "GEN",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GEN?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "GETY",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GETY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "GCT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GCT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "HRB",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/HRB?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "HRMY",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/HRMY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "HPQ",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/HPQ?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "IDT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/IDT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "INVA",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/INVA?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "IRWD",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/IRWD?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "JILL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/JILL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "WLY",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/WLY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "KROS",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/KROS?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "KFY",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/KFY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "MTCH",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/MTCH?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "NL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/NL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "OSPN",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/OSPN?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "MD",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/MD?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "PRDO",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PRDO?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "PXED",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PXED?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "PBI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PBI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "PLTK",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PLTK?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "PTCT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PTCT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "PBYI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PBYI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "RIGL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/RIGL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "RMNI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/RMNI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "SBC",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SBC?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "SSTK",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SSTK?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "SIGA",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SIGA?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "SIRI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SIRI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "STRA",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/STRA?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "CI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "TNET",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/TNET?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "UPWK",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/UPWK?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "VSNT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/VSNT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "XPOF",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/XPOF?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  },
+  {
+    "ticker": "YELP",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/YELP?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "passed": false
+  }
+]

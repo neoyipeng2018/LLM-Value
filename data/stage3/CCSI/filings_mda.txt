@@ -1,0 +1,365 @@
+Item 7.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+In addition to historical information, the following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements. These forward-looking statements involve risks, uncertainties and assumptions. The actual results may differ materially from those anticipated in these forward-looking statements as a result of many factors, including but not limited to those discussed in Part I, Item 1A - “Risk Factors” in this Annual Report on Form 10-K. Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management’s opinions only as of the date hereof. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Readers should carefully review the Risk Factors and the risk factors set forth in other documents we file from time to time with the SEC.
+
+Overview
+
+Consensus is a leading provider of secure information delivery services. With our most prominent brand eFax® established over twenty-five years ago, Consensus has now evolved the service platform from pure cloud Fax to efficient and secure information exchange featuring solutions for data extraction, comprehension and transformation, facilitating interoperability and process improvement. Consensus is committed to security and compliance in data exchange, and our scalable Software-as-a-Service (“SaaS”) platform is particularly attractive to regulated industries like healthcare and healthcare technology, public sector, financial services, law, and education. We offer local phone numbers in 46 countries and/or territories, servicing approximately 703 thousand customers ranging from small businesses to large enterprises and the federal government. Each customer cohort has unique needs and engagement preferences, and our go-to-market and customer service offerings are adapted across this continuum to serve each appropriately. Our top 10 customers represent approximately $32.7 million or 9% of total revenues.
+
+Over the past decade, Consensus has increasingly focused on larger commercial customers (“Corporate”) and public sector customers. This shift occurred as enterprise data communication moved toward digitization and cloud-based solutions. Sales to these customers are made through e-commerce and direct interaction with a salesperson, and often involve specific pricing, multiple line subscriptions, API connections, and/or commercial grade security. Sales channels include e-commerce, direct sales and sales through or referred by channel and strategic partners. 
+
+-35-
+
+Key Performance Metrics
+
+We use the following metrics to generally assess the operational and financial performance of our business, including the growth of our business, the value provided by customers to our business and our customer retention that provide insights that contribute to certain of our business planning decisions. We believe these financial measures are useful to investors both because (1) they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making and (2) they are used by our institutional investors and the analyst community to help them analyze the health of our business.
+
+The following table sets forth certain key performance metrics for our operations for the years ended December 31, 2025, 2024 and 2023 (in thousands, except for percentages and Average Revenue per Customer Account):
+
+ Years Ended December 31,
+
+ 202520242023
+
+Revenue
+
+Corporate$222,682$209,112$199,621 
+
+SoHo
+
+127,002141,258162,916 
+
+Total
+
+349,684350,370362,537 
+
+Other revenues
+
+121225 
+
+Consolidated$349,696$350,382$362,562 
+
+Average Revenue per Customer Account (“ARPA”) (1)(2)
+
+Corporate$300.03$310.67$315.51
+
+SoHo$15.58$15.39$15.64
+
+Consolidated$39.32$35.57$32.82
+
+Customer Accounts (1)
+
+Corporate65 59 54 
+
+SoHo638 721 809 
+
+Consolidated703 780 863 
+
+Paid Adds (3)
+
+Corporate27 18 12 
+
+SoHo217 247 274 
+
+Consolidated244 265 286 
+
+Monthly Churn % (4)
+
+Corporate3.03 %2.36 %1.49 %
+
+SoHo3.64 %3.56 %3.66 %
+
+Consolidated3.59 %3.48 %3.54 %
+
+(1)Consensus customers are defined as paying Corporate and SoHo customer accounts. In the second quarter of 2025, we eliminated dormant accounts not contributing to revenue from the number of SoHo customer accounts. The prior year periods have been revised for consistency with the current year, and all metrics calculated based on the number of customer accounts (including ARPA and Monthly Churn %) are calculated based on the revised numbers. As a result of this change, the number of SoHo customer accounts for 2024 and 2023 decreased by 26 thousand and 22 thousand, respectively.
+
+(2)Represents a monthly ARPA for the year, calculated as follows: monthly ARPA on an annual basis is calculated by dividing revenue for the year by the average customer base for the applicable period and dividing that amount by 12 months. We believe ARPA provides investors an understanding of the average monthly revenues we recognize per account associated within Consensus’ customer base. As ARPA varies based on fixed subscription fee and variable usage components, we believe it can serve as a measure by which investors can evaluate trends in the types of services, levels of services and the usage levels of those services across Consensus’ customers.
+
+(3)Paid Adds represents paying new Consensus customer accounts added during the annual period.
+
+-36-
+
+(4)Monthly churn represents paid monthly Corporate and SoHo customer accounts that were cancelled during each month of the annual period, divided by the average number of customers during each month of the same annual period (including the paid adds). The period measured is annual and expressed as a monthly churn rate over the annual period.
+
+Critical Accounting Policies and Estimates
+
+We prepare our consolidated financial statements and related disclosures in accordance with U.S. generally accepted accounting principles (“GAAP”) and our discussion and analysis of our financial condition and operating results requires us to make judgments, assumptions and estimates that affect the amounts reported in our consolidated financial statements and accompanying notes. See Note 2 - Basis of Presentation and Summary of Significant Accounting Policies of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Form 10-K, which describes the significant accounting policies and methods used in the preparation of our consolidated financial statements. We base our estimates on historical experience and on various other assumptions we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities. Actual results may differ significantly from those estimates under different assumptions and conditions and may be material. 
+
+We believe that our most critical accounting policies are those related to revenue recognition, internal-use software development costs, share-based compensation expense, income taxes and tax contingencies. We consider these policies critical because they are those that are most important to the portrayal of our financial condition and results and require management’s most difficult, subjective and complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. Senior management has reviewed these critical accounting policies and related disclosures with the Audit Committee of the Company’s Board of Directors.
+
+Revenue Recognition
+
+We earn revenue from contracts with customers, primarily through the provision of cloud-based communication and digital signature solutions that allow customers to access our software without taking possession. The contracts include both recurring subscription and usage-based fees, and the total transaction price is allocated to performance obligations in each contract as appropriate. Revenue for cloud-based services is recognized over time in the period earned. The contracts may be terminated early. Fees collected in advance are non-refundable, and they are deferred and recognized in revenue when the related performance obligations are satisfied. Standard Corporate contracts billed monthly include a termination charge equal to the minimum fees payable through the last day of the contract term.
+
+Along with our numerous proprietary solutions, we also generate revenues by reselling various third-party solutions. These third-party solutions, along with our proprietary products, allow us to offer customers a variety of solutions to better meet their needs. We record revenue on a gross basis with respect to reseller revenue because we have control of the specified good or service prior to transferring control to the customer. See Note 3 - Revenues of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Form 10-K.
+
+Internal-Use Software Development Costs
+
+We capitalize certain internal-use software and website development costs that are incurred during the application development stage, provided that management with the relevant authority authorizes and commits to the funding of the project, it is probable the project will be completed, and the software will be used to perform the function intended. Costs related to preliminary project activities and post implementation activities are expensed as incurred. Capitalized internal-use software development costs are included in property and equipment and are amortized on a straight-line basis over their estimated useful lives. There is judgment involved in estimating the stage of development as well as estimating time allocated to a particular project. A significant change in the time spent on each project could have a material impact on the amount capitalized and related amortization expense in subsequent periods. See Note 5 - Property and Equipment of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Form 10-K. 
+
+Share-Based Compensation Expense
+
+We account for share-based awards to employees and non-employees in accordance with the provisions of FASB ASC Topic No. 718, Compensation - Stock Compensation (“ASC 718”). Accordingly, we measure share-based compensation expense at the grant date, based on the fair value of the award, and recognize the expense over the employee’s requisite service period using the straight-line method. The measurement of share-based compensation expense is based on several criteria 
+
+-37-
+
+including, but not limited to, the valuation model used and associated input factors, such as the stock price on the date of grant, expected term of the award, stock price volatility, risk free interest rate, dividend rate and forfeiture rate. These inputs are subjective and are determined using management’s judgment. 
+
+For awards with performance-based conditions, share-based compensation expense is recognized using the graded-vesting method over the requisite service period if it is probable that the performance condition will be satisfied. The share-based compensation expense for performance-based awards is evaluated each quarter based on the achievement of the performance conditions. The effect of a change in the estimated number of performance-based awards expected to be earned is recognized in the period those estimates are revised.
+
+If differences arise between the assumptions used in determining share-based compensation expense and the actual factors, which become known over time, we may change the input factors used in determining future share-based compensation expense. Any such changes could materially impact our results of operations in the period in which the changes are made and in periods thereafter. The Company estimates the expected term based upon the contractual term of the award. See Note 13 - Equity Incentive and Employee Stock Purchase Plan of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Form 10-K.
+
+Income Taxes
+
+Our income is subject to taxation in the U.S. and numerous foreign jurisdictions. Significant judgment is required in evaluating our tax positions and determining our provision for income taxes. During the ordinary course of business, there are many transactions and calculations for which the ultimate tax determination is uncertain. We establish reserves for tax-related uncertainties based on estimates of whether, and the extent to which, additional taxes will be due. These reserves for tax contingencies are established when we believe that certain positions might be challenged despite our belief that our tax return positions are fully supportable. We adjust these reserves in light of changing facts and circumstances, such as the outcome of a tax audit or lapse of a statute of limitations. The provision for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate.
+
+We account for income taxes in accordance with FASB ASC Topic No. 740, Income Taxes (“ASC 740”), which requires that deferred tax assets and liabilities are recognized using enacted tax rates for the effect of temporary differences between the book and tax basis of recorded assets and liabilities. GAAP also requires that deferred tax assets are reduced by a valuation allowance if it is more likely than not that some or all of the net deferred tax assets will not be realized. Our valuation allowance is reviewed quarterly based upon the facts and circumstances known at the time. In assessing this valuation allowance, we review historical and future expected operating results and other factors to determine whether it is more likely than not that deferred tax assets are realizable. See Note 11 - Income Taxes of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Form 10-K.
+
+Income Tax Contingencies
+
+We calculate current and deferred tax provisions based on estimates and assumptions that could differ from the actual results reflected in income tax returns filed during the following year. Adjustments based on filed returns are recorded when identified in the subsequent year.
+
+ASC 740 provides guidance on the minimum threshold that an uncertain income tax position is required to meet before it can be recognized in the financial statements and applies to all tax positions taken by a company. ASC 740 contains a two-step approach to recognizing and measuring uncertain income tax positions. The first step is to evaluate the income tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained upon audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. If it is not more likely than not that the benefit will be sustained on its technical merits, no benefit will be recorded. Uncertain income tax positions that relate only to timing of when an item is included on a tax return are considered to have met the recognition threshold. We recognize accrued interest and penalties related to uncertain income tax positions in income tax expense on our Consolidated Statements of Income. On a quarterly basis, we evaluate uncertain income tax positions and establish or release reserves as appropriate under GAAP.
+
+As a multinational corporation, we are subject to taxation in many jurisdictions, and the calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws and regulations in various taxing 
+
+-38-
+
+jurisdictions. Our estimate of the potential outcome of any uncertain tax issue is subject to management’s assessment of relevant risks, facts and circumstances existing at that time. Therefore, the actual liability for U.S. or foreign taxes may be materially different from our estimates, which could result in the need to record additional tax liabilities or potentially to reverse previously recorded tax liabilities. In addition, we may be subject to examination of our tax returns by the U.S. Internal Revenue Service (“IRS”) and other domestic and foreign tax authorities.
+
+Recent Accounting Pronouncements
+
+See Note 2 - Basis of Presentation and Summary of Significant Accounting Policies, to our accompanying consolidated financial statements for a description of recent accounting pronouncements and our expectations of their impact on our consolidated financial position and results of operations.
+
+Results of Operations
+
+Years Ended December 31, 2025, 2024 and 2023
+
+    The main strategic focus of our offerings is to enable our customers to securely and cooperatively access, exchange and use information across organizational, regional and national boundaries. As a result, we expect to continue to take steps to enhance our existing offerings and offer new services to continue to satisfy the evolving needs of our customers. 
+
+We expect our business to primarily grow organically and inorganically through the use of capital for re-investment in the business and opportunistic acquisitions that expedite our product roadmap in the interoperability space should they arise. 
+
+The following table sets forth information derived from our Consolidated Statements of Income as a percentage of revenues for the years ended December 31, 2025, 2024 and 2023. This information should be read in conjunction with the accompanying financial statements and the Notes to the Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K.
+
+Years Ended December 31,
+
+202520242023
+
+Revenues100%100%100%
+
+Cost of revenues202019
+
+Gross profit808081
+
+Operating expenses:
+
+Sales and marketing151518
+
+Research, development and engineering222
+
+General and administrative202120
+
+Total operating expenses373840
+
+Income from operations434241
+
+Interest expense(10)(10)(13)
+
+Interest income111
+
+Other (expense) income, net(1)1(1)
+
+Income before income taxes333428
+
+Income tax expense897
+
+Net income25%25%21%
+
+-39-
+
+Revenues
+
+(in thousands, except percentages)202520242023Percentage Change 2025 versus 2024
+
+Percentage Change 2024 versus 2023
+
+Revenues$349,696 $350,382 $362,562 —%(3)%
+
+Consensus revenues primarily consist of revenues from “fixed” customer subscription revenues and “variable” revenues generated from actual usage of our services.
+
+Revenues decreased by $0.7 million for the year ended December 31, 2025 compared to the prior comparable period. The reduction is the result of a $14.3 million decline in SoHo revenues, partially offset by an increase in Corporate revenues of $13.6 million, due to organic growth in customer usage and new customer acquisitions.
+
+Revenues decreased by $12.2 million for the year ended December 31, 2024 compared to the prior comparable period. The reduction is the result of a $21.7 million decline in SoHo revenues, partially offset by an increase in Corporate revenues of $9.5 million due to organic growth in customer usage and new customer acquisitions. 
+
+Cost of Revenues
+
+(in thousands, except percentages)202520242023Percentage Change 2025 versus 2024
+
+Percentage Change 2024 versus 2023
+
+Cost of revenues$70,601 $69,688 $68,319 1%2%
+
+As a percent of revenues20 %20 %19 %
+
+Cost of revenues is primarily comprised of costs associated with personnel costs (inclusive of share-based compensation), data transmission, online processing fees, network operations as well as capitalized software amortization and equipment depreciation. 
+
+The increase in cost of revenues for the year ended December 31, 2025 over the prior comparable period was primarily due to an increase of $1.5 million in data transmission costs, partially offset by a decrease of $0.5 million in depreciation associated with platform development costs.
+
+The increase in cost of revenues for the year ended December 31, 2024 over the prior comparable period was primarily due to an increase of $3.1 million in depreciation associated with platform development costs, partially offset by decreases of $0.7 million in online processing fees, $0.4 million in data transmission costs and $0.2 million in personnel-related expenses.
+
+-40-
+
+Operating Expenses
+
+Sales and Marketing
+
+(in thousands, except percentages)202520242023Percentage Change 2025 versus 2024
+
+Percentage Change 2024 versus 2023
+
+Sales and marketing$51,548 $51,065 $65,084 1%(22)%
+
+As a percent of revenues15 %15 %18 %
+
+Our sales and marketing costs consist primarily of personnel costs (inclusive of share-based compensation), internet-based advertising and other business development-related expenses. Our internet-based advertising relationships consist primarily of fixed cost and performance-based (cost-per-impression, cost-per-click and cost-per-acquisition) advertising relationships with an array of online service providers. Our sales personnel consist of a combination of inside sales and outside sales professionals.
+
+Sales and marketing expenses for the year ended December 31, 2025 were consistent with the prior comparable period.
+
+The decrease in sales and marketing expenses of $14.0 million for the year ended December 31, 2024 over the prior comparable period was primarily due to a reduction in third-party advertising spend of $14.3 million, predominantly in SoHo.
+
+Research, Development and Engineering
+
+(in thousands, except percentages)202520242023Percentage Change 2025 versus 2024
+
+Percentage Change 2024 versus 2023
+
+Research, development and engineering$7,464 $7,683 $7,727 (3)%(1)%
+
+As a percent of revenues2 %2 %2 %
+
+Our research, development and engineering costs consist primarily of personnel-related expenses (inclusive of share-based compensation). 
+
+Research, development and engineering costs for the years ended December 31, 2025, 2024, and 2023 remained consistent year-to-year.
+
+General and Administrative
+
+(in thousands, except percentages)202520242023Percentage Change 2025 versus 2024
+
+Percentage Change 2024 versus 2023
+
+General and administrative$69,844 $72,546 $74,203 (4)%(2)%
+
+As a percent of revenues20 %21 %20 %
+
+Our general and administrative costs consist primarily of personnel-related expenses (inclusive of share-based compensation), depreciation and amortization, professional fees, bad debt expense and non-income related tax expenses.
+
+The decrease in general and administrative expense of $2.7 million for the year ended December 31, 2025 over the prior comparable period was primarily due to decreases of $1.3 million in depreciation and amortization expense, $0.9 million in non-income related tax expenses and $0.9 million in bad debt expense, partially offset by an increase of $0.7 million in personnel-related expenses.
+
+The decrease in general and administrative expense of $1.7 million for the year ended December 31, 2024 over the prior comparable period was primarily due to decreases of $2.5 million in professional fees and $0.8 million in bad debt expense, partially offset by an increase of $1.7 million in computer-related equipment costs.
+
+-41-
+
+Share-Based Compensation
+
+The following table represents share-based compensation expense included in cost of revenues and operating expenses in the accompanying Consolidated Statements of Income for the years ended December 31, 2025, 2024 and 2023 (in thousands):
+
+Years Ended December 31,
+
+202520242023
+
+Cost of revenues$2,094 $2,138 $1,400 
+
+Operating expenses:
+
+      Sales and marketing3,071 2,750 1,679 
+
+      Research, development and engineering702 622 379 
+
+      General and administrative11,826 11,254 14,705 
+
+Total$17,693 $16,764 $18,163 
+
+Non-Operating Income and Expenses
+
+Interest expense. Our interest expense is due to outstanding debt and is offset by any extinguishment gain or losses and capitalized interest. Interest expense was $35.5 million, $34.0 million and $45.4 million for the years ended December 31, 2025, 2024 and 2023, respectively. During the year ended December 31, 2025, interest expense increased by $1.5 million compared to the prior year. Interest expense increased due to a net loss on debt extinguishment of $0.9 million in the current period compared to a net gain on debt extinguishment of $6.6 million in the prior year. This increase to interest expense was partially offset by a favorable decrease of $5.9 million in interest expense as debt repurchases and redemption lowered our outstanding debt balance. During the year ended December 31, 2024, interest expense decreased $11.4 million compared to the prior year, which included a decrease of $9.6 million in interest expense as debt repurchases lowered our outstanding debt balance, as well as a $1.8 million favorable increase in debt extinguishment gain compared to 2023.
+
+Interest income. Our interest income is generated from interest earned on cash and cash equivalents. Interest income was $2.5 million, $2.5 million and $3.7 million for the years ended December 31, 2025, 2024, and 2023, respectively. Interest income in 2025 was consistent with 2024. The decrease in interest income in 2024 compared to 2023 was primarily attributable to a lower average cash and cash equivalents balance primarily due to the repurchase of our debt, which resulted in lower money market investments throughout 2024.
+
+Other (expense) income, net. Our other (expense) income, net is generated primarily from foreign currency and miscellaneous items. Other (expense) income, net was $(3.2) million, $4.3 million and $(2.4) million for the years ended December 31, 2025, 2024 and 2023, respectively. The change between periods was primarily attributable to exchange rate fluctuations on inter-company balances between periods in foreign subsidiaries that were in functional currencies other than the U.S. Dollar.
+
+Income Taxes
+
+Significant judgment is required in determining our provision for income taxes and in evaluating our tax positions on a worldwide basis. We believe our tax positions, including intercompany transfer pricing policies, are consistent with the tax laws in the jurisdictions in which we conduct our business. Certain of these tax positions have in the past been, and may be challenged in the future, and this may have a significant impact on our effective tax rate if our tax reserves are insufficient.
+
+Our effective tax rate is based on pre-tax income, statutory tax rates, tax regulations and different tax rates in the various jurisdictions in which we operate. The tax bases of our assets and liabilities reflect our best estimate of the tax benefits and costs we expect to realize. When necessary, we establish valuation allowances to reduce our deferred tax assets to an amount that will more likely than not be realized. 
+
+As of December 31, 2025 and 2024, the Company had an interest expense limitation carryforward of $40.8 million and $32.9 million, respectively, which carries forward indefinitely. 
+
+As of December 31, 2025 and 2024, the Company had $2.1 million and $1.7 million, respectively, of foreign tax credit carryforwards that begin to expire in 2031, and $1.9 million and $1.7 million, respectively, of state research and development 
+
+-42-
+
+tax credits carryforwards that can be carried forward indefinitely. As of December 31, 2025, the Company also had $1.7 million of state net operating loss carryforwards that will expire in 2044, if unused.
+
+Income tax expense amounted to $29.5 million, $32.8 million and $25.9 million for the years ended December 31, 2025, 2024 and 2023, respectively. Our effective tax rates for the year ended December 31, 2025, 2024 and 2023 were 25.9%, 26.8% and 25.1%, respectively.
+
+The decrease in our annual effective income tax rate from 2024 to 2025 was primarily attributable to a decrease in tax expense relating to intercompany dividends received from controlled foreign subsidiaries during the year, lower research and development credits, a decrease in tax expense relating to uncertain tax positions and the impact of the change in the geographical mix of the income.
+
+The increase in our annual effective income tax rate from 2023 to 2024 was primarily attributable to an increase in tax expense relating to higher state taxes due to intercompany dividends received from controlled foreign subsidiaries during the year, lower research and development credits, a higher valuation allowance on foreign tax credits and the impact of the change in the geographical mix of the income.
+
+On July 4, 2025, the budget reconciliation bill H.R. 1, referred to as the One Big Beautiful Bill Act (“OBBBA”), was signed into law. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions, including modifications to capitalization of research and development expenses, limitations on deductions for interest expense and accelerated fixed asset depreciation. The OBBBA did not have a significant impact on the Company’s effective tax rate for the year ended December 31, 2025.
+
+Liquidity and Capital Resources
+
+Cash and Cash Equivalents
+
+At December 31, 2025, we had cash and cash equivalents of $74.7 million compared to $33.5 million at December 31, 2024. The increase in cash and cash equivalents resulted primarily from cash provided by operations, partially offset by cash used to pay down and/or repurchase our debt, capitalized expenditures, common stock repurchases and investments. As of December 31, 2025, cash and cash equivalents held within domestic and foreign jurisdictions were $8.9 million and $65.8 million, respectively.
+
+2026 Senior Notes
+
+On October 7, 2021, Consensus issued $305.0 million of 6.0% senior notes due in 2026 (the “2026 Senior Notes”), in a private placement offering exempt from the registration requirements of the Securities Act of 1933. During the year ended December 31, 2025, the Company redeemed the remaining outstanding principal balance of the 2026 Senior Notes in full.
+
+2028 Senior Notes
+
+On October 7, 2021, Consensus issued $500 million of 6.5% senior notes due in 2028 (the “2028 Senior Notes”), in a private placement offering exempt from the registration requirements of the Securities Act of 1933. In exchange for the equity interest in the Company, Consensus issued the 2028 Senior Notes to Ziff Davis. Ziff Davis then exchanged the 2028 Senior Notes with lenders under its credit agreement (or their affiliates) in exchange for extinguishment of a similar amount indebtedness under such credit agreement. The 2028 Senior Notes are presented as current portion of long-term debt and long-term debt, net of current portion, both of which are net of deferred issuance costs, on the Consolidated Balance Sheets as of December 31, 2025 and 2024. The 2028 Senior Notes bear interest at a rate of 6.5% per annum, payable semi-annually in arrears on April 15 and October 15 of each year, which commenced on April 15, 2022.
+
+2025 Credit Agreement
+
+On July 9, 2025, the Company entered into a Credit Agreement (the “2025 Credit Agreement”) with certain lenders party thereto (collectively, the “Lenders”) and U.S. Bank National Association, as agent (the “Agent”). Pursuant to the 2025 Credit Agreement, the Lenders have provided the Company with a senior secured revolving credit facility of $75.0 million (the “Revolving Credit Facility”) and a senior secured delayed-draw term loan facility of $150.0 million (the “DDTL Facility” and 
+
+-43-
+
+together with the Revolving Credit Facility, the “2025 Credit Facility”). The Company may borrow, repay and reborrow revolving loans at any time during the term of the facility. Borrowings under the DDTL Facility that are prepaid or repaid may not be reborrowed. The Revolving Credit Facility was entered into upon retirement of the previous revolving credit facility of $25.0 million with no balance (see Note 7 - Long-Term Debt of the Notes to the Consolidated Financial Statements). The final maturity of the 2025 Credit Facility is scheduled to occur on July 10, 2028. 
+
+During the fourth quarter of 2025, the Company borrowed $70.0 million from the Revolving Credit Facility and $150.0 million from the DDTL Facility in order to fund the redemption of our outstanding 2026 Senior Notes, which were retired. Subsequent to the borrowings made on the Revolving Credit Facility, the Company repaid $6.0 million during the fourth quarter of 2025. As of December 31, 2025, the Company has $11.0 million available for borrowing under the Revolving Credit Facility.
+
+As the DDTL was funded during the fourth quarter of 2025, beginning in the first quarter of 2026, the Company is required to make consecutive quarterly principal payments, each in an amount of 1.25% of the initial aggregate principal amount borrowed on the DDTL Facility. The interest rates applicable to the loans made under the 2025 Credit Facility are, at the Company’s option, equal to either a base rate or the Secured Overnight Financing Rate (“SOFR”) plus an applicable margin based on the total net leverage ratio (0.50% - 1.25% in the case of base rate loans and 1.50% - 2.25% in the case of SOFR loans).
+
+Material Cash Requirements
+
+Our long-term contractual obligations generally include our debt and related interest payments, noncancellable operating leases as well as other commitments. As of December 31, 2025, we had outstanding $562.2 million in aggregate principal amount of indebtedness (of which $7.5 million is payable within the next 12 months), total minimum lease payments of $14.4 million and a liability for uncertain tax positions of $14.5 million (see Note 7 - Long-Term Debt, Note 8 - Leases and Note 11 - Income Taxes of the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Form 10-K, respectively). Due to uncertainties in the timing of the amounts and timing of cash settlement with the taxing authorities, we are unable to make a reasonably reliable estimate of the timing of payments.
+
+We currently anticipate that our existing cash and cash equivalents and cash generated from operations and financing activities will be sufficient to fund our anticipated needs for working capital, capital expenditures, principal payments on our debt and stock repurchases, if any, for at least the next 12 months from the issuance of this Annual Report on Form 10-K and the foreseeable future.
+
+Debt Repurchase Program
+
+On November 9, 2023, the Board of Directors approved a debt repurchase program, pursuant to which Consensus may reduce, through redemptions, open market purchases, tender offers, privately negotiated purchases or other retirements, a combination of the outstanding principal balance of the 2026 and 2028 Senior Notes (“Debt Repurchase Program”). The authorization permits an aggregate principal amount reduction of up to $300 million and expires on November 9, 2026. The timing and amounts of purchases are determined by the Company, depending on market conditions and other factors it deems relevant. Any gains or losses on extinguishment of debt are recognized in interest expense on the Consolidated Statements of Income. During the years ended December 31, 2025 and 2024, the Company retired $15.7 million and $144.3 million, respectively, in principal of its senior notes under this program. Cumulatively as of December 31, 2025, $222.6 million in principal of the Company’s senior notes has been retired under this program.
+
+Common Stock Repurchase Program
+
+On March 1, 2022, the Company’s Board of Directors approved a share buyback program. Under this program, the Company may purchase, in the public market, or in off-market transactions, up to $100.0 million of the Company’s common stock through February 2025. In February 2025, the Company’s Board of Directors authorized and approved a three-year extension of the share repurchase program through February 2028. The share buyback program may end before this date if the maximum amount of repurchases has been reached or at the discretion of the Company’s Board of Directors. The timing and amounts of purchases are determined by the Company, depending on market conditions and other factors it deems relevant. The Company entered into Rule 10b-18 and Rule 10b5-1 trading plans under this program. During the years ended December 31, 2025 and 2024, the Company repurchased 1,013,085 and 57,063 shares, respectively, at an aggregate cost of $23.2 million (inclusive of excise tax of $0.1 million) and $1.0 million, respectively, under this program. Cumulatively as of December 31, 
+
+-44-
+
+2025, 2,098,810 shares have been repurchased at an aggregate cost of $55.5 million (inclusive of excise tax of $0.3 million). The excise tax is assessed at 1% of the fair market value of net stock repurchases after December 31, 2022.
+
+Vested Restricted Stock
+
+At the time of certain vesting events related to restricted stock units or restricted stock awards that are held by participants in Consensus’ Equity Incentive Plan, a portion of the awards subject to vesting are withheld by the Company to satisfy the employees’ tax withholding obligations that arise upon the vesting of restricted stock. As a result, the number of shares issued upon vesting for these awards is net of the statutory withholding requirements that the Company pays on behalf of its employees. Although shares withheld are not issued, they are treated as common share repurchases in the Company’s consolidated financial statements, as they reduce the number of shares that would have been issued upon vesting. These shares do not count against the authorized capacity under the Company’s share repurchase program described above. During the years ended December 31, 2025, 2024 and 2023 the Company withheld shares on its vested restricted stock units and restricted stock awards relating to its share-based compensation plans of 173,276, 122,406 and 61,878 shares, respectively.
+
+Cash Flows
+
+Our primary sources of liquidity are cash flows generated from operations, together with cash and cash equivalents. Net cash provided by operating activities was $136.1 million, $121.7 million and $114.1 million for the years ended December 31, 2025, 2024 and 2023, respectively. Our operating cash flows resulted primarily from cash received from our customers offset by cash payments we made to third parties for their services and employee compensation and lease payments for our offices. The increase in our net cash provided by operating activities in 2025 compared to 2024 was primarily attributable to increased income after excluding noncash items, partially offset by a decrease in cash inflows resulting from changes in our working capital accounts. The increase in our net cash provided by operating activities in 2024 compared to 2023 was primarily attributable to increased income after excluding noncash items, partially offset by an increase in cash outflows resulting from changes in our working capital accounts. Our prepaid tax payments were $5.5 million and $2.1 million at December 31, 2025 and 2024, respectively.
+
+Net cash used in investing activities was $35.2 million, $33.4 million and $40.5 million for the years ended December 31, 2025, 2024 and 2023, respectively. Net cash used in investing activities in 2025 included capital expenditures, primarily capitalized software development costs, and cash paid for investments. Net cash used in investing activities in 2024 included capital expenditures, primarily capitalized software development costs. Net cash used in investing activities in 2023 included capital expenditures, primarily capitalized software development costs, and cash paid for investments.
+
+Net cash used in financing activities was $63.3 million, $138.6 million and $81.7 million for the years ended December 31, 2025, 2024 and 2023, respectively. Net cash used in financing activities in 2025 primarily relates to the repayment of our 2026 Senior Notes, partially offset by borrowings made under our 2025 Credit Facility. In addition, financing activities in 2025 also included repurchases of debt and common stock and a payment made on our Revolving Credit Facility. Net cash used in financing activities in 2024 primarily relates to the repurchases of debt. Net cash used in financing activities in 2023 primarily relates to the repurchases of debt and common stock.

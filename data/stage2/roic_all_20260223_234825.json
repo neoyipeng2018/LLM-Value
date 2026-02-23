@@ -1,0 +1,897 @@
+[
+  {
+    "ticker": "ANF",
+    "roic_years": 4,
+    "roic_values": [
+      26.546003827327453,
+      4.671203689044896,
+      26.698182154332635,
+      41.419733001383534
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 24.83,
+    "min": 4.67,
+    "max": 41.42,
+    "std": 13.12,
+    "trend": "upward",
+    "trend_detail": "Growing at +6.66pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "ATGE",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      4.661475246885958,
+      9.128141995243185,
+      10.53825692493291,
+      13.532654918262462
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "MO",
+    "roic_years": 4,
+    "roic_values": [
+      28.300007818086108,
+      40.946648974425585,
+      37.855336579626496,
+      42.27552743722789
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 37.34,
+    "min": 28.3,
+    "max": 42.28,
+    "std": 5.46,
+    "trend": "upward",
+    "trend_detail": "Growing at +3.88pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "AMCX",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      7.965304587089553,
+      10.234168982312928,
+      12.825841355417328,
+      6.4798441980245975
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "BMBL",
+    "roic_years": 4,
+    "roic_values": [
+      -3.0101105098076726,
+      1.888504377686671,
+      1.182943170942857,
+      13.302571878656883
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 3.34,
+    "min": -3.01,
+    "max": 13.3,
+    "std": 6.05,
+    "trend": "upward",
+    "trend_detail": "Growing at +4.82pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "CPRX",
+    "roic_years": 5,
+    "roic_values": [
+      24.34930759843657,
+      18.608747313328227,
+      25.376470703391004,
+      16.630201358575988,
+      20.22463525585462
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "fmp",
+    "avg": 21.04,
+    "min": 16.63,
+    "max": 25.38,
+    "std": 3.34,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 3 reversals, max drawdown 8.7pp",
+    "passed": false
+  },
+  {
+    "ticker": "CRNC",
+    "roic_years": 4,
+    "roic_values": [
+      3.8990200584954704,
+      -1.5741234783576048,
+      10.948622113791155,
+      3.7466214191324
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 4.26,
+    "min": -1.57,
+    "max": 10.95,
+    "std": 4.45,
+    "trend": "upward",
+    "trend_detail": "Growing at +1.21pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "GIB",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      14.785251641849545,
+      15.05055843655357,
+      14.735703592521565,
+      13.875659425483732
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "COLL",
+    "roic_years": 4,
+    "roic_values": [
+      2.4514641884865305,
+      3.2237279927463365,
+      12.307243773030208,
+      10.839673262453541
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 7.21,
+    "min": 2.45,
+    "max": 12.31,
+    "std": 4.41,
+    "trend": "upward",
+    "trend_detail": "Growing at +3.42pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "CCSI",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      20.735013460978358,
+      19.773926955619952,
+      21.28484475780216,
+      19.468620229693943
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "CRMD",
+    "roic_years": 4,
+    "roic_values": [
+      -44.8874475464222,
+      -54.54428820896604,
+      -69.79786090970254,
+      -24.50223684577712
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -48.43,
+    "min": -69.8,
+    "max": -24.5,
+    "std": 16.42,
+    "trend": "upward",
+    "trend_detail": "Growing at +4.59pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "CROX",
+    "roic_years": 4,
+    "roic_values": [
+      20.36672146927546,
+      30.342176977634704,
+      32.840492409745345,
+      17.58262524522932
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 25.28,
+    "min": 17.58,
+    "max": 32.84,
+    "std": 6.45,
+    "trend": "cyclical",
+    "trend_detail": "Flat slope but max drawdown 15.3pp",
+    "passed": false
+  },
+  {
+    "ticker": "EGHSF",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      18.14338724090209,
+      12.675049390819314,
+      12.798698379307982,
+      11.87498895427306
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "EVER",
+    "roic_years": 4,
+    "roic_values": [
+      -21.701150706403645,
+      -26.908620657574012,
+      -35.29608068523119,
+      22.186963262943404
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -15.43,
+    "min": -35.3,
+    "max": 22.19,
+    "std": 22.25,
+    "trend": "upward",
+    "trend_detail": "Growing at +12.33pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "GEN",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      22.815980796658383,
+      10.658752716936966,
+      10.861876396128071,
+      9.615342011750423
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "GETY",
+    "roic_years": 4,
+    "roic_values": [
+      12.347905087634128,
+      10.290851540684361,
+      4.521003423917618,
+      5.0713990587618785
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 8.06,
+    "min": 4.52,
+    "max": 12.35,
+    "std": 3.35,
+    "trend": "declining",
+    "trend_detail": "Declining at -2.76pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "GCT",
+    "roic_years": 4,
+    "roic_values": [
+      30.86213821664344,
+      14.21648348246266,
+      32.187571679159014,
+      28.891653899702042
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 26.54,
+    "min": 14.22,
+    "max": 32.19,
+    "std": 7.21,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 16.6pp",
+    "passed": false
+  },
+  {
+    "ticker": "HRB",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      37.306690781636846,
+      38.88206017138221,
+      39.93558582458824,
+      40.81739881436183
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "HRMY",
+    "roic_years": 4,
+    "roic_values": [
+      21.376336075546668,
+      20.216826328671033,
+      21.60297608958638,
+      17.26473188451854
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 20.12,
+    "min": 17.26,
+    "max": 21.6,
+    "std": 1.73,
+    "trend": "declining",
+    "trend_detail": "Declining at -1.09pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "HPQ",
+    "roic_years": 5,
+    "roic_values": [
+      NaN,
+      46.39370577652506,
+      50.18419489007724,
+      42.60879364555264,
+      36.85829831865183
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": NaN,
+    "min": NaN,
+    "max": NaN,
+    "std": NaN,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +nanpp/yr, drawdown nanpp)",
+    "passed": false
+  },
+  {
+    "ticker": "IDT",
+    "roic_years": 4,
+    "roic_values": [
+      26.471978262167184,
+      23.335680985610423,
+      25.22513739778945,
+      26.671174987192103
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 25.43,
+    "min": 23.34,
+    "max": 26.67,
+    "std": 1.33,
+    "trend": "stable",
+    "trend_detail": "Stable (slope +0.25pp/yr, drawdown 3.1pp)",
+    "passed": true
+  },
+  {
+    "ticker": "INVA",
+    "roic_years": 4,
+    "roic_values": [
+      38.387928485635605,
+      14.364032378692404,
+      9.405196647706573,
+      9.161996182058783
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 17.83,
+    "min": 9.16,
+    "max": 38.39,
+    "std": 12.05,
+    "trend": "declining",
+    "trend_detail": "Declining at -9.26pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "IRWD",
+    "roic_years": 4,
+    "roic_values": [
+      21.90496763518982,
+      16.55675811626938,
+      47.88067376996024,
+      16.93189175420038
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 25.82,
+    "min": 16.56,
+    "max": 47.88,
+    "std": 12.91,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 30.9pp",
+    "passed": false
+  },
+  {
+    "ticker": "JILL",
+    "roic_years": 4,
+    "roic_values": [
+      35.55469440643279,
+      27.638439432310975,
+      32.73968158647657,
+      31.928511354669233
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 31.97,
+    "min": 27.64,
+    "max": 35.55,
+    "std": 2.84,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.58pp/yr, drawdown 7.9pp)",
+    "passed": true
+  },
+  {
+    "ticker": "WLY",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=WLY&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "KROS",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=KROS&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "KFY",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=KFY&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "MTCH",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=MTCH&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "NL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=NL&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "OSPN",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=OSPN&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "MD",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=MD&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "PRDO",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PRDO&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "PXED",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PXED&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "PBI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PBI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "PLTK",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PLTK&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "PTCT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PTCT&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "PBYI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PBYI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "RIGL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=RIGL&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "RMNI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=RMNI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "SBC",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=SBC&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "SSTK",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=SSTK&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "SIGA",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=SIGA&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "SIRI",
+    "roic_years": 5,
+    "roic_values": [
+      23.6288374070472,
+      21.11615145308485,
+      5.922486291325009,
+      -6.092614161211293,
+      4.550600200938039
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "fmp",
+    "avg": 9.83,
+    "min": -6.09,
+    "max": 23.63,
+    "std": 11.09,
+    "trend": "declining",
+    "trend_detail": "Declining at -6.54pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "STRA",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=STRA&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "CI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=CI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "TNET",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=TNET&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "UPWK",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=UPWK&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "VSNT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=VSNT&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "XPOF",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=XPOF&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  },
+  {
+    "ticker": "YELP",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "error",
+    "avg": null,
+    "trend": "error",
+    "trend_detail": "Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=YELP&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "passed": false
+  }
+]

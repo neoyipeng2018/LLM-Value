@@ -1,0 +1,9 @@
+ticker,company_name,transcript_score,transcript_decision,filings_score,filings_decision,combined_decision,transcript_chars,filings_tenk_date,filings_proxy_date,errors
+HRMY,"Harmony Biosciences Holdings, Inc.",8,PASS,8,PASS,PASS,60442,2025-02-25,2025-04-04,
+MO,"ALTRIA GROUP, INC.",4,PASS,1,WATCH,WATCH,38965,2025-02-26,2025-04-03,
+HRB,H&R BLOCK INC,4,PASS,1,WATCH,WATCH,26749,2025-08-15,2025-09-24,
+CCSI,"Consensus Cloud Solutions, Inc.",3,WATCH,1,WATCH,WATCH,37060,2026-02-13,2025-04-24,
+PXED,"Phoenix Education Partners, Inc.",,UNKNOWN,-1,FAIL,FAIL,0,,2025-12-29,No transcript available; 10-K fetch error: 'EntityFiling' object is not iterable
+SBC,SBC Medical Group Holdings Inc,,UNKNOWN,-1,FAIL,FAIL,0,2025-03-28,2025-05-28,No transcript available
+GIB,CGI INC,,UNKNOWN,,UNKNOWN,FAIL,0,,,No transcript available; No 10-K filings found; No DEF 14A filings found
+MTCH,"Match Group, Inc.",,UNKNOWN,0,FAIL,FAIL,0,2025-02-27,2025-04-29,No transcript available

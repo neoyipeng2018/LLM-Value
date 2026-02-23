@@ -1,0 +1,76 @@
+ticker,roic_years,source,avg,min,max,std,trend,trend_detail,passed
+ANF,4,yfinance,24.83,4.67,41.42,13.12,upward,Growing at +6.66pp/year,True
+ATGE,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+MO,4,yfinance,37.34,28.3,42.28,5.46,upward,Growing at +3.88pp/year,True
+AMCX,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+BMBL,4,yfinance,3.34,-3.01,13.3,6.05,upward,Growing at +4.82pp/year,False
+CPRX,5,fmp,21.04,16.63,25.38,3.34,cyclical,"High volatility: 3 reversals, max drawdown 8.7pp",False
+CRNC,4,yfinance,4.26,-1.57,10.95,4.45,upward,Growing at +1.21pp/year,False
+GIB,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+COLL,4,yfinance,7.21,2.45,12.31,4.41,upward,Growing at +3.42pp/year,False
+CCSI,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+CRMD,4,yfinance,-48.43,-69.8,-24.5,16.42,upward,Growing at +4.59pp/year,False
+CROX,4,yfinance,25.28,17.58,32.84,6.45,cyclical,Flat slope but max drawdown 15.3pp,False
+EGHSF,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+EVER,4,yfinance,-15.43,-35.3,22.19,22.25,upward,Growing at +12.33pp/year,False
+GEN,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+GETY,4,yfinance,8.06,4.52,12.35,3.35,declining,Declining at -2.76pp/year,False
+GCT,4,yfinance,26.54,14.22,32.19,7.21,cyclical,"High volatility: 2 reversals, max drawdown 16.6pp",False
+HRB,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+HRMY,4,yfinance,20.12,17.26,21.6,1.73,declining,Declining at -1.09pp/year,False
+HPQ,5,yfinance,nan,nan,nan,nan,stable,"Stable (slope +nanpp/yr, drawdown nanpp)",False
+IDT,4,yfinance,25.43,23.34,26.67,1.33,stable,"Stable (slope +0.25pp/yr, drawdown 3.1pp)",True
+INVA,4,yfinance,17.83,9.16,38.39,12.05,declining,Declining at -9.26pp/year,False
+IRWD,4,yfinance,25.82,16.56,47.88,12.91,cyclical,"High volatility: 2 reversals, max drawdown 30.9pp",False
+JILL,4,yfinance,31.97,27.64,35.55,2.84,stable,"Stable (slope -0.58pp/yr, drawdown 7.9pp)",True
+WLY,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=WLY&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+KROS,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=KROS&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+KFY,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=KFY&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+MTCH,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=MTCH&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+NL,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=NL&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+OSPN,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=OSPN&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+MD,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=MD&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+PRDO,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PRDO&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+PXED,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PXED&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+PBI,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PBI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+PLTK,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PLTK&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+PTCT,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PTCT&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+PBYI,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=PBYI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+RIGL,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=RIGL&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+RMNI,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=RMNI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+SBC,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=SBC&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+SSTK,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=SSTK&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+SIGA,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=SIGA&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+SIRI,5,fmp,9.83,-6.09,23.63,11.09,declining,Declining at -6.54pp/year,False
+STRA,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=STRA&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+CI,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=CI&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+TNET,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=TNET&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+UPWK,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=UPWK&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+VSNT,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=VSNT&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+XPOF,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=XPOF&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False
+YELP,0,error,,,,,error,"Client error '429 Too Many Requests' for url 'https://financialmodelingprep.com/stable/key-metrics?symbol=YELP&period=annual&limit=5&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",False

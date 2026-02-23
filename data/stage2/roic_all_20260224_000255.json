@@ -1,0 +1,1170 @@
+[
+  {
+    "ticker": "ANF",
+    "roic_years": 4,
+    "roic_values": [
+      26.204609742925445,
+      6.869990661243312,
+      36.84723195239116,
+      56.13403653600666
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 31.51,
+    "min": 6.87,
+    "max": 56.13,
+    "std": 17.82,
+    "trend": "upward",
+    "trend_detail": "Growing at +11.98pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "ATGE",
+    "roic_years": 4,
+    "roic_values": [
+      2.0535829061708335,
+      7.64411528234982,
+      10.195426832687268,
+      15.919715358674768
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 8.95,
+    "min": 2.05,
+    "max": 15.92,
+    "std": 4.98,
+    "trend": "upward",
+    "trend_detail": "Growing at +4.41pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "MO",
+    "roic_years": 4,
+    "roic_values": [
+      16.706109796340122,
+      29.747996018232303,
+      43.41745757837216,
+      52.51620925481837
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 35.6,
+    "min": 16.71,
+    "max": 52.52,
+    "std": 13.59,
+    "trend": "upward",
+    "trend_detail": "Growing at +12.11pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "AMCX",
+    "roic_years": 4,
+    "roic_values": [
+      2.8806008831881793,
+      12.532529949199164,
+      -0.2568377527700992,
+      11.421382822628992
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 6.64,
+    "min": -0.26,
+    "max": 12.53,
+    "std": 5.46,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 12.8pp",
+    "passed": false
+  },
+  {
+    "ticker": "BMBL",
+    "roic_years": 4,
+    "roic_values": [
+      -4.15496040566417,
+      -2.738443345619012,
+      0.8771688978318539,
+      -27.010897788426043
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -8.26,
+    "min": -27.01,
+    "max": 0.88,
+    "std": 10.98,
+    "trend": "declining",
+    "trend_detail": "Declining at -6.50pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "CPRX",
+    "roic_years": 4,
+    "roic_values": [
+      265.0123943946982,
+      512.3795627782948,
+      62.73268585963695,
+      82.966881109604
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 230.77,
+    "min": 62.73,
+    "max": 512.38,
+    "std": 180.66,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 449.6pp",
+    "passed": false
+  },
+  {
+    "ticker": "CRNC",
+    "roic_years": 4,
+    "roic_values": [
+      -17.192589794881123,
+      -2.0426374587776017,
+      -76.54211303421104,
+      0.31277886846332326
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": -23.87,
+    "min": -76.54,
+    "max": 0.31,
+    "std": 31.15,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 74.5pp",
+    "passed": false
+  },
+  {
+    "ticker": "GIB",
+    "roic_years": 4,
+    "roic_values": [
+      19.05661823463019,
+      21.05350468881207,
+      20.877355084507045,
+      17.859351305123198
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 19.71,
+    "min": 17.86,
+    "max": 21.05,
+    "std": 1.32,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.38pp/yr, drawdown 3.2pp)",
+    "passed": true
+  },
+  {
+    "ticker": "COLL",
+    "roic_years": 4,
+    "roic_values": [
+      6.408672779852644,
+      6.742939887257951,
+      24.411923586897803,
+      20.99573434023428
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 14.64,
+    "min": 6.41,
+    "max": 24.41,
+    "std": 8.15,
+    "trend": "upward",
+    "trend_detail": "Growing at +6.14pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "CCSI",
+    "roic_years": 4,
+    "roic_values": [
+      31.90451734485554,
+      30.65734410072499,
+      30.84529178085437,
+      28.526761783215914
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 30.48,
+    "min": 28.53,
+    "max": 31.9,
+    "std": 1.23,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.99pp/yr, drawdown 3.4pp)",
+    "passed": true
+  },
+  {
+    "ticker": "CRMD",
+    "roic_years": 1,
+    "roic_values": [
+      -57.60076289027262
+    ],
+    "years": [
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "CROX",
+    "roic_years": 4,
+    "roic_values": [
+      22.786766885860605,
+      27.18939406544884,
+      26.01039855870855,
+      4.364381837741287
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 20.09,
+    "min": 4.36,
+    "max": 27.19,
+    "std": 9.22,
+    "trend": "declining",
+    "trend_detail": "Declining at -5.64pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "EGHSF",
+    "roic_years": 4,
+    "roic_values": [
+      30.314198810227172,
+      26.165810047885333,
+      28.886821036863875,
+      25.320237291259478
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 27.67,
+    "min": 25.32,
+    "max": 30.31,
+    "std": 2.02,
+    "trend": "declining",
+    "trend_detail": "Declining at -1.23pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "EVER",
+    "roic_years": 4,
+    "roic_values": [
+      -32.568778690316336,
+      -39.281809600771425,
+      -44.507652504597736,
+      77.44996402044126
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -9.73,
+    "min": -44.51,
+    "max": 77.45,
+    "std": 50.51,
+    "trend": "upward",
+    "trend_detail": "Growing at +32.48pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "GEN",
+    "roic_years": 4,
+    "roic_values": [
+      30.656167979002625,
+      13.793906914428847,
+      8.387193747181723,
+      12.265303007174477
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 16.28,
+    "min": 8.39,
+    "max": 30.66,
+    "std": 8.53,
+    "trend": "declining",
+    "trend_detail": "Declining at -6.06pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "GETY",
+    "roic_years": 4,
+    "roic_values": [
+      12.586472731242068,
+      4.021775006017385,
+      4.73748803533013,
+      10.38615553429986
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 7.93,
+    "min": 4.02,
+    "max": 12.59,
+    "std": 3.65,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.59pp/yr, drawdown 8.6pp)",
+    "passed": false
+  },
+  {
+    "ticker": "GCT",
+    "roic_years": 4,
+    "roic_values": [
+      54.94416595640177,
+      23.29552545608046,
+      32.257303579704555,
+      25.386762011946395
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 33.97,
+    "min": 23.3,
+    "max": 54.94,
+    "std": 12.55,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 31.6pp",
+    "passed": false
+  },
+  {
+    "ticker": "HRB",
+    "roic_years": 4,
+    "roic_values": [
+      46.93743609583552,
+      53.271605776938436,
+      61.27937692407974,
+      55.96909547615986
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 54.36,
+    "min": 46.94,
+    "max": 61.28,
+    "std": 5.17,
+    "trend": "upward",
+    "trend_detail": "Growing at +3.51pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "HRMY",
+    "roic_years": 4,
+    "roic_values": [
+      41.817601910979306,
+      58.62877762742444,
+      67.6249146769386,
+      61.3433100474949
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 57.35,
+    "min": 41.82,
+    "max": 67.62,
+    "std": 9.54,
+    "trend": "upward",
+    "trend_detail": "Growing at +6.76pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "HPQ",
+    "roic_years": 4,
+    "roic_values": [
+      36.223700495049506,
+      27.742874655225254,
+      29.611003162266165,
+      24.027135828239153
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 29.4,
+    "min": 24.03,
+    "max": 36.22,
+    "std": 4.42,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 12.2pp",
+    "passed": false
+  },
+  {
+    "ticker": "IDT",
+    "roic_years": 4,
+    "roic_values": [
+      98.31785687965214,
+      104.37294702265645,
+      87.34115793841111,
+      135.089047676616
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 106.28,
+    "min": 87.34,
+    "max": 135.09,
+    "std": 17.72,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 17.0pp",
+    "passed": false
+  },
+  {
+    "ticker": "INVA",
+    "roic_years": 4,
+    "roic_values": [
+      64.56702110352364,
+      37.325340688145054,
+      22.259787814134867,
+      6.411216320594165
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 32.64,
+    "min": 6.41,
+    "max": 64.57,
+    "std": 21.43,
+    "trend": "declining",
+    "trend_detail": "Declining at -18.95pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "IRWD",
+    "roic_years": 4,
+    "roic_values": [
+      49.84185686487416,
+      58.6329868615838,
+      -240.57971390843358,
+      34.16711738424964
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -24.48,
+    "min": -240.58,
+    "max": 58.63,
+    "std": 125.07,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 299.2pp",
+    "passed": false
+  },
+  {
+    "ticker": "JILL",
+    "roic_years": 4,
+    "roic_values": [
+      -0.31237598162423486,
+      25.672456416348282,
+      25.81981945320501,
+      23.449044044776695
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 18.66,
+    "min": -0.31,
+    "max": 25.82,
+    "std": 10.99,
+    "trend": "upward",
+    "trend_detail": "Growing at +7.14pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "WLY",
+    "roic_years": 4,
+    "roic_values": [
+      9.436700578466377,
+      3.03435119408112,
+      -6.7077800267594,
+      10.348436640746813
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 4.03,
+    "min": -6.71,
+    "max": 10.35,
+    "std": 6.81,
+    "trend": "cyclical",
+    "trend_detail": "Flat slope but max drawdown 16.1pp",
+    "passed": false
+  },
+  {
+    "ticker": "KROS",
+    "roic_years": 4,
+    "roic_values": [
+      -398.79789103690683,
+      -809.3868398670068,
+      -1126.9713822695296,
+      -813.3976909529711
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -787.14,
+    "min": -1126.97,
+    "max": -398.8,
+    "std": 258.59,
+    "trend": "declining",
+    "trend_detail": "Declining at -156.14pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "KFY",
+    "roic_years": 4,
+    "roic_values": [
+      30.67682724341464,
+      19.79838461443751,
+      13.717474421564155,
+      19.75782165519998
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 20.99,
+    "min": 13.72,
+    "max": 30.68,
+    "std": 6.12,
+    "trend": "declining",
+    "trend_detail": "Declining at -3.88pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "MTCH",
+    "roic_years": 4,
+    "roic_values": [
+      12.205663509188634,
+      16.83686329170563,
+      30.447034425145098,
+      28.551736055526288
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 22.01,
+    "min": 12.21,
+    "max": 30.45,
+    "std": 7.7,
+    "trend": "upward",
+    "trend_detail": "Growing at +6.26pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "NL",
+    "roic_years": 4,
+    "roic_values": [
+      14.808399414172161,
+      9.373687795683374,
+      -1.3831103526041508,
+      23.766978843057665
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 11.64,
+    "min": -1.38,
+    "max": 23.77,
+    "std": 9.11,
+    "trend": "upward",
+    "trend_detail": "Growing at +1.61pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "OSPN",
+    "roic_years": 4,
+    "roic_values": [
+      -16.88869928316107,
+      -9.843839132915003,
+      -8.991455783582815,
+      35.6026733270922
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -0.03,
+    "min": -16.89,
+    "max": 35.6,
+    "std": 20.8,
+    "trend": "upward",
+    "trend_detail": "Growing at +15.83pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "MD",
+    "roic_years": 4,
+    "roic_values": [
+      11.143298613084127,
+      6.571448112347255,
+      -0.3546837845053307,
+      -3.91910214674935
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 3.36,
+    "min": -3.92,
+    "max": 11.14,
+    "std": 5.87,
+    "trend": "declining",
+    "trend_detail": "Declining at -5.21pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "PRDO",
+    "roic_years": 4,
+    "roic_values": [
+      67.44201732061117,
+      52.3786835416452,
+      65.19056027820056,
+      47.65181789988432
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 58.17,
+    "min": 47.65,
+    "max": 67.44,
+    "std": 8.36,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 19.8pp",
+    "passed": false
+  },
+  {
+    "ticker": "PXED",
+    "roic_years": 3,
+    "roic_values": [
+      52.254542691658045,
+      107.9827819203744,
+      108.8816005247622
+    ],
+    "years": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 89.71,
+    "min": 52.25,
+    "max": 108.88,
+    "std": 26.48,
+    "trend": "upward",
+    "trend_detail": "Growing at +28.31pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "PBI",
+    "roic_years": 4,
+    "roic_values": [
+      3.5099756811265688,
+      11.112131220418508,
+      2.5762345660891364,
+      3.287857573791392
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 5.12,
+    "min": 2.58,
+    "max": 11.11,
+    "std": 3.48,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 8.5pp",
+    "passed": false
+  },
+  {
+    "ticker": "PLTK",
+    "roic_years": 4,
+    "roic_values": [
+      48.66044157430841,
+      36.24995263177839,
+      34.85167464114833,
+      20.77829176403262
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 35.14,
+    "min": 20.78,
+    "max": 48.66,
+    "std": 9.88,
+    "trend": "declining",
+    "trend_detail": "Declining at -8.50pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "PTCT",
+    "roic_years": 4,
+    "roic_values": [
+      -49.43963880718543,
+      -53.75699611340564,
+      -70.89407592480048,
+      -44.48784515473412
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -54.64,
+    "min": -70.89,
+    "max": -44.49,
+    "std": 9.94,
+    "trend": "cyclical",
+    "trend_detail": "Flat slope but max drawdown 21.5pp",
+    "passed": false
+  },
+  {
+    "ticker": "PBYI",
+    "roic_years": 4,
+    "roic_values": [
+      -41.581095484441214,
+      22.710822935122703,
+      50.83695153376399,
+      51.79905052079643
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 20.94,
+    "min": -41.58,
+    "max": 51.8,
+    "std": 37.94,
+    "trend": "upward",
+    "trend_detail": "Growing at +30.83pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "RIGL",
+    "roic_years": 3,
+    "roic_values": [
+      -457.4072530220925,
+      -135.2511042648751,
+      114.62962559148696
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -159.34,
+    "min": -457.41,
+    "max": 114.63,
+    "std": 234.15,
+    "trend": "upward",
+    "trend_detail": "Growing at +286.02pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "RMNI",
+    "roic_years": 1,
+    "roic_values": [
+      -96.68865729674603
+    ],
+    "years": [
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "SBC",
+    "roic_years": 3,
+    "roic_values": [
+      30.076966571447457,
+      98.45007901486254,
+      94.78514830896994
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 74.44,
+    "min": 30.08,
+    "max": 98.45,
+    "std": 31.4,
+    "trend": "upward",
+    "trend_detail": "Growing at +32.35pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "SSTK",
+    "roic_years": 4,
+    "roic_values": [
+      51.396946677194244,
+      24.588246098070297,
+      21.415424790216687,
+      10.04517022131691
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 26.86,
+    "min": 10.05,
+    "max": 51.4,
+    "std": 15.16,
+    "trend": "declining",
+    "trend_detail": "Declining at -12.72pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "SIGA",
+    "roic_years": 4,
+    "roic_values": [
+      109.2268884440234,
+      54.45669083229255,
+      132.82791285215654,
+      121.91650893723096
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 104.61,
+    "min": 54.46,
+    "max": 132.83,
+    "std": 30.13,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 54.8pp",
+    "passed": false
+  },
+  {
+    "ticker": "SIRI",
+    "roic_years": 4,
+    "roic_values": [
+      27.295183202964186,
+      10.118650459806794,
+      -5.261842990294994,
+      6.122077869597721
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 9.57,
+    "min": -5.26,
+    "max": 27.3,
+    "std": 11.69,
+    "trend": "declining",
+    "trend_detail": "Declining at -7.89pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "STRA",
+    "roic_years": 4,
+    "roic_values": [
+      5.93996597753357,
+      4.094096946524759,
+      6.492934003054729,
+      9.243240400005995
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 6.44,
+    "min": 4.09,
+    "max": 9.24,
+    "std": 1.84,
+    "trend": "upward",
+    "trend_detail": "Growing at +1.23pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "CI",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "source": "none",
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "TNET",
+    "roic_years": 4,
+    "roic_values": [
+      50.09615384615385,
+      53.01322880940715,
+      30.85163363685056,
+      31.217838765008576
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 41.29,
+    "min": 30.85,
+    "max": 53.01,
+    "std": 10.31,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 22.2pp",
+    "passed": false
+  },
+  {
+    "ticker": "UPWK",
+    "roic_years": 4,
+    "roic_values": [
+      -60.76055654318721,
+      -6.387420299062876,
+      24.94348067249393,
+      39.137922684843275
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": -0.77,
+    "min": -60.76,
+    "max": 39.14,
+    "std": 38.35,
+    "trend": "upward",
+    "trend_detail": "Growing at +33.10pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "VSNT",
+    "roic_years": 2,
+    "roic_values": [
+      16.5944471192425,
+      13.925479864508844
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 15.26,
+    "min": 13.93,
+    "max": 16.59,
+    "std": 1.33,
+    "trend": "declining",
+    "trend_detail": "Declining at -2.67pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "XPOF",
+    "roic_years": 4,
+    "roic_values": [
+      -7.479081457654184,
+      3.992412066345218,
+      8.300692097977262,
+      -14.508036888472969
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": -2.42,
+    "min": -14.51,
+    "max": 8.3,
+    "std": 9.05,
+    "trend": "declining",
+    "trend_detail": "Declining at -1.68pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "YELP",
+    "roic_years": 4,
+    "roic_values": [
+      7.219276424643397,
+      12.980053786043655,
+      17.686044352159097,
+      31.696750372220933
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 17.4,
+    "min": 7.22,
+    "max": 31.7,
+    "std": 9.05,
+    "trend": "upward",
+    "trend_detail": "Growing at +7.81pp/year",
+    "passed": true
+  }
+]

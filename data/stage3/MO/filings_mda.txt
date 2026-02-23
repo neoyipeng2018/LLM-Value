@@ -1,0 +1,549 @@
+Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion should be read in conjunction with the other sections of this Form 10-K, including our consolidated financial statements and related notes contained in Item 8, and the discussion of risk factors that may affect future results in Item 1A.  Additionally, refer to Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) in our 2023 Annual Report on Form 10-K for management’s discussion and analysis of financial condition and results of operations for the year ended December 31, 2023 compared to the year ended December 31, 2022, which we filed with the SEC on February 27, 2024 and is incorporated by reference into this Form 10-K.
+
+In this MD&A section, we refer to the following “adjusted” financial measures: adjusted operating companies income (loss) (“OCI”); adjusted OCI margins; adjusted net earnings; adjusted diluted earnings per share (“EPS”); and adjusted effective tax rates.  We also refer to the ratio of debt-to-Consolidated EBITDA (earnings before interest, taxes, depreciation and amortization, as defined in our credit agreement, which includes certain adjustments).  These financial measures are not required by, or calculated in accordance with, GAAP and may not be calculated the same as similarly titled measures used by other companies.  These financial measures should thus be considered as supplemental in nature and not considered in isolation or as a substitute for the related financial information prepared in accordance with GAAP.  For a further description of these non-GAAP financial measures, see the Non-GAAP Financial Measures section below.
+
+Executive Summary
+
+Our Business
+
+We have a leading portfolio of tobacco products for U.S. tobacco consumers age 21+.  Our Vision is to responsibly lead the transition of adult smokers to a smoke-free future.  We are Moving Beyond SmokingTM, leading the way in moving adult smokers away from cigarettes by taking action to transition millions to potentially less harmful choices - believing it is a substantial opportunity for adult tobacco consumers, our businesses and society.
+
+Our wholly owned subsidiaries include leading manufacturers of both combustible and smoke-free products.  In combustibles, we own PM USA, the most profitable U.S. cigarette manufacturer, and Middleton, a leading U.S. cigar manufacturer.
+
+In smoke-free products, we own USSTC, the leading global MST manufacturer, Helix, a leading manufacturer of oral nicotine pouches, and NJOY, an e-vapor manufacturer with a commercialized product portfolio fully covered by MGOs from the FDA.  Additionally, we have a majority-owned joint venture, Horizon, for the U.S. marketing and commercialization of HTS products.
+
+The brand portfolios of our operating companies include Marlboro, Black & Mild, Copenhagen, Skoal, on! and NJOY.  Trademarks related to Altria referenced in this Form 10-K are the property of Altria or our subsidiaries or are used with permission.
+
+Our investments in equity securities include ABI, the world’s largest brewer, and Cronos, a leading Canadian cannabinoid company.
+
+For a description of Altria, see Item 1. Business of this Form 10-K (“Item 1”).
+
+Vision and 2028 Goals
+
+As we execute on our Vision, we established our 2028 Enterprise Goals (“2028 Goals”) to provide our investors with specific metrics to measure our progress.  Our 2028 Goals are:
+
+▪Corporate
+
+▪Deliver a mid-single digits adjusted diluted EPS compounded annual growth rate in 2028 from a $4.84 base in 2022 (for our progress through 2024, see Consolidated Results of Operations);
+
+▪A progressive dividend goal targeting mid-single digits dividend per share growth annually through 2028;
+
+▪Target a debt-to-Consolidated EBITDA ratio of approximately 2.0x (see Liquidity and Capital Resources);
+
+▪Maintain our leadership position in the U.S. tobacco space; and
+
+▪Maintain a total adjusted OCI margin of at least 60% in each year through 2028 (see Operating Results by Business Segment).
+
+▪U.S. Smoke-Free Portfolio
+
+▪Grow U.S. smoke-free volumes by at least 35% from our 2022 base of 800 million units by 2028 (see Operating Results by Business Segment); and
+
+▪Approximately double our U.S. smoke-free net revenues to $5 billion by 2028 from our 2022 base, with $2 billion sourced from innovative smoke-free products (see Operating Results by Business Segment).
+
+We are reassessing our U.S. smoke-free goals due to the continued proliferation of illicit flavored disposable e-vapor products resulting from insufficient enforcement action against manufacturers, distributors and retailers of these products.  We anticipate providing updated U.S. smoke-free goals when we have more clarity on how the legitimate e-vapor market may evolve.  For additional information on the e-vapor category, see Operating Results by Business Segment - Business Environment.
+
+▪Long-Term Growth
+
+▪Compete internationally in the top innovative oral tobacco markets and develop a pathway to participate in heated tobacco and e-vapor markets; and
+
+▪Enter non-nicotine categories with broad commercial distribution of at least five products by 2028.
+
+Optimize & Accelerate Initiative
+
+In October 2024, we announced a multi-phase Initiative designed to modernize our ways of working as we work towards achieving our Vision and 2028 Goals.  Through the Initiative, we plan to increase our organization’s speed, efficiency and effectiveness by centralizing work, outsourcing certain transactional tasks and streamlining, automating and standardizing processes.  We expect the design and detailed plans for all phases of the Initiative to be substantially complete in early 2026.  As part of the Initiative, we established an ABS organization within ALCS.  This organization will be responsible for driving efficiency and process improvement across our companies in partnership with external service providers.
+
+We expect the initial phases of the Initiative will deliver at least $600 million in cumulative cost savings over the next five years, which we plan to reinvest in our businesses in support of our Vision and 2028 Goals.  The cumulative cost savings exclude our estimated total pre-tax charges for the Initiative’s initial phases of approximately $100 million to $125 million, which we will treat as special items and exclude from our adjusted diluted EPS.  For further discussion of the Initiative, see Note 7. Asset Impairment, Exit and Implementation Costs to our consolidated financial statements in Item 8 (“Note 7”).
+
+Trends and Developments
+
+In this MD&A section, we discuss factors that have impacted our businesses as of the date of this Form 10-K.  In addition, we are aware of and address certain trends and developments that could, individually or in the aggregate, have a material impact on our businesses, including the value of our investments in equity securities, in the future.  We focus in this Trends and Developments section on the discretionary income pressures on adult tobacco consumers, illicit flavored disposable e-vapor products and recent regulatory and executive actions and their effects or potential effects on our businesses.
+
+U.S. adult tobacco consumers remained under pressure throughout 2024 largely due to the compounding effects of high prices exceeding overall wage growth and historically high levels of consumer credit and credit card delinquency rates.  Although inflation rates stabilized in 2024, increased prices continued to pressure adult tobacco consumers.  These pressures influenced the discount segment retail share growth within the cigarette industry year-over-year.  We will continue to monitor conditions that impact adult tobacco consumer discretionary income and overall purchasing behaviors, including overall tobacco product expenditures, mix between premium and discount brand purchases and adoption of smoke-free products.  We expect discretionary income pressures will continue to influence adult tobacco consumers’ purchase behaviors in 2025.
+
+Product assortment, regulation and enforcement continue to evolve in the e-vapor category.  For the 12 months ended December 31, 2024, we estimate the e-vapor category grew by approximately 30% versus the prior 12-month period, driven by the growth of illicit 
+
+flavored disposable e-vapor products.  We estimate that illicit products now represent more than 60% of the e-vapor category.  In response to the proliferation of illicit disposable e-vapor products, states and the federal government took various regulatory and enforcement actions throughout the year in 2024, but these actions have failed to curb this trend.  Select states have established e-vapor product registries based on PMTA submissions or MGOs.  Additionally, we continue to see increased illicit activity across multiple tobacco categories, including nicotine pouch products and cigarettes.
+
+Tobacco companies are subject to broad and evolving regulatory and legislative frameworks that could have a material impact on our businesses.  For example, the FDA submitted proposed product standards banning menthol in cigarettes, which was delayed indefinitely in April 2024, and banning all characterizing flavors in cigars, both of which were withdrawn in January 2025.  In addition, in January 2025, the FDA proposed a tobacco product standard that would establish a maximum nicotine level in cigarettes and certain other combustible tobacco products significantly lower than the average concentration in these products on the market today with the aim of making such products minimally or non-addictive.  The proposed rule is subject to the Trump Administration’s January 2025 executive order pausing all federal agency rulemaking for 60 days.  Following the 60-day pause, the proposed product standard, if not withdrawn, may proceed through the rulemaking process, including the solicitation of public comment.
+
+See Operating Results by Business Segment - Business Environment for additional information on the trends and developments discussed above.
+
+ABI’s business is exposed to foreign exchange rate fluctuations, inflation, commodity price movements and other macroeconomic factors that could impact financial performance from time to time.  We will continue to monitor these conditions and other factors as they could affect our equity earnings, our other comprehensive earnings/losses and the dividends that we receive from ABI, and the fair value of our investment in ABI.  See Note 8 for additional information on our investment in ABI.
+
+The trends and developments discussed above have not had a material adverse impact on our consolidated financial statements, but we continue to monitor these trends and developments and potential financial impacts.  While the growth of illicit flavored disposable e-vapor products has caused us to reassess certain of our 2028 Goals, we do not believe the trends and developments discussed above have materially impacted our ability to achieve our Vision.  As the trends and developments evolve and new ones emerge, we will continue to evaluate the potential impacts on our businesses, investments and Vision.
+
+21
+
+
+Consolidated Results of Operations
+
+The changes in net earnings and diluted EPS for the year ended December 31, 2024, from the year ended December 31, 2023, were due primarily to the following:
+
+(in millions, except per share data)Net EarningsDiluted EPS
+
+For the year ended December 31, 2023
+
+$8,130 $4.57 
+
+2023 NPM Adjustment Items
+
+(38)(0.02)
+
+2023 Acquisition, disposition and integration-related items
+
+26 0.01 
+
+2023 Tobacco and health and certain other litigation items
+
+323 0.18 
+
+2023 Loss on disposition of JUUL equity securities
+
+250 0.14 
+
+2023 ABI-related special items
+
+70 0.03 
+
+2023 Cronos-related special items
+
+29 0.02 
+
+2023 Income tax items
+
+32 0.02 
+
+Subtotal 2023 special items
+
+692 0.38 
+
+2024 NPM Adjustment Items
+
+20 0.01 
+
+2024 Acquisition, disposition and integration-related items
+
+1,862 1.08 
+
+2024 Asset impairment, exit and implementation costs
+
+(315)(0.18)
+
+2024 Tobacco and health and certain other litigation items
+
+(76)(0.04)
+
+2024 ABI-related special items
+
+(2)— 
+
+2024 Cronos-related special items
+
+(15)(0.01)
+
+2024 Income tax items
+
+969 0.56 
+
+Subtotal 2024 special items
+
+2,443 1.42 
+
+Fewer shares outstanding— 0.17 
+
+Change in tax rate47 0.03 
+
+Operations(48)(0.03)
+
+For the year ended December 31, 2024
+
+$11,264 $6.54 
+
+2024 Reported Net Earnings 
+
+$11,264 $6.54 
+
+2023 Reported Net Earnings 
+
+$8,130 $4.57 
+
+% Change38.5 %43.1 %
+
+2024 Adjusted Net Earnings and Adjusted Diluted EPS
+
+$8,821 $5.12 
+
+2023 Adjusted Net Earnings and Adjusted Diluted EPS
+
+$8,822 $4.95 
+
+% Change— %3.4 %
+
+For a discussion of special items and other business drivers affecting the comparability of statements of earnings amounts and reconciliations of adjusted earnings and adjusted diluted EPS, see Consolidated Operating Results below.
+
+▪Fewer Shares Outstanding: Fewer shares outstanding were due to shares we repurchased under our share repurchase programs.
+
+▪Change in Tax Rate: The change in the tax rate (which excludes the impact of special items shown in the table above) was driven primarily by lower state tax expense.
+
+▪Operations: The decrease of $48 million in operations (which excludes the impact of special items shown in the table above) was due primarily to lower OCI and lower net periodic benefit income, excluding service cost.
+
+For further details, see Consolidated Operating Results and Operating Results by Business Segment below.
+
+22
+
+
+Compounded EPS Growth Rate
+
+Our 2028 Goals include delivering a mid-single digits adjusted diluted EPS compounded annual growth rate (“CAGR”) in 2028 from a $4.84 base in 2022.  Our calculation of progress towards this goal through 2024 is as follows:
+
+For the Years Ended December 31,CAGR
+
+20242022
+
+Reported diluted EPS$6.54 $3.19 43.2 %
+
+NPM Adjustment Items(0.01)(0.03)
+
+Acquisition, disposition and integration-related items(1.08)— 
+
+Asset impairment, exit and implementation costs0.18 — 
+
+Tobacco and health and certain other litigation items0.04 0.05 
+
+JUUL changes in fair value— 0.81 
+
+ABI-related special items— 1.12 
+
+Cronos-related special items0.01 0.10 
+
+Income tax items(0.56)(0.40)
+
+Adjusted diluted EPS$5.12 $4.84 2.9 %
+
+Non-GAAP Financial Measures
+
+We report our financial results in accordance with GAAP.  However, our management also reviews certain financial results, including OCI, OCI margins, net earnings and diluted EPS, on an adjusted basis, which excludes certain income and expense items that our management believes are not part of underlying operations.  These items may include, for example, loss on early extinguishment of debt, restructuring charges, asset impairment charges, acquisition, disposition and integration-related items, equity investment-related special items, certain income tax items, charges associated with tobacco and health and certain other litigation items, and resolutions of certain non-participating manufacturer (“NPM”) adjustment disputes under the Master Settlement Agreement (“NPM Adjustment Items”).  In addition, our management reviews the ratio of debt-to-Consolidated EBITDA, which we use as a factor to determine our ability to access the capital markets and make investments in pursuit of our Vision.  Consolidated EBITDA is calculated in accordance with our Credit Agreement (defined below in Liquidity and Capital Resources) and includes certain adjustments.  Our management does not view any of these special items to be part of our underlying results as they may be highly variable, may be unusual or infrequent, are difficult to predict and can distort underlying business trends and results.  Our management also reviews income tax rates on an adjusted basis, which may exclude certain income tax items from our reported effective tax rate.
+
+Our management believes that the foregoing financial measures provide useful additional insight into underlying business trends and results, and provide a more meaningful comparison of year-over-year results.  Our management uses these financial measures and regularly provides these to our chief operating decision maker (“CODM”) for planning, forecasting and evaluating business and financial performance, including allocating capital and other resources and evaluating results relative to employee compensation targets.  The foregoing financial measures are not required by, or calculated in accordance with, GAAP and may not be calculated the same as similarly titled measures used by other companies.  The foregoing financial measures should thus be considered as supplemental in nature and not considered in isolation or as a substitute for the related financial information prepared in accordance with GAAP.  When we provide a non-GAAP measure in this Form 10-K, we also provide a reconciliation of that non-GAAP financial measure to the most directly comparable GAAP financial measure.
+
+Discussion and Analysis
+
+Critical Accounting Estimates
+
+Note 2. Summary of Significant Accounting Policies to our consolidated financial statements in Item 8 (“Note 2”) includes a summary of the significant accounting policies and methods used in the preparation of our consolidated financial statements.  In most instances, we must use an accounting policy or method because it is the only policy or method permitted under GAAP.
+
+The preparation of financial statements includes the use of estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent liabilities at the dates of the financial statements and the reported amounts of net revenues and expenses during the reporting periods.  If actual amounts are ultimately different from previous estimates, the revisions are included in our consolidated results of operations for the period in which the actual amounts become known.  Historically, the aggregate differences, if any, between our estimates and actual amounts in any year have not had a significant impact on our consolidated financial statements.
+
+23
+
+
+The following is a review of the more significant assumptions and estimates, as well as the accounting policies and methods, used in the preparation of our consolidated financial statements:
+
+▪Revenue Recognition: Our businesses generate substantially all of their revenue from sales contracts with customers.  Our businesses define net revenues as revenues, which include excise taxes and shipping and handling charges billed to customers, net of cash discounts for prompt payment, sales returns (also referred to as returned goods) and sales incentives.  Our businesses exclude from the transaction price sales taxes and value-added taxes imposed at the time of sale.
+
+Our businesses record sales incentives, which consist of consumer incentives and trade promotion activities, as a reduction to revenues (a portion of which is based on amounts estimated as being due to wholesalers, retailers and consumers at the end of a period) based principally on historical volume, utilization and redemption rates.  We include expected payments for sales incentives in accrued marketing liabilities on our consolidated balance sheets.
+
+For further discussion, see Note 4. Revenues from Contracts with Customers to our consolidated financial statements in Item 8.
+
+▪Depreciation, Amortization, Impairment Testing and Asset Valuation: We depreciate property, plant and equipment and amortize our definite-lived intangible assets using the straight-line method over the estimated useful lives of the assets.  We depreciate machinery and equipment over periods up to 20 years, and buildings and building improvements over periods up to 50 years.  We amortize definite-lived intangible assets over their estimated useful lives up to 25 years.
+
+We review long-lived assets, including definite-lived intangible assets, for impairment whenever events or changes in business circumstances indicate that the carrying value of the assets may not be fully recoverable.  We perform undiscounted operating cash flow analyses to determine if an impairment exists.  For purposes of recognition and measurement of an impairment for assets held for use, we group assets and liabilities at the lowest level for which cash flows are separately identifiable.  If we determine that an impairment exists, any related impairment loss is calculated based on fair value.  We base impairment losses on assets to be disposed of, if any, on the estimated proceeds to be received, less costs of disposal.  We also review the estimated remaining useful lives of long-lived assets whenever events or changes in business circumstances indicate the lives may have changed.
+
+We conduct a required annual review of goodwill and indefinite-lived intangible assets for potential impairment as of October 1 of each year, and more frequently if an event occurs or circumstances change that would require us to perform an interim review.  We have the option of first performing a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit or indefinite-lived intangible asset is less than its carrying amount as a basis for determining whether it is necessary to perform a quantitative impairment test.  If necessary, we will perform a single step quantitative impairment test.  Additionally, we have the option to unconditionally bypass the qualitative assessment and perform a single step quantitative assessment.  If the carrying value of a reporting unit that includes goodwill exceeds its fair value, which is determined using discounted cash flows, goodwill is considered impaired.  We measure the amount of impairment loss as the difference between the carrying value and the fair value of a reporting unit; however, the amount of the impairment loss is limited to the total amount of goodwill allocated to a reporting unit.  If the carrying value of an indefinite-lived intangible asset exceeds its fair value, which is determined using discounted cash flows, we consider the intangible asset to be impaired and reduce the carrying value to fair value in the period identified.
+
+We use an income approach to estimate the fair value of our reporting units and trademarks using information available as of the impairment testing date.  The income approach reflects the discounting of expected future cash flows at a rate of return that incorporates the risk-free rate for the use of those funds, the expected rate of inflation and the risks associated with realizing expected future cash flows.
+
+Goodwill by reporting unit and indefinite-lived intangible assets at December 31, 2024 were as follows:
+
+(in millions)GoodwillIndefinite-LivedIntangible Assets
+
+Cigarettes$22 $2 
+
+MST products5,023 8,447 
+
+Cigars77 2,640 
+
+Oral nicotine pouches55 — 
+
+E-vapor1,768 — 
+
+Total$6,945 $11,089 
+
+Second Quarter of 2024 Skoal Impairment:
+
+At December 31, 2023, the estimated fair value of the Skoal trademark exceeded its carrying value of $3.9 billion by approximately 6% ($0.2 billion).  Sales volumes of MST products, including Skoal, have been negatively impacted due in part to evolving adult tobacco consumer preferences, which has resulted in consumers increasingly moving across tobacco categories.  In connection with the preparation of our financial statements for the period ended June 30, 2024, we evaluated the accelerated growth of innovative tobacco products, including oral nicotine pouches, and the related increase in competitive activity among tobacco categories, which have 
+
+24
+
+
+contributed to reductions in sales volumes for MST products, including Skoal.  We concluded that the expected impact from the sales volume declines on the Skoal trademark represented a triggering event and, as a result of this conclusion, we performed an interim impairment assessment as of June 30, 2024.  We determined the estimated fair value of the Skoal trademark as of June 30, 2024, was below its carrying value and recorded a non-cash, pre-tax impairment of $354 million during the second quarter of 2024, which was recorded in our consolidated statement of earnings for the year ended December 31, 2024.  Our estimate of the fair value and carrying value of the Skoal trademark at June 30, 2024 was $3.6 billion after recording the impairment.
+
+2024 Annual Review of Goodwill and Indefinite-lived Intangible Assets:
+
+We completed our annual impairment test of goodwill and indefinite-lived intangible assets performed as of October 1, 2024.  We elected to perform a qualitative assessment for certain of our reporting units and indefinite-lived intangible assets.  This qualitative assessment included the review of certain macroeconomic factors and entity-specific qualitative factors to determine if it was more likely than not that the fair values of our reporting units and indefinite-lived intangible assets were below carrying value.  For certain of our other reporting units and indefinite-lived intangible assets, we elected to unconditionally bypass the qualitative assessment and perform a single step quantitative assessment.
+
+Upon completion of this testing, we determined that the estimated fair values of our reporting units and our indefinite-lived intangible assets exceeded their carrying values in all circumstances and thus, no impairment charges were recorded.  The estimated fair values substantially exceeded the carrying values for all of our reporting units and indefinite-lived intangible assets with the exception of our Skoal trademark and e-vapor reporting unit discussed below.
+
+Although the estimated fair value of the Skoal trademark exceeded its carrying value of $3.6 billion by approximately 7% ($0.3 billion), MST products, including Skoal, continued to be negatively impacted due in part to evolving adult tobacco consumer preferences, which have continued to contribute to reductions in sales volumes for MST products, including Skoal, as discussed above.  We believe if the decline in sales volume for Skoal is higher than currently estimated and results in material revenue declines, there may be a material adverse effect on the significant assumptions used in performing our valuation.  These adverse effects, including if Skoal’s actual revenue and income or long-term outlook are significantly unfavorable compared to forecasted performance used to estimate the fair value or if the discount rate used to estimate the fair value increases, could result in a material non-cash impairment of our Skoal trademark in future periods.  Based on the 2024 annual impairment test, a hypothetical 1% increase to the discount rate used would have resulted in an impairment charge to the Skoal intangible asset of approximately $85 million.
+
+While the estimated fair value of our e-vapor reporting unit exceeded its carrying value by approximately 28% ($0.3 billion), we continue to monitor several factors that could impact the carrying value of our e-vapor reporting unit’s goodwill, including the following:
+
+▪Altria and certain of our affiliates, including NJOY, are defendants in lawsuits alleging patent infringement based on the sale of NJOY ACE in the United States.  On January 29, 2025, the ITC issued its final determination regarding the complaint filed by JUUL against Altria and certain of our affiliates, including NJOY, finding that NJOY ACE infringes on JUUL’s patents and issued an exclusion order and cease-and-desist orders prohibiting the importation and sale of NJOY ACE in the United States.  The ITC’s determination is currently under a 60-day review period by the Office of the United States Trade Representative which could reject the ITC’s determination.  If the Trade Representative does not affirmatively reject the ITC’s determination, the determination will automatically become final and the ITC’s orders will take effect on March 31, 2025, or earlier if the Trade Representative notifies the ITC of approval before the 60 days elapse.  The final exclusion order and cease-and-desist orders can be appealed to the U.S. Court of Appeals for the Federal Circuit, but the final exclusion order and cease-and-desist orders prohibiting the importation and sale of NJOY ACE would likely not be stayed during the pendency of such an appeal.  We continue to vigorously defend this litigation, including our motion filed in February 2025 seeking reconsideration of the ITC’s determination on one of the four patents as discussed in Item 3. Legal Proceedings of this Form 10-K (“Item 3”).
+
+▪Additionally, sales of illicit flavored disposable e-vapor products continue to increase with limited effective enforcement against these products, contributing to declines in pod-based e-vapor product volume, which negatively impacted NJOY ACE’s volume growth in 2024.
+
+We are pursuing pathways to minimize the disruption the ITC’s decision could cause.  NJOY is working on a product solution that addresses all of the patents at issue in the event the Trade Representative does not affirmatively reject the ITC’s determination.  Additionally, NJOY is pursuing potential solutions with a pipeline of other alternative e-vapor products.  However, in the event the Trade Representative does not affirmatively reject the ITC’s determination, it is likely that NJOY will not be able to sell NJOY ACE in the United States until a product solution addressing all of the patents at issue in the ITC action has received the necessary regulatory approvals.
+
+If we continue to experience unfavorable outcomes with respect to the patent infringement lawsuits and our related strategies, or if continued illicit e-vapor product sales or other factors result in a significantly different long-term outlook for NJOY’s volume growth rates versus projections, there may be a material adverse effect on the significant assumptions used in performing our valuation.  These adverse effects, including if NJOY’s actual revenue and income or long-term outlook are significantly unfavorable compared to forecasted performance used to estimate the fair value or if the discount rate used to estimate the fair value increases, could result in a 
+
+25
+
+
+material non-cash impairment of our e-vapor reporting unit’s goodwill or related definite-lived intangible assets (carrying value of $1.8 billion and $1.1 billion, respectively, at December 31, 2024), or both, in future periods.  Based on our 2024 annual impairment test, a hypothetical 1% increase to the discount rate used to estimate the fair value of the e-vapor reporting unit would have resulted in an impairment charge of approximately $125 million.
+
+We made various judgments, estimates and assumptions in determining the estimated fair values of our reporting units and indefinite-lived assets, the most significant of which were volume, revenue, income, perpetual growth rates and discount rates in performing our annual impairment test of goodwill and indefinite-lived intangible assets.  All significant inputs used in the valuation are classified in Level 3 of the fair value hierarchy.  Our annual impairment test incorporated assumptions used in our long-term financial forecast, which is used by our management to evaluate business and financial performance, including allocating resources and evaluating results relative to setting employee compensation targets.  The assumptions incorporated the highest and best use of our reporting units and indefinite-lived intangible assets and also included perpetual growth rates for periods beyond the long-term financial forecast.  The perpetual growth rates and discount rates used in performing the valuations ranged from 0% to 2% and 10.0% to 13.5%, respectively.  Additionally, in determining these significant assumptions, we made judgments regarding the: (i) timing of effective enforcement against illicit flavored disposable e-vapor products; (ii) timing and receipt of regulatory authorizations of innovative tobacco products, including oral nicotine pouches and e-vapor products; (iii) long-term growth of innovative tobacco products, including oral nicotine pouches, and the related impact on the MST category; (iv) long-term growth of the e-vapor category; (v) conversion rates of illicit flavored disposable e-vapor consumers to pod-based systems and specifically, NJOY ACE; and (vi) ability of NJOY ACE to remain on the market.  Fair value calculations are sensitive to changes in these estimates and assumptions, some of which relate to broader macroeconomic conditions outside of our control.
+
+Although our discounted cash flow analyses are based on assumptions that are considered reasonable and based on the best available information as of October 1, 2024, our annual impairment testing date, we used significant judgment in determining future cash flows.  In addition to the judgments discussed above, the following factors also have the potential to impact our assumptions and thus the expected future cash flows and, therefore, our impairment conclusions: general macroeconomic conditions; governmental actions, including FDA regulatory actions and inaction; changes in category growth (decline) rates as a result of changing adult tobacco consumer preferences; success of planned new product expansions; competitive activity; and income and excise taxes.  For further discussion of these factors, see Operating Results by Business Segment - Business Environment below.
+
+While our management believes that the estimated fair values of each reporting unit and indefinite-lived intangible asset at December 31, 2024 are reasonable, actual performance in the short term or long term could be significantly different from forecasted performance, which could result in impairment charges in future periods.
+
+During 2023, our quantitative annual impairment test of goodwill and indefinite-lived intangible assets resulted in no impairment charges.
+
+For further discussion of goodwill and other intangible assets, including the impairment charge of the Skoal trademark in the second quarter of 2024, see Note 6.
+
+▪Investments in Equity Securities: At the end of each reporting period, we review our equity investments accounted for under the equity method of accounting (ABI and Cronos) for impairment by comparing the fair value of each of our investments to their carrying value.  If the carrying value of an investment exceeds its fair value and the loss in value is other than temporary, we consider the investment impaired, reduce its carrying value to its fair value and record the impairment in the period identified.  We use certain factors to make this determination, including (i) the duration and magnitude of the fair value decline, (ii) the financial condition and near-term prospects of the investee and (iii) our intent and ability to hold our investment until recovery to its carrying value.
+
+For further discussion of our investments in equity securities, see Note 8.
+
+▪Marketing Costs: Our businesses promote their products with consumer incentives, trade promotions and consumer engagement programs.  These consumer incentive and trade promotion activities, which include discounts, coupons, rebates, in-store display incentives and volume-based incentives, do not create a distinct deliverable and are, therefore, recorded as a reduction of revenues.  We make consumer engagement program payments to third parties.  Our businesses expense these consumer engagement programs, which include event marketing, as incurred and such expenses are included in marketing, administration and research costs in our consolidated statements of earnings.  For interim reporting purposes, our businesses charge consumer engagement programs and certain consumer incentive expenses to operations as a percentage of sales, based on estimated sales and related expenses for the full year.
+
+▪Contingencies: As discussed in Note 20 and Item 3, legal proceedings covering a wide range of matters are pending or threatened in various United States and foreign jurisdictions against Altria and certain of our subsidiaries, including PM USA and NJOY, as well as certain respective indemnitees.  In 1998, PM USA and certain other tobacco product manufacturers entered into the MSA with 46 states, the District of Columbia and certain United States territories to settle asserted and unasserted health care cost recovery and other claims.  PM USA and certain other U.S. tobacco product manufacturers had previously entered into agreements to settle similar claims brought by Mississippi, Florida, Texas and Minnesota (together with the MSA, “State Settlement Agreements”).  
+
+26
+
+
+PM USA’s portion of ongoing adjusted payments is based on its relative share of the settling manufacturers’ domestic cigarette shipments, including roll-your-own cigarettes, in the year preceding that in which the payment is due.  PM USA’s obligations under the State Settlement Agreements to make quarterly payments with respect to settling plaintiffs’ attorneys’ fees ended in the fourth quarter of 2024.  In addition, PM USA, Middleton and USSTC are subject to quarterly user fees imposed by the FDA as a result of the FSPTCA.  Payments under the State Settlement Agreements and the FDA user fees are based on variable factors, such as volume, operating income, market share and inflation, depending on the subject payment.  Our subsidiaries account for the cost of the State Settlement Agreements and FDA user fees as a component of cost of sales.  Our subsidiaries recorded approximately $3.7 billion and $4.0 billion of charges to cost of sales for the years ended December 31, 2024 and 2023, respectively, in connection with the State Settlement Agreements and FDA user fees.
+
+We record provisions in our consolidated financial statements for pending litigation when we determine that an unfavorable outcome is probable and the amount of the loss can be reasonably estimated.  At the present time, while it is reasonably possible that an unfavorable outcome in a case may occur, except to the extent discussed in Note 20 and Item 3: (i) management has concluded that it is not probable that a loss has been incurred in any pending litigation; (ii) management is unable to estimate the possible loss or range of loss that could result from an unfavorable outcome in any pending case; and (iii) accordingly, management has not provided any amounts in our consolidated financial statements for unfavorable outcomes, if any.  We expense litigation defense costs as incurred and include such costs in marketing, administration and research costs in our consolidated statements of earnings.
+
+▪Employee Benefit Plans: We provide a range of benefits to certain employees and retired employees, including pension, postretirement health care and postemployment benefits.  We record annual amounts relating to these plans based on calculations specified by GAAP, which include various actuarial assumptions as to discount rates, assumed rates of return on plan assets, mortality, compensation increases, turnover rates and health care cost trend rates.  We review our actuarial assumptions on an annual basis and make modifications to the assumptions based on current rates and trends when it is deemed appropriate to do so.  Any effect of the modifications is generally amortized over future periods.
+
+We recognize the funded status of our defined benefit pension and other postretirement plans on the consolidated balance sheets and record as a component of other comprehensive earnings (losses), net of deferred income taxes, the gains or losses and prior service costs or credits that have not been recognized as components of net periodic benefit cost (income).  We subsequently amortize the gains or losses and prior service costs or credits recorded as components of other comprehensive earnings (losses) into net periodic benefit cost (income) in future years.
+
+Due to changes in market factors, our discount rates used to determine our pension plan and postretirement plan obligations increased to 5.7% at December 31, 2024 from 5.3% and 5.2%, respectively, for these plans at December 31, 2023.  We presently anticipate net pre-tax pension and postretirement income of approximately $15 million in 2025 versus net pre-tax income of $46 million in 2024.  This decrease is due primarily to lower expected income on plan assets and higher amortization of net unrecognized losses in 2025, partially offset by lower service and interest costs.  Assuming no change to the shape of the yield curve, a 50 basis point decrease (increase) in our discount rates would increase (decrease) our pension and postretirement expense by approximately $10 million.  Similarly, a 50 basis point decrease (increase) in the expected return on plan assets would increase (decrease) our pension and postretirement expense by approximately $40 million.
+
+For additional information see Note 18. Benefit Plans to our consolidated financial statements in Item 8 (“Note 18”).
+
+▪Income Taxes: Significant judgment is required in determining income tax provisions and in evaluating tax positions.  We determine deferred tax assets and liabilities based on the difference between the financial statement and tax bases of assets and liabilities, using enacted tax rates in effect for the year in which the differences are expected to reverse.  We record a valuation allowance when it is more likely than not that some portion or all of a deferred tax asset will not be realized.  We determine the realizability of deferred tax assets based on the weight of all available positive and negative evidence.  In reaching this determination, we consider the character of the assets and the possible sources of taxable income of the appropriate character within the available carryback and carryforward periods available under the tax law.
+
+We recognize the financial statement benefit for uncertain income tax positions in our consolidated financial statements when it is more likely than not, based on the technical merits, that the position will be sustained upon examination by taxing authorities.  The amount recognized is measured as the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement.  For those income tax positions where it is more likely than not that a tax benefit will not be sustained, no tax benefit is recognized in the financial statements.  We recognize accrued interest and penalties associated with uncertain tax positions as part of the provision for income taxes in our consolidated statements of earnings.
+
+We recognized income tax benefits and charges in the consolidated statements of earnings during 2024 and 2023 as a result of various tax events.
+
+For additional information on income taxes, see Note 16. Income Taxes to our consolidated financial statements in Item 8 (“Note 16”).
+
+27
+
+
+Consolidated Operating Results
+
+ For the Years Ended December 31,
+
+(in millions)20242023
+
+Net Revenues:
+
+Smokeable products$21,204 $21,756 
+
+Oral tobacco products2,776 2,667 
+
+All other38 60 
+
+Net revenues$24,018 $24,483 
+
+Excise Taxes on Products:
+
+Smokeable products$3,469 $3,869 
+
+Oral tobacco products105 112 
+
+Excise taxes on products$3,574 $3,981 
+
+Operating Income:
+
+OCI:
+
+Smokeable products$10,821 $10,670 
+
+Oral tobacco products1,449 1,722 
+
+All other(414)(74)
+
+Amortization of intangibles(139)(128)
+
+General corporate expenses(476)(643)
+
+Operating income$11,241 $11,547 
+
+As discussed further in Note 17, our CODM reviews OCI, which is defined as operating income before general corporate expenses and amortization of intangibles, to evaluate the performance of, and allocate resources to, our segments.  Our management believes it is appropriate to disclose this measure to help investors analyze our business performance and trends.
+
+The following table provides a reconciliation of adjusted net earnings and adjusted diluted EPS for the years ended December 31:
+
+(in millions of dollars, except per share data)Earnings before Income TaxesProvision for Income TaxesNet EarningsDiluted EPS
+
+2024 Reported$13,658 $2,394 $11,264 $6.54 
+
+NPM Adjustment Items(27)(7)(20)(0.01)
+
+Acquisition, disposition and integration-related items(2,527)(665)(1,862)(1.08)
+
+Asset impairment, exit and implementation costs422 107 315 0.18 
+
+Tobacco and health and certain other litigation items 
+
+101 25 76 0.04 
+
+ABI-related special items2 — 2 — 
+
+Cronos-related special items18 3 15 0.01 
+
+Income tax items— 969 (969)(0.56)
+
+2024 Adjusted for Special Items$11,647 $2,826 $8,821 $5.12 
+
+2023 Reported$10,928 $2,798 $8,130 $4.57 
+
+NPM Adjustment Items(50)(12)(38)(0.02)
+
+Acquisition, disposition and integration-related items35 9 26 0.01 
+
+Tobacco and health and certain other litigation items 430 107 323 0.18 
+
+Loss on disposition of JUUL equity securities250 — 250 0.14 
+
+ABI-related special items89 19 70 0.03 
+
+Cronos-related special items29 — 29 0.02 
+
+Income tax items— (32)32 0.02 
+
+2023 Adjusted for Special Items$11,711 $2,889 $8,822 $4.95 
+
+28
+
+
+The following special items affected the comparability of statements of earnings amounts for the years ended December 31, 2024 and 2023.
+
+▪NPM Adjustment Items: For a discussion of NPM Adjustment Items and a breakdown of these items by segment, see Health Care Cost Recovery Litigation in Note 20 and NPM Adjustment Items in Note 17, respectively.
+
+▪Acquisition, Disposition and Integration-Related Items: We recorded a pre-tax gain of $2.7 billion upon the assignment of the IQOS System commercialization rights to PMI in April 2024, for the year ended December 31, 2024.  For a discussion of the sale of the IQOS System commercialization rights, see Note 6.
+
+We recorded net pre-tax expenses of $176 million for the year ended December 31, 2024 related to the NJOY Transaction.  For further information on the costs incurred for the NJOY Transaction, see Note 3. Acquisition of NJOY to our consolidated financial statements in Item 8 (“Note 3”).
+
+▪Asset Impairment, Exit and Implementation Costs: We recorded a non-cash, pre-tax impairment of the Skoal trademark of $354 million for the year ended December 31, 2024 in our oral tobacco products segment.  For further discussion, see Note 6.  In addition, we recorded exit and implementation costs of $68 million related to the Initiative for the year ended December 31, 2024.  For a breakdown of these costs by segment, see Note 7.
+
+▪Tobacco and Health and Certain Other Litigation Items: For a discussion of tobacco and health and certain other litigation items and a breakdown of these costs by segment, see Note 20 and Tobacco and Health and Certain Other Litigation Items in Note 17, respectively.
+
+▪Loss on Disposition of JUUL Equity Securities: We recorded a non-cash, pre-tax loss of $250 million related to the disposition of our former investment in JUUL for the year ended December 31, 2023 as (income) losses from investments in equity securities in our consolidated statement of earnings.  We recorded a corresponding adjustment to the JUUL tax valuation allowance in 2023.  For further discussion, see Note 8 and Note 16.
+
+▪ABI-Related Special Items: We recorded net pre-tax expense of $2 million from our investment in ABI for the year ended December 31, 2024, which consists primarily of mark-to-market losses on certain ABI financial instruments associated with its share commitments, mostly offset by a gain related to the ABI Transaction.  For further information on the gain related to the ABI Transaction, see Note 8.
+
+We recorded net pre-tax losses of $89 million from our investment in ABI for the year ended December 31, 2023, consisting primarily of mark-to-market losses on certain ABI financial instruments associated with its share commitments and a loss on ABI’s sale of certain brands and associated assets in the United States.
+
+The ABI-related special items include our respective share of the amounts recorded by ABI and additional adjustments related to (i) the conversion of ABI-related special items from international financial reporting standards to GAAP and (ii) adjustments to our investment required under the equity method of accounting.
+
+▪Cronos-Related Special Items: We recorded pre-tax losses of $29 million for Cronos-related special items for the year ended December 31, 2023, substantially all of which related to our share of special items recorded by Cronos.  We recorded a corresponding adjustment to the Cronos tax valuation allowance.
+
+▪Income Tax Items: We recorded income tax items of $969 million for the year ended December 31, 2024, due primarily to an income tax benefit from partial releases of valuation allowances on JUUL-related losses in connection with an agreement reached in October 2024 with the Internal Revenue Service (“IRS”) and in connection with the ABI Transaction.  For further discussion, see Note 16.
+
+We recorded income tax items of $32 million for the year ended December 31, 2023, due primarily to tax expense associated with a tax basis adjustment related to our investment in ABI.
+
+2024 Compared with 2023
+
+Net revenues, which include excise taxes billed to customers, decreased $465 million (1.9%), due primarily to lower net revenues in the smokeable products segment, partially offset by higher net revenues in the oral tobacco products segment.
+
+Cost of sales decreased $141 million (2.3%), due primarily to lower shipment volume in our smokeable products segment, partially offset by higher per unit settlement charges and higher manufacturing costs in our smokeable products segment and higher NJOY costs.
+
+Excise taxes on products decreased $407 million (10.2%), due primarily to lower shipment volume in our smokeable products segment.
+
+Marketing, administration and research costs were unchanged compared to 2023 as higher costs, including NJOY and other costs in support of our Vision and 2024 costs related to the Initiative, were offset by lower general corporate expenses.  The lower general corporate expenses were due primarily to lower charges to resolve certain JUUL-related litigation and the 2023 settlement of the shareholder derivative lawsuits, partially offset by higher net acquisition-related costs primarily associated with the NJOY Transaction and 2024 transaction costs from the ABI Transaction.  See Note 3, Note 8 and Note 20 for a discussion of litigation items.
+
+29
+
+
+Operating income decreased $306 million (2.7%), due primarily to lower OCI (which includes a non-cash impairment of the Skoal trademark in our oral tobacco product segment and costs related to the Initiative), partially offset by lower general corporate expenses.
+
+Interest and other debt expense, net increased $48 million (4.9%), due primarily to 2023 interest income associated with the sale of the IQOS System commercialization rights and unfavorable NPM Adjustment Items, partially offset by 2023 interest expense and fees for the term loan facility associated with the NJOY Transaction.  For additional information regarding the sale of the IQOS System commercialization rights, see Note 6.
+
+Net periodic benefit income, excluding service cost, decreased by $25 million (19.7%), due primarily to lower income on plan assets and higher amortization of net unrecognized losses in 2024.  For additional information, see Note 18.
+
+(Income) losses from investments in equity securities, which were favorable $409 million (100+%), were positively impacted by the 2023 loss on the disposition of our JUUL equity securities and favorable results in 2024 from our investment in ABI (due primarily to our gain on the ABI Transaction).
+
+Provision for income taxes decreased $404 million (14.4%), due primarily to favorable tax items, partially offset by higher earnings before income taxes.  For additional information, see Note 16.
+
+Reported net earnings of $11,264 million increased $3,134 million (38.5%), due primarily to the gain on the sale of the IQOS System commercialization rights, favorable income tax items and favorable results from our investments in equity securities, partially offset by lower operating income.  Reported basic and diluted EPS of $6.54, each increased by 43.1% due to higher reported net earnings and fewer shares outstanding.
+
+Adjusted net earnings of $8,821 million were essentially unchanged compared to 2023, as lower OCI and lower net periodic benefit income, excluding service costs, was offset by a lower adjusted tax rate.  Adjusted diluted EPS of $5.12 increased by 3.4%, due to fewer shares outstanding.
+
+Operating Results by Business Segment
+
+Business Environment
+
+Summary
+
+The U.S. tobacco industry faces a number of business and legal challenges that have materially adversely affected and may continue to materially adversely affect our business, results of operations, cash flows or financial position or our ability to achieve our Vision.  These challenges, some of which are discussed in more detail in Note 20, Item 1A and Item 3, include:
+
+▪pending and threatened litigation and bonding requirements;
+
+▪restrictions and requirements imposed by the FSPTCA and restrictions and requirements (and related enforcement actions) that have been, and in the future will be, imposed by the FDA;
+
+▪the FDA’s failure to effectively address illicit tobacco products on the market, including illicit e-vapor and oral nicotine pouch products;
+
+▪illicit trade in tobacco products, including cigarettes, e-vapor products and oral nicotine pouch products;
+
+▪actual and proposed excise tax increases, as well as changes in tax structures and tax stamping requirements;
+
+▪bans and restrictions on tobacco use imposed by governmental entities and private establishments and employers;
+
+▪other federal, state and local government actions, including:
+
+▪restrictions on the sale of certain tobacco products, the sale of tobacco products by certain retail establishments, the sale of tobacco products with characterizing flavors and the sale of tobacco products in certain package sizes;
+
+▪additional restrictions on the advertising and promotion of tobacco products;
+
+▪other actual and proposed tobacco-related legislation and regulation; and
+
+▪governmental investigations;
+
+▪reductions in consumption levels of cigarettes and MST products resulting in lower shipment volumes;
+
+▪increased efforts by tobacco control advocates and other private sector entities (including retail establishments) to further restrict the availability and use of tobacco products or the ability to communicate with consumers through third-party digital platforms;
+
+▪changes in adult tobacco consumer purchase behavior, which is influenced by various factors such as macroeconomic conditions (including inflation), the proliferation of illicit disposable e-vapor products, excise taxes and price gap relationships, each of which may result in adult tobacco consumers switching to lower-priced tobacco products and lower shipment volumes;
+
+▪the highly competitive nature of all tobacco categories, including competitive disadvantages related to the impact on cigarette prices due to the settlement of certain healthcare cost recovery litigation and the proliferation of innovative tobacco products, such as e-vapor and oral nicotine pouch products;
+
+30
+
+
+▪the proliferation of products using nicotine analogues that are designed to imitate the effects of nicotine but are not subject to the FDA regulatory framework for tobacco products; and
+
+▪potential adverse changes in prices, availability and quality of tobacco, other raw materials and component parts, including as a result of changes in macroeconomic, geopolitical and climate and environmental conditions.
+
+In addition to and in connection with the foregoing, evolving adult tobacco consumer preferences continue to impact the tobacco industry, including negatively impacting cigarette and MST shipment volumes.  We believe that a significant number of adult tobacco consumers switch among tobacco categories, use multiple forms of tobacco products and try innovative tobacco products, such as e-vapor products and oral nicotine pouches.  As innovative smoke-free products evolve to better address the preferences of adult tobacco consumers, these consumers continue to transition from cigarettes and MST products to exclusive use of innovative smoke-free tobacco product alternatives, which aligns with our Vision.  As a result, long-term trends in the overall nicotine space are improving.  Industry equivalized nicotine volumes increased for the second consecutive year in 2024 and grew by a compounded annual growth rate of approximately 2% over the past five years.
+
+We work to meet these evolving adult tobacco consumer preferences over time by developing, manufacturing, marketing and distributing products both within and outside the United States through innovation and other growth strategies (including, where appropriate, arrangements with, or investments in, third parties and acquisitions).
+
+We estimate that, when adjusted for calendar differences and trade inventory movements, total estimated domestic cigarette industry volume declined by 8% in the fourth quarter of 2024 and 9% for the full year.  PM USA reported domestic cigarette volumes declined by 8.8% in the fourth quarter of 2024 and 10.2% for the full year.  When adjusted for calendar differences and trade inventory movements, PM USA volumes for the fourth quarter of 2024 and the full year each declined by an estimated 11%.  In the fourth quarter, Marlboro share of the total cigarette category was 41.3%, a decrease of 1.0 share point versus the prior year and 0.3 share points in the fourth quarter.  Marlboro share performance is discussed further in the Operating Results - Smokeable Products Segment below.
+
+We have been monitoring shifts in adult tobacco consumer preferences and their effects on cigarette industry decline rates.  As a result, we believe that the decline in adult smokers, excluding any cross category movement, resulted in an estimated 2.5% decline in cigarette industry volume over the 12 months ended December 31, 2024.  We estimate that cross-category movement contributed to cigarette industry volume declines in a range of approximately 3% to 4% over the 12 months ended December 31, 2024.
+
+For the 12 months ended December 31, 2024, we estimate the e-vapor category grew approximately 30% versus the prior 12-month period, driven by the growth of illicit flavored disposable e-vapor products.  We estimate that illicit products now represent more than 60% of the e-vapor category.  These illicit disposable e-vapor products are largely distributed through non-traditional retail channels (including e-commerce and vape retail channels), making them more difficult to track.  In addition, we believe illicit cigarettes are becoming more prevalent in the United States, based on the results of discarded pack studies we conducted in select geographies.  We believe the FDA’s inadequate enforcement and slow pace of smoke-free product authorizations enables bad actors to disregard regulation and illicit products to proliferate.  Through our competitive intelligence tracking, we continue to monitor these growing trends and evaluate the impacts on the overall nicotine and tobacco categories.
+
+For the fourth quarter of 2024, reported shipment volume of NJOY consumables (including NJOY ACE and NJOY DAILY) was approximately 12.8 million units, and NJOY device shipment volume was approximately 1.1 million units.  The NJOY share of the pod-based e-vapor category reached 6.4% in the fourth quarter of 2024, an increase of 0.2 share points sequentially and 2.8 share points versus the fourth quarter of 2023.
+
+The U.S. nicotine pouch category continued to grow significantly throughout the fourth quarter of 2024 to 45.7% of the U.S. oral tobacco category, an increase of 9.6 share points versus the fourth quarter of 2023.  on! maintained year-over-year share momentum through the fourth quarter of 2024 to achieve 8.9% 
+
+[Section truncated]

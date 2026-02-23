@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Abercrombie & Fitch Co.",
+    "ticker": "ANF",
+    "market_cap": "4,420.98",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "Adtalem Global Education Inc",
+    "ticker": "ATGE",
+    "market_cap": "3,348.96",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Altria Group Inc",
+    "ticker": "MO",
+    "market_cap": "113,136.00",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "AMC Networks Inc",
+    "ticker": "AMCX",
+    "market_cap": "356.54",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Bumble Inc",
+    "ticker": "BMBL",
+    "market_cap": "341.46",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Catalyst Pharmaceutical Inc",
+    "ticker": "CPRX",
+    "market_cap": "2,995.34",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Cerence Inc",
+    "ticker": "CRNC",
+    "market_cap": "356.54",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "CGI Inc",
+    "ticker": "GIB",
+    "market_cap": "16,031.05",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Collegium Pharmaceutical Inc",
+    "ticker": "COLL",
+    "market_cap": "1,422.05",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Consensus Cloud Solutions Inc",
+    "ticker": "CCSI",
+    "market_cap": "566.28",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "CorMedix Inc",
+    "ticker": "CRMD",
+    "market_cap": "550.79",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Crocs Inc",
+    "ticker": "CROX",
+    "market_cap": "5,022.01",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Enghouse Systems Ltd",
+    "ticker": "EGHSF",
+    "market_cap": "684.99",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "EverQuote Inc",
+    "ticker": "EVER",
+    "market_cap": "556.96",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Gen Digital Inc",
+    "ticker": "GEN",
+    "market_cap": "13,544.10",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Getty Images Holdings Inc",
+    "ticker": "GETY",
+    "market_cap": "307.50",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "GigaCloud Technology Inc",
+    "ticker": "GCT",
+    "market_cap": "1,304.52",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "H&R Block Inc",
+    "ticker": "HRB",
+    "market_cap": "3,852.21",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Harmony Biosciences Holdings Inc",
+    "ticker": "HRMY",
+    "market_cap": "1,679.50",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "HP Inc",
+    "ticker": "HPQ",
+    "market_cap": "17,452.29",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "IDT Corp",
+    "ticker": "IDT",
+    "market_cap": "1,244.12",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "Innoviva Inc",
+    "ticker": "INVA",
+    "market_cap": "1,748.85",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Ironwood Pharmaceuticals Inc",
+    "ticker": "IRWD",
+    "market_cap": "644.21",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "J Jill Inc",
+    "ticker": "JILL",
+    "market_cap": "263.61",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "John Wiley & Sons Inc.",
+    "ticker": "WLY",
+    "market_cap": "1,573.73",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "Keros Therapeutics Inc",
+    "ticker": "KROS",
+    "market_cap": "658.24",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Korn Ferry",
+    "ticker": "KFY",
+    "market_cap": "3,215.37",
+    "price_from": "02/20",
+    "recent_quarter": "10/31"
+  },
+  {
+    "name": "Match Group Inc",
+    "ticker": "MTCH",
+    "market_cap": "7,607.37",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "NL Industries Inc.",
+    "ticker": "NL",
+    "market_cap": "305.39",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "OneSpan Inc",
+    "ticker": "OSPN",
+    "market_cap": "431.91",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Pediatrix Medical Group Inc",
+    "ticker": "MD",
+    "market_cap": "1,588.69",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Perdoceo Education Corp",
+    "ticker": "PRDO",
+    "market_cap": "2,088.16",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Phoenix Education Partners Inc",
+    "ticker": "PXED",
+    "market_cap": "1,056.75",
+    "price_from": "02/20",
+    "recent_quarter": "11/30"
+  },
+  {
+    "name": "Pitney Bowes Inc.",
+    "ticker": "PBI",
+    "market_cap": "1,579.64",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Playtika Holding Corp",
+    "ticker": "PLTK",
+    "market_cap": "1,306.46",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "PTC Therapeutics Inc",
+    "ticker": "PTCT",
+    "market_cap": "5,756.95",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Puma Biotechnology Inc",
+    "ticker": "PBYI",
+    "market_cap": "344.12",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Rigel Pharmaceuticals Inc",
+    "ticker": "RIGL",
+    "market_cap": "643.39",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Rimini Street Inc",
+    "ticker": "RMNI",
+    "market_cap": "328.85",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "SBC Medical Group Holdings Inc",
+    "ticker": "SBC",
+    "market_cap": "427.75",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Shutterstock Inc",
+    "ticker": "SSTK",
+    "market_cap": "570.22",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "SIGA Technologies Inc",
+    "ticker": "SIGA",
+    "market_cap": "483.37",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Sirius XM Holdings Inc",
+    "ticker": "SIRI",
+    "market_cap": "7,055.10",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Strategic Education Inc",
+    "ticker": "STRA",
+    "market_cap": "1,789.20",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "The Cigna Group",
+    "ticker": "CI",
+    "market_cap": "74,478.09",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "TriNet Group Inc",
+    "ticker": "TNET",
+    "market_cap": "1,847.04",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Upwork Inc",
+    "ticker": "UPWK",
+    "market_cap": "1,720.25",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  },
+  {
+    "name": "Versant Media Group Inc",
+    "ticker": "VSNT",
+    "market_cap": "4,378.46",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Xponential Fitness Inc",
+    "ticker": "XPOF",
+    "market_cap": "291.19",
+    "price_from": "02/20",
+    "recent_quarter": "09/30"
+  },
+  {
+    "name": "Yelp Inc",
+    "ticker": "YELP",
+    "market_cap": "1,297.25",
+    "price_from": "02/20",
+    "recent_quarter": "12/31"
+  }
+]

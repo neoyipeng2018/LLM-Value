@@ -1,0 +1,127 @@
+[
+  {
+    "ticker": "AAPL",
+    "roic_years": 5,
+    "roic_values": [
+      38.92505618225257,
+      45.17476149331245,
+      43.38918291689624,
+      44.30708117427921,
+      51.96842110031786
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "avg": 44.75,
+    "min": 38.93,
+    "max": 51.97,
+    "std": 4.2,
+    "trend": "upward",
+    "trend_detail": "Growing at +2.52pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "MSFT",
+    "roic_years": 5,
+    "roic_values": [
+      23.795581118541946,
+      26.585984054183736,
+      22.909136998599767,
+      22.60677541103377,
+      22.02006954205621
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "avg": 23.58,
+    "min": 22.02,
+    "max": 26.59,
+    "std": 1.61,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.75pp/yr, drawdown 4.6pp)",
+    "passed": true
+  },
+  {
+    "ticker": "AMZN",
+    "roic_years": 5,
+    "roic_values": [
+      7.817590151202826,
+      1.8268498439537282,
+      8.228265483024504,
+      13.315849265857754,
+      10.699097087482645
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "avg": 8.38,
+    "min": 1.83,
+    "max": 13.32,
+    "std": 3.82,
+    "trend": "upward",
+    "trend_detail": "Growing at +1.73pp/year",
+    "passed": false
+  },
+  {
+    "ticker": "META",
+    "roic_years": 5,
+    "roic_values": [
+      26.666763256230492,
+      14.556705936151188,
+      19.338992531074826,
+      25.052272614676248,
+      17.95027986272042
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "avg": 20.71,
+    "min": 14.56,
+    "max": 26.67,
+    "std": 4.51,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 12.1pp",
+    "passed": false
+  },
+  {
+    "ticker": "NVDA",
+    "roic_years": 5,
+    "roic_values": [
+      17.135580288822755,
+      24.62770972801938,
+      11.718684977111943,
+      51.286815726730595,
+      75.28431507492371
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "avg": 36.01,
+    "min": 11.72,
+    "max": 75.28,
+    "std": 23.88,
+    "trend": "cyclical",
+    "trend_detail": "High volatility: 2 reversals, max drawdown 12.9pp",
+    "passed": false
+  }
+]

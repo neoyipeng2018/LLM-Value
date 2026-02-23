@@ -1,0 +1,6 @@
+ticker,roic_years,avg,min,max,std,trend,trend_detail,passed
+AAPL,5,44.75,38.93,51.97,4.2,upward,Growing at +2.52pp/year,True
+MSFT,5,23.58,22.02,26.59,1.61,stable,"Stable (slope -0.75pp/yr, drawdown 4.6pp)",True
+AMZN,5,8.38,1.83,13.32,3.82,upward,Growing at +1.73pp/year,False
+META,5,20.71,14.56,26.67,4.51,cyclical,"High volatility: 2 reversals, max drawdown 12.1pp",False
+NVDA,5,36.01,11.72,75.28,23.88,cyclical,"High volatility: 2 reversals, max drawdown 12.9pp",False

@@ -1,0 +1,951 @@
+TABLE OF CONTENTS
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+SCHEDULE 14A
+
+Proxy Statement Pursuant to Section 14(a) of
+
+the Securities Exchange Act of 1934
+
+Filed by the Registrant   ☑
+
+Filed by a Party other than the Registrant   ☐
+
+Check the appropriate box:
+
+  Preliminary Proxy Statement                                                      
+  Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+  Definitive Proxy Statement                                                       
+  Definitive Additional Materials                                                  
+  Soliciting Material under §240.14a-12                                            
+
+  CONSENSUS CLOUD SOLUTIONS, INC.                                           
+  (Name of Registrant as Specified in Its Charter)                          
+  (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+
+Payment of Filing Fee (Check all boxes that apply):
+
+  No Fee Required                                                                                      
+  Fee paid previously with preliminary materials                                                       
+  Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a–6(i)(1) and 0–11  
+
+TABLE OF CONTENTS
+
+2025
+
+NOTICE OF ANNUAL MEETING
+
+OF STOCKHOLDERS AND
+
+PROXY STATEMENT
+
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+
+  DATE AND TIME                                   WHO CAN VOTE                                                                                                                                                         
+  June 11, 2025                                   Stockholders of record as of the close of business on April 16, 2025 will be entitled to notice of, and to vote at, the Annual Meeting, or any adjournment thereof.  
+  8:30 a.m. Pacific Time                                                                                                                                                                                               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  LOCATION                                                                                                                                                                                                             
+
+  VOTING ITEMS                                                                                                                                                                  
+     PROPOSALS                                                                                                           BOARD VOTE RECOMMENDATION         FOR FURTHER DETAILS  
+             1      Election of 2 Class I directors named in this                                                        “ FOR” each director nominee      Page 12              
+                    proxy statement                                                                                                                                             
+             2      Advisory vote to approve the appointment of Deloitte & Touche, LLP as the Company’s independent      “ FOR”                            Page 19              
+                    registered public accounting firm for 2025                                                                                                                  
+             3      To approve, on a non-binding, advisory basis, the compensation of the Company’s                      “ FOR”                            Page 21              
+                    named executive officers                                                                                                                                    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Stockholders will also transact any other business that may be properly presented at the Annual Meeting. This proxy statement is first being made available to our stockholders on April 24, 2025.
+
+We are holding the Annual Meeting in a virtual-only format this year. To attend the Annual Meeting online, vote, submit questions or view the list of registered stockholders during the meeting, stockholders of record will need to go to the meeting website listed above and log in using their 16-digit control number included on their proxy card or Notice. Beneficial owners should review these proxy materials and their voting instruction form for how to vote in advance of and how to participate in 
+the Annual Meeting.
+
+As permitted by the Securities and Exchange Commission (the “ SEC”), we are providing access to our proxy materials online under the SEC’s “notice and access” rules. As a result, unless you previously requested electronic or paper delivery on an ongoing basis, we are mailing to our stockholders a Notice of Internet Availability of Proxy Materials (the “ Notice”) instead of a paper copy of the proxy statement, our 2024 Annual Report and a form of proxy card or voting instruction card (together, 
+the “proxy materials”). This distribution process is more resource- and cost-efficient. The Notice contains instructions on how to access the proxy materials online. The Notice also contains instructions on how stockholders can receive a paper copy of our proxy materials. If you elect to receive a paper copy, our proxy materials will be mailed to you.
+
+We encourage you to review these proxy materials and vote your shares before the Annual Meeting.
+
+By Order of the Board of Directors,
+
+Vithya Aubee
+
+Chief Legal Officer, Secretary
+
+700 S. Flower Street, 15th Floor
+
+Los Angeles, California 90017
+
+April 24, 2025
+
+
+  HOW TO VOTE                                                                                                                                                                                                                                                                                                                                                                       
+  INTERNET                                                                                                                               TELEPHONE                                                                                            MAIL                                                                                QR CODE                                           
+  IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON JUNE 11, 2025                                                                                                                                                                                                                                                 
+
+
+
+  NOTICE OF ANNUAL MEETING OF STOCKHOLDERS                                      iii  
+  PROXY STATEMENT SUMMARY                                                         1  
+  CORPORATE GOVERNANCE                                                            5  
+  Director Independence                                                           5  
+  Board Leadership Structure                                                      5  
+  Director Nominations                                                            5  
+  Board Committees                                                                5  
+  Risk Oversight                                                                  9  
+  Communications with Directors                                                  10  
+  Governance Documents                                                           10  
+  Business Ethics                                                                10  
+  Policies and Procedures for the Company’s Related Person Transactions          10  
+  Related Party Transactions                                                     10  
+  Director Compensation                                                          11  
+  PROPOSAL 1: ELECTION OF DIRECTORS                                              12  
+  Director Nominees                                                              12  
+  ENVIRONMENT SUSTAINABILITY                                                     16  
+  HUMAN CAPITAL MANAGEMENT                                                       16  
+  DATA PRIVACY AND CYBERSECURITY                                                 18  
+  PROPOSAL 2: RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC       19  
+  Independent Public Accountant                                                  19  
+  Pre-Approval Policy                                                            20  
+  Audit Committee Report                                                         20  
+  PROPOSAL 3: NON-BINDING, ADVISORY VOTE TO APPROVE                              21  
+  EXECUTIVE COMPENSATION                                                         22  
+  Compensation Discussion and Analysis                                           23  
+  Compensation Committee Report                                                  26  
+  Summary Compensation Table                                                     26  
+  Grants of Plan Based Awards                                                    27  
+  Outstanding Equity Awards at Fiscal Year-End                                   28  
+  Options Exercises and Stock Vested Table                                       29  
+  Potential Payments Upon Termination or Change in Control                       29  
+  Pay Ratio Disclosure                                                           30  
+  Pay vs. Performance                                                            30  
+  EQUITY COMPENSATION PLAN INFORMATION                                           33  
+  BENEFICIAL OWNERSHIP OF SECURITIES                                             34  
+  QUESTIONS AND ANSWERS ABOUT THE ANNUAL MEETING                                 36  
+  OTHER MATTERS                                                                  39  
+
+
+  INDEX OF FREQUENTLY REQUESTED INFORMATION          
+  Board Leadership Structure                      5  
+  Board Committees                                5  
+  Director Independence                           5  
+  Risk Oversight                                  9  
+  Related Person Transaction Policy              10  
+  Governance Documents                           10  
+  Director Nominees                              12  
+  Human Capital Management                       16  
+  Environment Sustainability                     16  
+
+  FORWARD-LOOKING STATEMENTS AND WEBSITE REFERENCES                                                                                                                                                     
+  This document includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical or current facts...  
+
+
+PROXY STATEMENT SUMMARY
+
+This summary highlights information contained elsewhere in this Proxy Statement. This summary does not contain all of the information that you should consider, and you should read the entire Proxy Statement carefully before voting.
+
+  DATE AND TIME                   LOCATION                                RECORD DATE     
+  June 11, 2025 at 8:30 a.m.      Online at                               April 16, 2025  
+  Pacific Time                    www.virtualshareholdermeeting.com/                      
+                                  CCSI2025                                                
+ ──────────────────────────────────────────────────────────────────────────────────────────
+
+  VOTING MATTERS                                                            BOARD’ S VOTE RECOMMENDATIONS      FOR FURTHER INFORMATION  
+  PROPOSAL 1          Election of Directors                                 “ FOR” each director nominee       Page 12                  
+  PROPOSAL 2          Ratification of Independent Registered Public         “ FOR”                             Page 19                  
+                      Accounting Firm                                                                                                   
+  PROPOSAL 3          Provide Advisory Vote on the Compensation of our      “ FOR”                             Page 21                  
+                      Named Executive Officers                                                                                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Company Overview and Business Strategy
+
+Consensus Cloud Solutions, Inc., together with its subsidiaries (“ Consensus Cloud Solutions” or “ Consensus”, “our”, “us” or “we”), is a provider of secure information delivery services. With our most prominent brand eFax® established over twenty-five years ago, Consensus has now evolved the service platform from pure cloud Fax to efficient and secure information exchange featuring solutions for data extraction, comprehension and transformation, facilitating interoperability and process 
+improvement. Consensus is committed to security and compliance in data exchange, and our scalable Software-as-a-Service (“ SaaS”) platform is particularly attractive to regulated industries like healthcare and healthcare technology, public sector, financial services, law, and education. Our customer reach spans the globe to almost 50 countries, with approximately 800 thousand customers ranging from small businesses to large enterprises and the federal government. Each customer cohort has unique 
+needs and engagement preferences, and our go-to-market and customer service offerings are adapted across this continuum to serve each appropriately.
+
+Over the last 10 years, Consensus has increasingly focused on larger commercial and public sector customers. This shift occurred as enterprise data communication moved towards digital and cloud-based solutions. Sales to these customers are made through e-commerce and direct interaction with a salesperson, and often involve specific pricing, multiple line subscriptions, API connections, and/or commercial grade security. Sales channels include e-commerce, direct sales and sales through or referred
+by channel and strategic partners.
+
+Corporate Products and Solutions
+
+eFax Corporate®: eFax Corporate® provides digital cloud Fax technology enabling users to send, receive and manage faxes digitally through multiple user interfaces or seamlessly integrated in their application through a robust API.
+
+ECFax®: ECFax® is comparable to eFax Corporate in its features and use cases, but specifically developed for use by public sector customers with extremely high security demands. ECFax is operated and only accessible in a FedRAMP government cloud environment to meet those standards.
+
+Unite: Unite is a single platform that allows the user to choose between several protocols to send and receive healthcare information in an environment that can integrate into an existing electronic health record (“ EHR”) system or stand-alone if no EHR is present.
+
+jSign®: jSign® provides electronic signature and digital signature solutions to businesses, offering document markup and end-user signing services via mobile-aware web application and enterprise API.
+
+Conductor: Conductor is a robust interface engine and complete interoperability platform that provides seamless integration technology supporting all the latest standards for connectivity and data formats (API/FHIR, HL7, Direct Secure Messaging, web services, message queues, etc.), addressing a wide range of interoperability challenges from the simple to the extremely complex.
+
+Clarity: Using Natural Language Processing and Artificial Intelligence (NLP/AI), the Clarity platform can transform unstructured documents into structured actionable data. Clarity’s intelligent data extraction allows data to be sent to the right person, at the right place, at the right time - to accelerate patient treatment across the continuum of care.
+
+1
+
+
+SoHo Fax Solutions
+
+We also cater to individuals and small businesses with predefined subscriptions and e-commerce convenience through our small office/home office (“ SoHo”) online brands such as eFax®, jSign®, MyFax®, SFax®, MetroFax®, SRFax® and multiple others.
+
+Our Strengths
+
+Building on our position as a global provider of internet fax solutions from individuals to enterprises and across industries, Consensus is well positioned to capitalize on shifts in how we share private documents and information. We believe that our key strengths and competitive advantages include:
+
+  Differentiated Product Offering Based on Scalable SaaS Platform. Our scalable and highly customizable technology infrastructure supports the transmission of a large number of documents each yea...  
+
+  Position in the Growing Enterprise Cloud Fax Market. We believe our status in the enterprise cloud fax space provides Consensus with an opportunity for organic growth and the potential to explo...  
+
+  Positioned to Support Healthcare Interoperability. Consensus is in the healthcare communication ecosystem in part because fax remains a ubiquitous electronic document exchange protocol for high...  
+
+  Recurring Revenue Stream. Our revenues consist of monthly recurring subscription and usage-based fees, with monthly recurring fixed fees representing approximately 69% of our total subscription...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Global and Diversified Customer Base. Our customers are located globally across six continents. We believe that our product-line and geographic diversity, combined with our lack of customer con...  
+
+  Operational Efficiency and Capital Discipline. The recurring nature of our revenue, combined with high operational efficiency, results in predictable and attractive margins and free cash flow g...  
+
+  Proven and Experienced Management Team. Our experienced management team has a highly successful track record with regard to both business performance among its industry peer group, growing new ...  
+
+Our Strategy
+
+Our strategy focuses on generating attractive organic growth, achieving solid margins and free cash flow generation, pursuing value-accretive acquisitions and delivering high value to our shareholders. Our strategy includes:
+
+  Continuing to grow in Corporate secure information exchange;  
+ ────────────────────────────────────────────────────────────────
+
+  Provide solutions to healthcare interoperability challenges;  
+
+  Optimizing eCommerce (SoHo) revenue streams;  
+
+  Leveraging our technology to enter new markets (e.g., federal government);  
+
+  Positioning the business for sustained growth through continued focus on profitability and cash flow generation;  
+
+  Focused investments in our products and capabilities; and  
+
+  Complementing organic growth investments with targeted acquisitions.  
+
+On October 7, 2021, we completed a spin-off from our former parent company, J2 Global, Inc. (now known as “ Ziff Davis, Inc.”). We refer to this transaction, which resulted in the separation of Consensus and Ziff Davis into two separate publicly traded companies, as the “ Separation” or “ Spin-Off”.
+
+2
+
+
+Directors
+
+The following provides summary information about each director (including the director nominees):
+
+  NAME AND OCCUPATION                                                         AGE       OTHER      COMMITTEE    
+                                                                                       PUBLIC      MEMBERSHIPS  
+                                                                                       BOARDS                   
+                                                                                                   AC           
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DOUGLAS BECH                                                                 79           1                   
+  ELAINE HEALY +                                                               62           2                   
+  STEPHEN ROSS +                                                               77           0                   
+  NATHANIEL (NATE) SIMMONS                                                     48           0                   
+  PAMELA SUTTON-WALLACE                                                        55           0                   
+  SCOTT TURICCHI                                                               61           0                   
+
+  AC – Audit Committee                                                                                    
+                                                                      Independent                         
+                                                                      Chairman of the Board of Directors  
+
+                                         Chair   
+                                         Member  
+  +Audit Committee Financial Expert              
+
+Board Snapshot - Skills & Experience
+
+The following chart shows how certain relevant and important skills, experience, and other criteria, are currently represented on our board. This chart is not intended to be an exhaustive list for each director, but instead intentionally focuses on the primary skill sets each director contributes. We believe the combination of the skills and qualifications shown below demonstrates how our board is well-positioned to provide effective oversight and strategic advice to our management.
+
+  Board Skills and Experience Matrix                              
+  Total Number of Directors                                    6  
+  Prior Board Experience                                       6  
+  Financial Expert - CPA or CFO                                2  
+  Financially Literate - Accounting or Related Financial       5  
+  Operations                                                   5  
+  Cybersecurity                                                1  
+  Executive / CEO                                              6  
+  Human Resources / Compensation                               4  
+  Safety / Health / Environment                                1  
+  Legal / Regulatory / Government                              3  
+
+3
+
+
+Corporate Governance Highlights
+
+  Independent Chairman of the Board  
+
+  Supermajority of independent directors  
+
+  Majority vote for directors in uncontested elections  
+
+  Key committee memberships limited to independent directors  
+
+  Annual Board and committee self-evaluations  
+
+  No poison pill  
+
+  Active Board oversight of strategy, risk management, and environmental, social and governance matters  
+
+  Robust overboarding policies  
+
+  Hedging/pledging prohibited  
+
+4
+
+
+CORPORATE GOVERNANCE
+
+Director Independence
+
+Our board of directors (the “ Board”) has undertaken a review of its composition, the composition of its committees and the independence of each director. Based upon information provided by each director, our Board has determined that none of our directors, with the exception of Scott Turicchi, has a relationship that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director and, accordingly, that Douglas Bech, Elaine Healy, Stephen Ross, 
+Nathaniel Simmons, and Pamela Sutton-Wallace are each independent under applicable Nasdaq rules. In making these determinations, our Board considered the current and prior relationships that each non-employee director has with our Company and all other facts and circumstances our Board deemed relevant in determining their independence, including the beneficial ownership of our capital stock by each non-employee director.
+
+Board Leadership Structure
+
+The Board annually reviews its leadership structure to evaluate whether the structure remains appropriate for the Company. The Board believes that it is in the best interests of the Company and its stockholders to separate the Chairman of the Board and Chief Executive Officer roles and for our Chairman to be independent. Currently, Mr. Bech serves as our independent Chairman of the Board. The Board believes Mr. Bech is well suited to serve as independent Chairman of the Board given his 
+significant managerial, operational and global experience. As a result of his broad -based and relevant experience, as well as his deep knowledge of our business, Mr. Bech is well positioned to carry out the responsibilities of the independent Chairman of the Board and provide constructive, independent, and informed guidance and oversight to management. Our Board believes that our current structure, with an independent Chairman who is well-versed in the needs of a complex business and has 
+strong, well-defined governance duties, gives our Board a strong leadership and corporate governance structure that best serves the needs of Consensus and its stockholders. The Board will continue to evaluate its leadership structure on an ongoing basis and may make changes as appropriate to Consensus and its future needs.
+
+Director Nominations
+
+In accordance with its charter, the Environmental, Social and Corporate Governance Committee (“ ESG Committee”) determines the qualifications, qualities, skills, and other expertise required to be a director and recommends to the Board criteria to be considered in selecting nominees for directors. Our Board generally expects directors to possess the highest personal and professional ethics, integrity and values, and be committed to representing the long-term interests of the stockholders and 
+that directors should also have an inquisitive mind, an objective perspective, practical wisdom, mature judgment. Additionally, we believe diversity of thought and skill in the boardroom helps the Board better oversee Consensus’s management and provide strategic advice. The ESG Committee evaluates the composition of our Board annually to assess whether the skills, experience, characteristics and other criteria established by our Board are currently represented on our board as a whole, and in 
+individual directors, and to assess the criteria that may be needed in the future in light of the Company’s anticipated needs. The ESG Committee reviews the qualifications of director candidates and incumbent directors in light of the criteria established by our Board and recommends appropriate candidates to our Board for election by the Company’s stockholders at the applicable annual meeting. As part of the search process for each new director, the ESG Committee will include women and minority 
+candidates in the pool from which Board nominees are chosen. The Board will assess its effectiveness in this regard as part of the Board’s annual self-evaluation process.
+
+The ESG Committee reviews the qualifications of director candidates and incumbent directors in light of the criteria established by the Board, and any stockholder recommendations for directors are evaluated in the same manner as other candidates considered by the ESG Committee. Stockholders who wish to nominate a director for election to our Board should follow the procedures described under the “ Submission of Stockholder Proposals for the 2025 Annual Meeting” heading.
+
+Board Committees
+
+Our Board has four standing committees: an Audit Committee, a Compensation Committee, an ESG Committee, and an Executive Committee.
+
+In accordance with our Corporate Governance Principles, the independent directors meet in an executive session without management present on a regularly scheduled basis. Mr. Bech, as our independent Chairman, presides at these executive sessions.
+
+From January 1, 2024 to December 31, 2024, the Board held six meetings, in addition to five meetings of the Audit Committee, five meetings of the Compensation Committee and four meetings of the ESG Committee. All incumbent directors attended all of the meetings of the Board and committees on which they served during 2024.
+
+Directors are encouraged to attend the annual meeting of stockholders absent unusual circumstances. All 6 of our incumbent directors attended our 2024 Annual Meeting of Stockholders.
+
+5
+
+
+  AUDIT COMMITTEE                                                                                                                                                                                                            
+  MEMBERS              PRINCIPAL RESPONSIBILITIES:                                                                                                                                                                           
+
+6
+
+
+  COMPENSATION COMMITTEE                                                                                                                                                                                                            
+  MEMBERS                     PRINCIPAL RESPONSIBILITIES:                                                                                                                                                                           
+
+7
+
+
+  ENVIRONMENTAL, SOCIAL AND CORPORATE GOVERNANCE COMMITTEE                                                                                                                                                                                                            
+  MEMBERS                                                       PRINCIPAL RESPONSIBILITIES:                                                                                                                                                                           
+
+  EXECUTIVE COMMITTEE                                                                                                                                                                                                            
+  MEMBERS                  PRINCIPAL RESPONSIBILITIES:                                                                                                                                                                           
+
+8
+
+
+Risk Oversight
+
+A core responsibility of the Board is to understand the principal risks associated with the Company’s business on an ongoing basis, and oversee the key risk decisions of management, which includes comprehending the appropriate balance between risks and rewards. While the Audit Committee has primary responsibility for risk oversight, both the Audit Committee and the Board are actively involved in risk oversight and both receive reports on our risk management activities from our executive 
+management team on a regular basis. Members of both the Audit Committee and the Board also engage in periodic discussions with members of management as they deem appropriate to review and address the proper management of the Company’s risks. In addition, each committee of the Board considers risks associated with its respective area of responsibility.
+
+9
+
+
+Communications with Directors
+
+Stockholders and other interested parties may contact the Board by mailing correspondence “c/o Corporate Secretary” to the Company’s principal offices at 700 S. Flower Street, 15th Floor, Los Angeles, California 90017. Correspondence will be forwarded to the relevant director, except that the Corporate Secretary reserves the right not to forward advertisements or solicitations, customer complaints, obscene or offensive items, communications unrelated to the Company’s affairs, business or 
+governance, or otherwise inappropriate materials.
+
+Governance Documents
+
+The Audit Committee, Compensation Committee, ESG Committee, and Executive Committee each operate pursuant to written charters adopted by the Board. These charters, along with the Corporate Governance Principles and the Code of Conduct and Ethics, are available at the Company’s website. To access these documents from the Company’s website, go to https://investor. consensus. com/board-esg/ governance-documents.
+
+Business Ethics
+
+Our Board adopted a Code of Business Conduct and Ethics relating to the conduct of our business by all of our employees, executive officers (including our principal executive officer and principal financial officer/principal accounting officer (or persons performing similar functions)) and directors. This code satisfies the requirement that we have a “code of conduct” under the Nasdaq and SEC rules and is available on our website at https://investor. consensus. 
+com/board-esg/governance-documents. All global employees go through an annual training schedule which includes specific training on Code of Business Conduct and Ethics as well as Anti-Corruption and Bribery. To the extent required under the Nasdaq listing rules and SEC rules, we intend to disclose future amendments to certain provisions of this code, or waivers of such provisions, applicable to any of our executive officers or directors, on our website identified above.
+
+Additionally, all global employees receive and acknowledge various policies including our Insider Trading Policy and Whistleblower Policy in their Employee Handbook. The Company has established mechanisms for reporting ethical concerns and alleged misconduct, including complaints and concerns about accounting, internal accounting controls and auditing matters. As of April 16, 2025, The Company can confirm that there have been no reports made. The Company’s Whistleblower Policy and related 
+documents are made available on its public website, internal platforms, and the Employee Handbook.
+
+Insider Trading Policy
+
+We have adopted an insider trading policy that covers the purchase, sale and/or other dispositions of our securities by our directors, officers, and employees that we believe is reasonably designed to promote compliance with insider trading laws, rules and regulations and applicable exchange listing standards. A copy of our insider trading policy was filed as Exhibit 19.1 to our Annual Report on Form 10-K for the year ended December 31, 2024.
+
+Hedging Policy
+
+The Compensation Committee has adopted a policy prohibiting all employees, including executive officers, and directors from engaging in any form of hedging transaction involving the securities of the Company. The policy addresses short sales and transactions involving publicly traded options and also prohibits such individuals from holding our securities in margin accounts and from pledging our securities as collateral for loans. We believe that these policies further align our executives’ 
+interests with those of our stockholders.
+
+Related Person Transaction Policy
+
+We have adopted a Related Party Transaction Policy that our executive officers, directors, nominees for election as a director, beneficial owners of more than 5% of any class of our common stock and any members of the immediate family of any of the foregoing persons are not permitted to enter into a related person transaction with us without the approval or ratification of our Audit Committee or other independent body of our Board of Directors. Any request for us to enter into a transaction with
+an executive officer, director, nominee for election as a director, beneficial owner of more than 5% of any class of our common stock, or any member of the immediate family of any of the foregoing persons, in which the amount involved exceeds $120,000 and such person would have a direct or indirect interest, must be presented to our Audit Committee for review, consideration, and approval. In approving or rejecting any such proposal, our Audit Committee is to consider, among other factors it 
+deems appropriate, whether the transaction is on terms no less favorable than terms generally available to an unaffiliated third-party under the same or similar circumstances and the extent of the related person’s interest in the transaction.
+
+Related Party Transactions
+
+In connection with the Separation, Consensus and Ziff Davis entered into a separation and distribution agreement, as well as various other agreements to provide a framework for our relationship with Ziff Davis after the Separation, such as a transition services agreement, a tax matters agreement, an employee matters agreement, an intellectual property license agreement and a stockholder and registration rights agreement. These agreements provide for the allocation between Consensus and Ziff 
+Davis of assets, employees, liabilities and obligations (including investments, property and employee benefits and tax-related assets and liabilities) associated with the Cloud Fax business and govern certain relationships between Consensus and Ziff Davis after the Separation. For additional details regarding these agreements see Exhibit 99.1 to Amendment No. 3 to the Company’s Registration Statement on Form 10 as filed with the SEC on September 21, 2021.
+
+10
+
+
+Director Compensation
+
+Our non-employee directors are eligible to receive cash compensation for their service on the Board in the form of cash retainers, including an annual cash retainer and additional cash retainers for service as Chair of the Board or of a Board committee. The cash component of the non-employee director compensation program is reviewed on an annual basis and provides for:
+
+  Position                                     Retainer ($)  
+  Annual Cash Retainer                              $50,000  
+  Chair of the Board Annual Cash Retainer           $50,000  
+  Committee Chair Cash Retainers                             
+  Audit Committee                                   $30,000  
+  Compensation Committee                            $20,000  
+  ESG Committee                                     $20,000  
+
+Our non-employee directors will also receive annual grants of restricted stock units with an aggregate grant date value of $200,000 (which fully vest on the first anniversary of the date of grant).
+
+Our directors will be reimbursed for travel, food, lodging and other expenses directly related to their activities as directors. Our directors are also entitled to the protection provided by the indemnification provisions in our bylaws. Our Board may revise the compensation arrangements for our directors from time to time.
+
+The table below describes the compensation provided to our non-executive directors in fiscal 2024. Mr. Turicchi, our Chief Executive Officer, does not receive additional compensation for his service on the Board.
+
+  Name                          Fees Earned or           Stock      Total ($)  
+                                          Paid      Awards (1)                 
+                                   in Cash ($)             ($)                 
+ ───────────────────────────────────────────────────────────────────────────────
+  Douglas Bech                         100,000         199,994        299,994  
+  Elaine Healy                          80,000         199,994        279,994  
+  Stephen Ross                          70,000         199,994        269,994  
+  Nathaniel (Nate) Simmons              50,000         199,994        249,994  
+  Pamela Sutton-Wallace                 70,000         199,994        269,994  
+
+  (1)      These amounts represent the grant date fair value calculated in accordance with FASB ASC Topic No. 718, Compensation – Stock Compensation (“ ASC 718”) for restricted stock units granted in 2024...  
+
+11
+
+
+  PROPOSAL 1                                                                                                                                                                                            
+  Election of Directors                                                                                                                                                                                 
+  Our Board recommends a vote “ FOR ” the election of each nominee.                                                                                                                                     
+
+Director Nominees
+
+For each of the two director nominees standing for election, as well as the four other directors with terms expiring at future annual meetings, the following describes certain biographical information and the specific experience, qualifications, attributes or skills that qualify them to serve as our directors and, as applicable, the Board committees on which they serve.
+
+Nominees for Election to a One-Year Term Expiring at the 2026 Annual Meeting of Stockholders
+
+                                                                                                                                                                                                            Nathaniel             
+  COMMITTEES                                                                                                                                                                                                                      
+  BACKGROUND                                                                                                                                                                                                                      
+
+12
+
+
+                                                                                                                                                                                                            Douglas Bech                                               
+  COMMITTEES                                                                                                                                                                                                                              OTHER PUBLIC COMPANY BOARDS  
+  BACKGROUND                                                                                                                                                                                                                                                           
+
+Directors Continuing in Office Until the 2026 Annual Meeting of Stockholders
+
+                                                                                                                                                                                                            Elaine Healy                                               
+  COMMITTEES                                                                                                                                                                                                                          OTHER PUBLIC COMPANY BOARDS      
+  BACKGROUND                                                                                                                                                                                                                                                           
+
+13
+
+
+                                                                                                                                                                                                            Stephen Ross          
+  COMMITTEES                                                                                                                                                                                                                      
+  BACKGROUND                                                                                                                                                                                                                      
+
+                                                                                                                                                                                                            Pamela                
+  COMMITTEES                                                                                                                                                                                                                      
+  BACKGROUND                                                                                                                                                                                                                      
+
+14
+
+
+                                                                                                                                                                                                            Scott Turicchi            
+  COMMITTEES                                                                                                                                                                                                                          
+  BACKGROUND                                                                                                                                                                                                                          
+
+15
+
+
+ENVIRONMENTAL SUSTAINABILITY
+
+Consensus is a cloud solution-based business and our direct operations generate relatively light greenhouse gas emissions. Nonetheless, we strive further to create a climate friendly culture at our headquarters in downtown Los Angeles (“ HQ”). We are mindful of our carbon footprint and strive to make choices to lessen our impact on the environment. Our HQ is within a Leadership Energy Environmental Design (“ LEED”) building. LEED, sponsored by the United States Green Building Council (“ USGBC”),
+is a globally recognized symbol of sustainability and the most widely used green building rating system in the world. Further, we are located within walking distance to a primary downtown Los Angeles Metro Center to encourage use of public transportation, which we further emphasize by offering monthly stipends for those employees who elect this method of transportation. Additionally, we continue to evaluate the need for airline travel and encourage virtual meetings whenever possible. We will 
+continue to find ways to be environmentally responsible.
+
+The Company has also transitioned all but 2 of its co-location data centers to the cloud with AWS. Cloud based products offer greater energy efficiency when compared to onsite data centers.
+
+HUMAN CAPITAL MANAGEMENT
+
+The Chief People Officer reports directly to the CEO and partners with the Executive Team and the Board of Directors to focus on the strategic direction necessary to attract qualified candidates on a global scale and develop and retain our current global workforce. As of December 31, 2024, we had 518 employees, with just less than a quarter of the employees located outside of the United States. We are committed to driving strong employee engagement to motivate our highly qualified workforce as 
+we believe their professional development and success is key to our Company’s continued success.
+
+Our Culture
+
+We have a strong enterprise-wide culture that focuses on our core values - strive for excellence, demonstrate empathy, embrace innovation, foster open communication, focus on solutions, and be driven by data as we make decisions, and in turn, deliver solid business results. Our mission is to be the trusted global source for the transformation, enhancement and secure exchange of digital information. Our vision is to deliver life’s essential data when, where and how you need it.
+
+We recognize that each employee’s unique experiences, perspectives and viewpoints add value to our ability to create and deliver the most innovative work environment for our employees and the best possible service to our diverse customers. To this effect, we promote and implement trainings and events to foster a respectful, collaborative, and professional workplace environment where each employee feels they can contribute to the overall success of the Company.
+
+We reinforce our culture and our values by seeking out qualified candidates who align well with our organizational priorities and values. We continue to evolve our programs to meet our colleagues’ health and wellness needs, which we believe are essential to attract and retain employees of the highest caliber, and we offer a competitive benefits package focused on fostering work/life integration.
+
+Employee Compensation & Benefits
+
+Compensation is an important consideration for all of our employees and we strive to pay competitive compensation packages that reflect the success of the business and the individual contributions of each colleague. We are committed to fair pay practices and roles are periodically benchmarked to help inform where adjustments may be needed.
+
+We provide our employees with benefits we believe will optimize the talent critical for our success and promote day to day well-being. Our benefits include comprehensive health insurance coverage covering 85% of health insurance premiums for covered U. S. employees and their families, a 401(k) plan with company matching contributions, an employee stock purchase program, share-based compensation, flexible time off, sick time off, up to 6 weeks of paid pregnancy leave, up to 10 weeks of paid 
+parental leave and 24 hours annually of fully paid volunteer time off.
+
+Talent Pipeline Strategy
+
+We source for evergreen positions within our Technology, Sales and Customer Support families to build a pipeline of qualified candidates as we cultivate relationships with prospective candidates. We have a robust employee referral program, an internal mobility program and continue to source candidates through various specialized groups and programs which provide an opportunity to cultivate networking relationships. We continue to have our hiring managers network and post jobs via multiple social
+media outlets. We also continue to review job requirements and reach out to qualified candidates within our competitive landscape.
+
+Employee Development
+
+The Company continues to work with employees on their professional development. As part of the onboarding program, there is a 30-60-90 day feedback tool to assist the employee and their manager to determine the milestones necessary for success. The Company invested in a people success platform which includes survey tools, goal setting, manager performance reviews, self-evaluations and upward manager feedback. From these semi-annual reviews, employee training programs are developed including 
+employee coaching, manager training, presentation skills training and other skill-based learning tools. Additionally, an Employee Tuition Reimbursement Program encourages ongoing education for our employees to assist in their professional development.
+
+16
+
+
+Health and Wellness
+
+Creating a culture where all colleagues feel supported and valued is paramount to our corporate mission. We continue to evolve our programs to meet our colleagues’ health and wellness needs, which we believe is essential to attract and retain employees of the highest caliber, and we offer a competitive benefits package focused on fostering work/life integration.
+
+Wellness resources are provided through our medical carriers - Kaiser Permanente and Cigna, including Ginger, Calm, Happify, Recovery One and Omada. Additionally, we held multiple wellness related seminars, including seminars related to financial wellness, and multiple 401(k) seminars on a variety of topics for our employees. We also launched an internal wellness website focused on employee mental health and we participate annually in a Company-wide wellness challenge.
+
+Community Outreach
+
+The Company provides 24 paid hours per calendar year for our employees to volunteer their time to support their communities. We launched Consensus Cares which is a global volunteer program and aligns initiatives of community outreach. We also coordinate an annual Do Good Challenge to encourage participation in making a difference in our local communities, and in 2024 our employees contributed over 500 volunteer hours through this challenge.
+
+17
+
+
+DATA PRIVACY & CYBERSECURITY
+
+As noted in the Risk Oversight section above, the Company has a Cybersecurity and Governance Council that meets regularly to oversee the Company’s privacy program, cybersecurity risks, risk management, and relevant legislative, regulatory, and technical developments relevant to privacy and data security matters on a global scale. The Company is also engaged with a third-party Data Protection Officer to oversee and ensure compliance with the General Data Protection Regulation (GDPR) and 
+third-party auditors for HITRUST, ISO 27001, PCI, and SOC 2 Type 2, as further detailed below.
+
+The Consensus Cloud Solutions security platform is a key focus of the Company. Our Company’s cybersecurity practices include programs for HIPAA compliance, HITRUST, ISO 27001, PCI, FedRAMP, SOC2, and GDPR.
+
+The Company uses the HITRUST Common Security Framework (CSF), an externally audited solution, to manage its HIPAA compliance. HITRUST has more than 500 different controls to ensure that your system is as secure and protected as possible.
+
+The Federal Risk and Authorization Management Program (“ FedRAMP”) has a risk profile standard featuring three levels of security impact: low impact, moderate impact and high impact. FedRAMP high impact has more than 400 different controls. Consensus Cloud Solutions has been certified FedRAMP High.
+
+Our systems are SOC2, Type Two certified. There are trust principles that the SOC2 system embodies having to do with data privacy, security, integrity, and confidentiality. All of those trust principles are what we are externally audited on an annual basis and certified.
+
+In addition, the Company is certified for PCI compliance (the payment card industry compliance standards) on an annual basis by an external auditor as a merchant. We’re evaluated at level one because of the size and scope that we operate at, which is the highest of levels.
+
+All Company employees must complete trainings at least annually on various kinds of security threats and best practices including but not limited to trainings on: the Company’s Information Security Policy; Information Security Incident Response Plan; HIPAA, PCI Compliance; GDPR and CCPA; Security Awareness and Incident Response Training covering Social Engineering Phishing (identification and common red flags), Social Media safety best practices, Internet Security best practices, and Incident 
+response training for end-users; and Phishing. In addition, our developers must complete Secure Code / Secure Application Development Training based on OWASP top 10 standards.
+
+18
+
+
+  PROPOSAL 2                                                                                                                                                                                            
+  Ratification of Appointment of Independent Registered Public Accounting Firm                                                                                                                          
+  Our Board recommends a vote “ FOR ” the ratification of the selection by the Audit Committee of Deloitte as our independent registered public accounting firm.                                        
+
+Independent Public Accountant
+
+The following is a summary of fees paid or to be paid to Deloitte for services rendered for the Company in fiscal 2023 and 2024. All such services were pre-approved by our Audit Committee in accordance with the “ Pre-Approval Policy” described below.
+
+                              FOR THE YEAR ENDED      FOR THE YEAR ENDED  
+                               December 31, 2023       December 31, 2024  
+ ──────────────────────────────────────────────────────────────────────────
+  Audit Fees (1)                      $2,225,619              $2,788,600  
+  Audit-Related Fees (2)                      $0                      $0  
+  Tax Fees (3)                           $23,129                 $17,930  
+  All Other Fees (4)                          $0                      $0  
+  Total                               $2,248,748              $2,806,530  
+
+  (1)      Audit Fees included amounts billed or to be billed for professional services rendered for the audit of the annual consolidated financial statements and the review of financial statements includ...  
+
+  (2)      Audit Related Fees included amounts billed for assurance and related services.  
+
+  (3)      Tax Fees, if any, consist of professional services rendered for tax compliance and tax planning for each applicable year.  
+
+  (4)      All Other Fees, if any, include amounts billed for all other fees not related to the categories presented above.  
+
+19
+
+
+Additional Information Regarding Change of Auditor
+
+As reported on the Company’s Current Report on Form 8-K, dated June 5, 2023, BDO served as the Company’s independent registered public accounting firm until May 30, 2023, when the Audit Committee dismissed BDO. In consideration of a potential audit firm rotation, the Audit Committee conducted a competitive process to determine the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2023. The Audit Committee considered multiple registered public 
+accounting firms to participate in this process. On May 31, 2023, following the review and evaluation of the proposals from the participating firms, the Audit Committee selected Deloitte as the Company’s new independent registered public accounting firm for the Company’s fiscal year ending December 31, 2023.
+
+BDO’s audit reports on the Company’s consolidated financial statements as of and for the fiscal years ended December 31, 2021 and December 31, 2022 did not contain any adverse opinion or a disclaimer of opinion, and were not qualified or modified as to uncertainty, audit scope or accounting principles.
+
+During the fiscal years ended December 31, 2021 and December 31, 2022, and in the subsequent interim periods through May 30, 2023, there were no (1) disagreements (within the meaning of Item 304(a)(1)(iv) of Regulation S-K (“ Regulation S-K”) of the rules and regulations of SEC) with BDO on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure which if not resolved to BDO’s satisfaction, would have caused BDO to make reference to the 
+subject matter of such disagreement in connection with its report, or (2) reportable events (within the meaning of Item 304(a)(1)(v) of Regulation S-K of the rules and regulations of the SEC), except for the material weaknesses disclosed in Item 9A of the Company’s Annual Reports on Form 10-K for the fiscal years ended December 31, 2022 and 2021 relating the Company’s internal control over financial reporting. For the fiscal year ended December 31, 2022, these material weaknesses related to (1) 
+entity-level controls impacting the control environment and monitoring of controls; (2) accounting for revenue recognition and related controls; (3) accounting for significant unusual transactions; (4) balance sheet account reconciliations; and (5) user access and segregation of duties related to systems that track employee related costs. For the fiscal year ended December 31, 2021, the material weakness related to accounting for certain elements of the spin-off transaction.
+
+During the Company’s fiscal years ended December 31, 2021 and December 31, 2022, and for the subsequent interim periods through May 31, 2023, neither the Company nor anyone on its behalf consulted Deloitte regarding (i) the application of accounting principles to a specific transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company’s financial statements, and neither a written report nor oral advice was provided to the Company that Deloitte 
+concluded was an important factor considered by the Company in reaching a decision as to any accounting, auditing, or financial reporting issue; (ii) any matter that was the subject of a disagreement within the meaning of Item 304(a)(1)(iv) of Regulation S-K and the related instructions; or (iii) any reportable event within the meaning of Item 304(a)(1)(v) of Regulation S-K.
+
+Pre-Approval Policy
+
+The Audit Committee has adopted an Audit and Non-Audit Services Pre-Approval Policy, under which the Audit Committee annually reviews and pre-approves the services that are expected to be provided by the outside auditor. Any engagement to provide audit or non-audit services that has not been pre-approved through that process must be specifically pre-approved by the Audit Committee if it is to be provided by the outside auditor. The Audit Committee may delegate its pre-approval responsibilities 
+to one or more subcommittees as the Audit Committee may deem appropriate, provided that any pre-approval of services by such subcommittees pursuant to this delegated authority must be presented to the full Audit Committee at its next scheduled meeting.
+
+Audit Committee Report*
+
+The Audit Committee has reviewed and discussed our audited financial statements with management, and has discussed with our independent registered public accounting firm the matters required to be discussed by applicable requirements of the Public Company Accounting Oversight Board (the “ PCAOB”) and SEC. Additionally, the Audit Committee has received the written disclosures and the letter from our independent registered public accounting firm, as required by the applicable requirements of the 
+PCAOB, and has discussed with the independent registered public accounting firm the independent registered public accounting firm’s independence. Based upon such review and discussion, the Audit Committee recommended to the Board that the audited financial statements be included in our Annual Report on Form 10-K for the last fiscal year for filing with the SEC.
+
+Submitted by:
+
+Audit Committee of the Board of Directors
+
+Elaine Healy (Chair)
+
+Stephen Ross
+
+Pamela Sutton-Wallace
+
+  The information contained in this Audit Committee Report shall not be deemed to be “soliciting material” or “filed” or incorporated by reference in future filings with the SEC, or subject to th...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+20
+
+
+  PROPOSAL 3                                                                                                                                                                                            
+  Advisory Vote to Approve Named Executive Officer Compensation                                                                                                                                         
+  Our Board recommends a vote “ FOR ” Proposal 3 to approve the compensation of our named executive officers.                                                                                           
+
+21
+
+
+EXECUTIVE COMPENSATION
+
+Information About Our Executive Officers
+
+Below is a list of our executive officers and their respective ages and a brief account of the business experience of each of them.
+
+  Scott Turicchi, Chief Executive Officer and Director, age 61. Please see “ Directors Continuing in Office Until the 2024 Annual Meeting of Stockholders” for information regarding Mr. Turicchi.  
+
+  James Malone, Chief Financial Officer, age 76, has served as our Chief Financial Officer since January 2022. Prior to joining Consensus, Mr. Malone served as the Executive Vice President and Ch...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Vithya Aubee, Chief Legal Officer and Secretary, age 36, has served as our Chief Legal Officer, Secretary, since October 2021. Prior to joining Consensus, Ms. Aubee served in various legal role...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Jeffrey Sullivan, Chief Technology Officer, age 60, has served as our Chief Technology Officer since October 2021. He served as Chief Technology Officer of the J2 Global Inc. Cloud Fax business...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+22
+
+
+Compensation Discussion and Analysis
+
+Introduction
+
+The Compensation Discussion and Analysis provides an overview of the components of our executive compensation program, the purpose of each component, and the decisions made by the Compensation Committee with respect to the 2024 compensation of our named executive officers (“ NEOs”). Our NEOs in 2024 were:
+
+  Scott Turicchi, Chief Executive Officer  
+
+  James Malone, Chief Financial Officer  
+
+  Vithya Aubee, Chief Legal Officer and Secretary  
+
+  Jeffrey Sullivan, Chief Technology Officer  
+
+Role of Compensation Committee and Third-Party Compensation Consultant in Establishing Compensation
+
+The Compensation Committee engaged a third-party compensation consultant, Frederic W. Cook & Co., Inc. (“ FW Cook”) to prepare a competitive analysis and benchmarking of executive compensation programs for the Compensation Committee to consider in establishing and awarding its executive compensation (“ FW Cook Executive Pay Benchmarking and Analysis”). Specifically, our Compensation Committee worked with FW Cook to review competitive market data and analysis, including information about current 
+market practices and trends, compensation structures and compensation ranges of a comparison group selected by FW Cook for fiscal 2024 (the “2024 Peer Group”), which, other than the removal of two companies, is the same comparison group selected by FW Cook for 2023. The 2024 Peer Group was comprised of the following companies that have a revenue and market capitalization that is roughly1∕3to 3 times the size of the Company and operate in the application and system software services, health care 
+technology and other related technology services:
+
+  •                                                               •                  
+  •                                                               •                  
+  •                                                               •                  
+  •                                                               •                  
+  •                                                               •                  
+  •                                                               •                  
+  •                                                                                  
+
+Based on the FW Cook Executive Pay Benchmarking and Analysis, the Compensation Committee established the base salary, target bonus, and stock award detailed below for the NEOs.
+
+Annual Base Salary
+
+Base salary is a customary, fixed element of compensation intended to attract and retain highly skilled executives. When setting the annual base salaries of our NEOs, the Compensation Committee considered the relevant experience and skillset of the NEOs and the FW Cook Executive Pay Benchmarking and Analysis. Base salaries will be evaluated annually for all Company employees, including our executive officers.
+
+Performance Incentive Compensation (“ PIC”)
+
+The annual bonus program, also known as Performance Incentive Compensation (“ PIC”), for our NEOs is intended to reward strategic deliverables, drive organic revenue growth, minimize expenses and align the interests of our NEOs with the interests of our stockholders. The PIC is earned based on achievement of goals with respect to two performance metrics: Organic Revenue and Non-GAAP Net Income.
+
+The plan has been designed with insight from FW Cook and reviewed against the Company’s 2024 Peer Group based on guidance from the Chairman of the Compensation Committee and management. The Organic Revenue and Non-GAAP Net Income targets are reviewed and approved by the Compensation Committee in conjunction with the Board’s approval of the annual budget.
+
+For 2024, 33% of the PIC payout is based on level of achievement with respect to the Organic Revenue performance metric. Below 95% of target-level attainment, there is no payout. At 95%, the plan will pay 15% of target payout; this payout accelerates to 100% when the Organic Revenue is achieved at target level. Above 100% achievement, there is linear interpolation between 100%-104% attainment of the target level achievement which pays out between 100%-200%. By way of example, if we attain 102.5%
+of targeted Organic Revenue, payout for this component would be 158%. Organic Revenue is defined as revenues, as calculated on a GAAP basis, exclusive of revenue contribution from acquisitions made within the fiscal year. For 2024, the Organic Revenue target for purposes of the PIC was set at $345,088,000.
+
+For 2024, 67% of the PIC payout is based on level of achievement with respect to the Non-GAAP Net Income performance metric. Below 90% of target-level attainment, there is no payout; between 90%-110%, there is linear interpolation which pays out up to a maximum of 200% of target. By way of example, if we attain 102% of targeted Non-GAAP Net Income, payout for this component would be 120%. Non-GAAP Net Income for the purposes of the PIC is defined as revenues less cost of revenues, operating 
+expenses, income taxes, and interest expenses, excluding expenses related to share-based compensation, amortization of patents and acquired intangible assets, and other non-recurring expenses related to operation of the business. For 2024, the Non-GAAP Net Income target for purposes of the PIC was set at $100,621,000.
+
+The 2024 PIC payment calculation was based on the achievement percentage with respect to the budgeted Organic Revenue and Non-GAAP Net Income for the 2024 fiscal year. Based on the calculations, the payout percentages are noted as follows:
+
+  33% Organic Revenue - 2024 achievement was 101.53% overall (within the targeted range of 95% - 104%). Consequently, the payout for Organic Revenue was 133.82%.  
+
+  67% Non-GAAP Net Income - 2024 achievement was 108.48% (within the targeted range of 90-108.5%). Consequently, the payout for Non-GAAP Net Income was 184.76%.  
+
+23
+
+
+CEO Long-Term Equity Incentive Compensation
+
+In connection with his appointment as Chief Executive Officer of the Company, Mr. Turicchi was awarded an upfront long-term equity award (“ Long Term Equity Award”) on December 15, 2021 (“ Grant Date”) under the Consensus Cloud Solutions, Inc. 2021 Equity Incentive Plan (the “2021 Equity Incentive Plan”). It is the Compensation Committee’s current intent that this upfront, Long Term Equity Award will be the only stock based compensation awarded to Mr. Turicchi over the five years following the 
+Grant Date, or, if later, until the awarded stock units have substantially vested. The Compensation Committee, with the assistance of FW Cook, emphasized long-term performance and retention by weighting the compensation of Mr. Turicchi toward long-term equity incentives. Mr. Turicchi received 266,667 performance-based restricted stock units (“ PSUs”) and 80,000 time-based restricted stock units (“ RSUs”). The RSUs vest over a five-year vesting period, vesting with respect to 25% of the RSU award
+on the first anniversary of the Grant Date and the remaining 75% of the RSU award ratably over the remaining 4 years, subject to continued employment except as described below. The PSUs vest in one-fifth increments only if the Company’s common stock price remains at or above the following five stock prices for at least 20 trading days in any 25 consecutive trading day period: $62.87, $69.15, $76.07, $83.67, and $92.04; provided that no PSUs may vest before the first anniversary of the Grant 
+Date. The stock price thresholds were based on the compounded annual growth rate in the Company’s common stock price from the date of its initial public offering until the Grant Date, as applied to each of the five successive stock price thresholds. The recipient has a total of six years to achieve the performance targets with respect to the PSUs. Any unvested PSUs generally are forfeited upon termination of employment except as described below. The RSUs and PSUs are otherwise subject to the 
+terms and conditions of the 2021 Equity Incentive Plan, and the individual award agreements thereunder corresponding to the awards.
+
+Annual Equity Incentive Compensation for Other Executive Officers
+
+The Company also granted equity-based awards to its NEOs (other than Mr. Turicchi) and certain other senior managers in the form of RSUs and PSUs (“ Annual Equity Award”). Unlike the awards described above, these grants were not intended to be one-time, large grants; rather, it is expected that our key employees other than Mr. Turicchi will receive annual equity incentive grants. The awards granted are based on executive compensation benchmarking data provided by FW Cook and each award is 
+designed and developed in conjunction with the Compensation Committee and is intended to align the interests of our key employees with the interests of our stockholders. The Annual Equity Award RSUs are intended to support retention and facilitate stock ownership for key employees. The Annual Equity Award RSUs vest ratably over a four-year vesting period, vesting with respect to one-fourth of the award on the first anniversary of the grant date and vesting with respect to one-eighth of the award
+every 6 months thereafter, provided that the recipient is still employed by the Company on the applicable vesting date. The purpose of the Annual Equity Award PSUs is for key employees to have a portion of their equity-based compensation conditioned on the Company’s achievement of performance goals. The 2024 Annual Equity Award PSUs vest with respect to one-fourth of such shares at each such time as Company common stock remains at or above the following four stock prices for at least 20 trading 
+days in any 30 consecutive trading day period: $26.29, $27.61, $28.99 and $30.44; provided no PSUs shall vest prior to the first anniversary of the date of grant, whether or not any stock price condition is satisfied prior to such time. The recipients have a total of eight years to achieve any performance targets with respect to the PSUs. Any unvested PSUs generally are forfeited upon termination of employment, except in the event of death, disability, or retirement as disclosed below. The 
+Annual Equity Award RSUs and PSUs are otherwise subject to the terms and conditions of the 2021 Equity Incentive Plan, and the individual award agreements thereunder corresponding to the awards.
+
+Other Benefits
+
+Our Company’s NEOs may also participate in the Company’s health, vision, dental, life and disability insurance plans, voluntary life and disability plans, our tax-qualified 401(k) plan with company matching contributions, and other Company benefits to the same extent as all other eligible employees. The Company does not provide any special benefits or perquisites to the Company’s executive officers.
+
+Equity Grant Practices
+
+The Compensation Committee generally approves the target value of Annual Equity Awards for the Company’s executive officers, including the NEOs (other than Mr. Turicchi), at its meeting in November or December of each year.
+Additionally, employees may enroll to purchase shares of the Company’s common stock under the terms of the Consensus Cloud Solutions, Inc. 2021 Employee Stock Purchase Plan. In special circumstances, including the hiring or promotion of an individual or where the Compensation Committee determines it is in the best interest of the Company, the Compensation Committee may approve grants of equity awards at other times. The Company did not grant any stock options in fiscal 2024. The Company did not 
+time the disclosure of material nonpublic information for the purpose of affecting the value of any executive compensation awarded during fiscal 2024.
+
+Clawback Policy
+
+The Company maintains the Consensus Cloud Solutions, Inc. Compensation Recoupment (Clawback) Policy (the “ Clawback Policy”), which provides that, in the event that the Company is required to prepare an accounting restatement due to the Company’s material non-compliance with any financial reporting requirement under the federal securities laws, the Company will, subject to limited exceptions, recover the amount of any applicable incentive-based compensation received by an executive covered by 
+the Clawback Policy during the applicable recovery period (generally the prior three completed fiscal years) that exceeds the amount that otherwise would have been received had it been determined based on the restated financial statements. The Clawback Policy is intended to comply with, and will be administered and interpreted consistent with, the requirements of, Rule 10D-1 under the Exchange Act Rule and applicable Nasdaq listing standards.
+
+24
+
+
+Tax and Accounting Considerations
+
+Taxation of “ Parachute” Payments and Deferred Compensation: Sections 280G and 4999 of the Internal Revenue Code provide that executive officers, directors who hold significant equity interests, and certain other service providers may be subject to significant additional taxes if they receive payments or benefits in connection with a change of control of the Company that exceed certain prescribed limits, and that the Company may forfeit a deduction on the amounts subject to this additional tax. 
+We did not provide any executive officers, including any NEO, with a “gross-up” or other reimbursement payment for any tax liability that the executive officer might owe as a result of the application of Sections 280G or 4999 during fiscal 2024 and we have not agreed to and are not otherwise obligated to provide any NEO with such a “gross-up” or other reimbursement.
+
+Section 409A of the Internal Revenue Code imposes significant additional taxes in the event that an employee executive officer, director or service provider receives “deferred compensation” that does not satisfy the restrictive conditions of the provision. We generally have structured our equity awards in a manner intended to be exempt from, or comply with the applicable Section 409A conditions.
+
+Accounting for Stock-Based Compensation: The Company accounts for share-based awards to employees and non-employees in accordance with the provisions of ASC 718. Accordingly, the Company measures share-based compensation expense at the grant date, based on the fair value of the award, and recognizes the expense over the employee’s requisite service period using the straight-line method. The measurement of share-based compensation expense is based on several criteria, including but not limited to
+the valuation model used and associated input factors, such as the stock price on the date of grant, expected term of the award, stock price volatility, risk free interest rate, dividend rate and award forfeiture rate. These inputs are subjective and are determined using management’s judgment. If differences arise between the assumptions used in determining share-based compensation expense and the actual factors, which become known over time, the Company may change the input factors used in 
+determining future share-based compensation expense. Any such changes could materially impact the Company’s results of operations in the period in which the changes are made and in periods thereafter. The Company estimates the expected term based upon the contractual term of the award. When determining the types and amounts of equity compensation granted to the NEOs, the Compensation Committee considers the advantages and disadvantages of various equity vehicles, such as stock options, RSUs and 
+PSUs. As part of this consideration, the Compensation Committee considers the overall program cost, which includes the associated compensation expense for financial reporting purposes.
+
+25
+
+
+Compensation Committee Report
+
+The Compensation Committee has reviewed the Compensation Discussion and Analysis section of this proxy statement and discussed that section with management. Based on its review and discussions with management, the Compensation Committee recommended to our Board that the Compensation Discussion and Analysis be included in this proxy statement. This report is provided by the following members of our Board, who compose the Compensation Committee:
+
+Stephen Ross (Chair)
+
+Douglas Bech
+
+Elaine Healy
+
+Summary Compensation Table
+
+The following table sets forth the compensation earned during fiscal 2024 (January 1, 2024 - December 31, 2024), fiscal 2023 (January 1, 2023 - December 31, 2023) and fiscal 2022 (January 1, 2022 - December 31, 2022) by our NEOs, which includes our principal executive officer, principal financial officer and our two other executive officers that served in such capacities at December 31, 2024. While SEC rules require that, in addition to the principal executive officer and principal financial 
+officer, disclosure must be provided with respect to the next three most highly compensated executive officers who served in such capacities at December 31, 2024, because we only had four executive officers in total during 2024 we are only able to include the next two.
+
+  Name and Principal            Year      Base Salary          Stock          Non-Equity         All Other          Total  
+  Position                                    ($) (1)         Awards      Incentive Plan      Compensation            ($)  
+                                                             ($) (2)        Compensation           ($) (4)                 
+                                                                                 ($) (3)                                   
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Scott Turicchi                2024          750,000              —           1,384,188            36,541      2,170,729  
+                                2023          750,000              —             372,529            33,922      1,156,451  
+                                2022          750,000              —             166,125            32,045        948,170  
+  Jim Malone                    2024          375,000      2,010,311             377,506            26,377      2,789,194  
+                                2023          375,000      1,233,563             101,599            24,810      1,734,972  
+                                2022          336,539      1,418,167              46,515            23,600      1,824,821  
+  Vithya Aubee                  2024          360,000      1,257,165             362,406             8,115      1,987,686  
+                                2023          360,000        781,550              97,535             7,014      1,246,099  
+                                2022          300,000        533,140              39,870             6,719        879,729  
+  Jeffrey Sullivan              2024          375,000      1,626,923             377,506            18,010      2,397,439  
+                                2023          375,000        973,700             101,599            16,676      1,466,975  
+                                2022          350,000        872,475              46,515             8,001      1,276,991  
+
+  (1)      These amounts represent the base salary earned or paid during the applicable fiscal year. In 2022, Mr. Malone’s annual salary was $350,000, and was prorated based on his date of hire, which was...  
+
+  (2)      These amounts represent the grant date fair value for (a) RSUs granted during the applicable fiscal year in accordance with ASC 718, excluding the effect of estimated forfeitures, and (b) PSUs ...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (3)      These amounts were earned under the PIC during the applicable fiscal year. For a description of the PIC, see the subsection entitled “ Performance Incentive Compensation (“ PIC”) above.  
+
+26
+
+
+  (4)      The following table and related footnotes describe each component of the amounts reflected in the column entitled “ All Other Compensation” in the Summary Compensation Table:  
+
+  Name                  Year      Insurance                     Company       Total  
+                                  Premiums ($)            Contributions         ($)  
+                                                    to 401(k) Plans ($)              
+ ─────────────────────────────────────────────────────────────────────────────────────
+  Scott Turicchi        2024      29,641 (a)                      6,900      36,541  
+  Jim Malone            2024      19,477 (b)                      6,900      26,377  
+  Vithya Aubee          2024      1,215 (c)                       6,900       8,115  
+  Jeffrey Sullivan      2024      11,110 (d)                      6,900      18,010  
+
+  (a)      Consists of $25,241 in medical, dental and vision insurance premium contributions, $3,000 in HSA matching funds, $740 in short-term and long-term disability insurance premium contributions and ...  
+
+  (b)      Consists of $18,489 in medical, dental and vision insurance premium contributions, $740 in short-term and long-term disability insurance premium contributions and $248 in life insurance premium...  
+
+  (c)      Consists of $740 in short-term and long-term disability insurance premium contributions and $475 in life insurance premium contributions for $360,000 in life insurance benefits.  
+
+  (d)      Consists of $9,874 in medical, dental and vision insurance premium contributions, $740 in short-term and long-term disability insurance premium contributions and $496 in life insurance premium ...  
+
+Grants of Plan Based Awards
+
+The following table summarizes annual cash incentive and equity awards granted to our NEOs in 2024.
+
+                                 Estimated Future Payouts Under                                        Estimated Future Payouts                    All Other Stock Awards                                
+                                 Non-Equity Incentive Plan Awards (1)                                  Under Equity Incentive Plan Awards (2)                                                            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Name              Award        Grant Date                                Target       Maximum        Grant Date                                  Grant Date                  Grant Date Fair Value of  
+  Scott             PIC          Dec 6, 2024                               825,000      1,650,000      —                                           —                           —                         
+  Jim               PIC          Dec 6, 2024                               250,000      500,000        —                                           —                           —                         
+                    PSU (3)      —                                         —            —              Dec 6, 2024                                 —                           491,961                   
+                    RSU (4)      —                                         —            —              —                                           Dec 6, 2024                 1,518,350                 
+  Vithya Aubee      PIC          Dec 6, 2024                               240,000      480,000        —                                           —                           —                         
+                    PSU (3)      —                                         —            —              Dec 6, 2024                                 —                           619,672                   
+                    RSU (4)      —                                         —            —              —                                           Dec 6, 2024                 637,493                   
+  Jeffrey           PIC          Dec 6, 2024                               250,000      500,000        —                                           —                           —                         
+                    PSU (3)      —                                         —            —              Dec 6, 2024                                 —                           801,930                   
+                    RSU (4)      —                                         —            —              —                                           Dec 6, 2024                 824,993                   
+
+  (1)      The Company’s non-equity incentive plan awards under the PIC are based on its achievement of performance goals with respect to Organic Revenue (weighted at 33% for bonus calculation) and Non-GA...  
+
+  (2)      These amounts represent the grant date fair value for (a) RSUs granted in fiscal 2024 in accordance with ASC 718, excluding the effect of estimated forfeitures, and (b) PSUs granted in 2024 bas...  
+
+  (3)      The 2024 Annual Equity PSUs vest with respect to one-fourth of the award at each such time as Company common stock remains at or above the following four stock prices for at least 20 trading da...  
+
+  (4)      The 2024 Annual Equity RSUs vest ratably over a four-year vesting period, vesting with respect to one-fourth of the award on the first anniversary of the date of grant and vesting with respect ...  
+
+27
+
+
+Outstanding Equity Awards at Fiscal Year-End
+
+The following table summarizes stock awards held by our NEOs as of December 31, 2024.
+
+  Stock Awards                                                                                                                            
+  Name                  Number of Shares or                    Market Value      Equity Incentive Plan             Equity Incentive Plan  
+  Scott Turicchi        46,048 (1)                                1,098,705      281,301 (5)                                   6,711,842  
+  Jim Malone            94,421 (2)                                2,252,885      45,303 (6)                                    1,080,930  
+  Vithya Aubee          40,954 (3)                                  977,162      46,911 (7)                                    1,119,296  
+  Jeffrey Sullivan      54,839 (4)                                1,308,459      67,304 (8)                                    1,605,873  
+
+  (1)      Consists of the unvested RSUs with respect to the following RSU awards: (a) 7,273 RSUs, as adjusted for the Spin-Off, remaining from an RSU award converted from a restricted stock award granted...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (2)      Consists of the unvested RSUs with respect to the following RSU awards (a) 1,909 RSUs, remaining from an award granted by the Company on January 10, 2022 that vests ratably over four years, beg...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (3)      Consists of the unvested RSUs with respect to the following RSU awards (a) 122 RSUs, as adjusted for the Spin-Off, remaining from an RSU award converted from a restricted stock award granted on...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (4)      Consists of the unvested RSUs with respect to the following RSU awards: (a) 369 RSUs, as adjusted for the Spin-Off, remaining from an RSU award converted from a restricted stock award granted o...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (5)      Consists of (a)14,634 unvested PSUs, as adjusted for the Spin-Off, converted from a restricted stock award granted on March 3, 2021 by Ziff Davis, that vest based on specified stock price targe...  
+
+  (6)      Consists of (a) 5,091 unvested PSUs, granted by the Company on January 10, 2022 that vest based on achievement of specified stock price targets of the Company’s common stock; (b) 7,500 unvested...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (7)      Consists of (a) 244 unvested PSUs, as adjusted for the Spin-Off, converted from a restricted stock award granted on March 3, 2021 by Ziff Davis, Inc. that vest based on achievement of specified...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (8)      Consists of (a) 733 unvested PSUs, as adjusted for the Spin-Off, granted on March 3, 2021 by Ziff Davis, that vest based on achievement of specified stock price targets of the Company’s common ...  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  (9)      The market value is determined by multiplying the number of shares by $23.86, the closing trading price of Company common stock on the Nasdaq Global Select Market on December 31, 2024.  
+
+  (10)      This is the cumulative value of all outstanding PSUs, assuming the achievement of all performance conditions at each respective price target.  
+
+28
+
+
+Option Exercises and Stock Vested Table
+
+The following table summarizes stock awards that vested for our NEOs in 2024; none of our NEOs own stock options.
+
+  NAME                     NUMBER OF SHARES      VALUE REALIZED  
+                        ACQUIRED ON VESTING          ON VESTING  
+                                    (#) (1)             ($) (2)  
+ ─────────────────────────────────────────────────────────────────
+  Scott Turicchi                     38,884             655,595  
+  Jim Malone                         12,523             299,288  
+  Vithya Aubee                        6,928             157,703  
+  Jeffrey Sullivan                   10,739             242,246  
+
+  (1)      The number of shares reported in this column represent the shares acquired before applicable income tax withholdings are applied, for which shares are surrendered back to the Company.  
+
+  (2)      The values reported in this column represent the number of shares acquired before applicable income taxes are applied, multiplied by the closing price of the Company’s common stock on the vesti...  
+
+Potential Payments Upon Change in Control, Retirement, or Termination
+
+The Company has not entered into change of control or severance arrangements with the NEOs, other than certain equity award special vesting benefits as set forth below:
+
+In the event of a change of control of the Company, all outstanding restrictions on each RSU and PSU awarded under the 2021 Equity Incentive Plan will only lapse in full if the Compensation Committee or the Board of Directors determines that the holder has not been offered substantially identical replacement awards, as the case may be, and a comparable position at the acquiring company.
+
+In the event that a participant’s employment with the Company or its subsidiaries terminates as a result of Retirement (as defined below), death or disability then (a) for all PSUs, the continued employment conditions shall lapse and the PSUs shall be eligible to meet the stock price performance conditions during the 36 months following the termination of employment (after which any unvested PSUs will be forfeited), provided that such 36 month period is subject to and shall not extend the 
+expiration date of the applicable grant, and no restrictions on PSUs shall lapse prior to the date that is the one year anniversary of the date of the PSU award agreement related thereto; and (b) all RSUs will vest in full. For the purposes of the preceding sentence, termination of employment is considered retirement (“ Retirement”) if, on the effective date of the termination of employment (the “ Termination Date”), (i) the participant has reached the age of 65 on or before the Termination Date
+and has completed not less than three (3) years of service with the Company and/or its subsidiaries; (ii) the participant has informed the Company and/or its subsidiary of participant’s intent to retire not less than six (6) months before the Termination Date; (iii) and the Termination Date is not less than six (6) months following the date of the RSU or PSU grant. In the event that a participant’s employment with the Company or its subsidiaries terminates for any other reason (including 
+retirement that does not meet the conditions set forth above, voluntary resignation or termination by the Company with or without cause), all RSUs and PSUs will be forfeited. As of December 31, 2024, none of our NEOs were eligible for Retirement.
+
+  STOCK AWARD POTENTIAL PAYMENTS UPON TERMINATION DUE TO DEATH OR DISABILITY                                                                                  
+  NAME                                                                             OUTSTANDING            MARKET VALUE       OUTSTANDING           MARKET OR  
+  Scott Turicchi                                                                        46,048               1,098,705           281,301                   0  
+  Jim Malone                                                                            94,421               2,252,885            45,303                   0  
+  Vithya Aubee                                                                          40,954                 977,162            46,911                   0  
+  Jeffrey Sullivan                                                                      54,839               1,308,459            67,304                   0  
+
+  (1)      The market value is determined by multiplying the number of RSUs by $23.86, the closing trading price of Company common stock on the Nasdaq Global Select Market on December 31, 2024.  
+
+  (2)      No PSUs met any target price by December 31, 2024.  
+
+29
+
+
+Pay Ratio Disclosure
+
+CEO Total Annual Compensation: $2,170,729
+
+Median Employee Annual Total Compensation (excluding CEO): $107,469
+
+Ratio of CEO to Median Employee Compensation: 20:1
+
+To determine our median employee’s annual total compensation, the Company created a list of our permanent global employee base as of December 31, 2024 with the income that was reportable to their applicable taxing authority in the jurisdict
+
+[Proxy truncated]

@@ -1,0 +1,3 @@
+rank,ticker,name,market_cap,roic_avg,roic_trend,roic_min,roic_max,roundaboutness_score,confidence,capex_stance,rd_trajectory,management_horizon,summary
+1,AAPL,AAPL,,44.75,upward,38.93,51.97,,0,,,,Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'
+2,MSFT,MSFT,,23.58,stable,22.02,26.59,,0,,,,Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'

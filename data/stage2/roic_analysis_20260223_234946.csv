@@ -1,0 +1,51 @@
+ticker,roic_years,source,avg,min,max,std,trend,trend_detail,passed
+ANF,4,yfinance,24.83,4.67,41.42,13.12,upward,Growing at +6.66pp/year,True
+ATGE,4,yfinance,9.47,4.66,13.53,3.2,upward,Growing at +2.80pp/year,False
+MO,4,yfinance,37.34,28.3,42.28,5.46,upward,Growing at +3.88pp/year,True
+AMCX,4,yfinance,9.38,6.48,12.83,2.4,stable,"Stable (slope -0.19pp/yr, drawdown 6.3pp)",False
+BMBL,4,yfinance,3.34,-3.01,13.3,6.05,upward,Growing at +4.82pp/year,False
+CPRX,4,yfinance,20.78,16.91,26.89,3.73,cyclical,"High volatility: 2 reversals, max drawdown 10.0pp",False
+CRNC,4,yfinance,4.26,-1.57,10.95,4.45,upward,Growing at +1.21pp/year,False
+GIB,4,yfinance,14.61,13.88,15.05,0.44,stable,"Stable (slope -0.30pp/yr, drawdown 1.2pp)",True
+COLL,4,yfinance,7.21,2.45,12.31,4.41,upward,Growing at +3.42pp/year,False
+CCSI,4,yfinance,20.32,19.47,21.28,0.73,stable,"Stable (slope -0.23pp/yr, drawdown 1.8pp)",True
+CRMD,4,yfinance,-48.43,-69.8,-24.5,16.42,upward,Growing at +4.59pp/year,False
+CROX,4,yfinance,25.28,17.58,32.84,6.45,cyclical,Flat slope but max drawdown 15.3pp,False
+EGHSF,4,yfinance,13.87,11.87,18.14,2.49,declining,Declining at -1.87pp/year,False
+EVER,4,yfinance,-15.43,-35.3,22.19,22.25,upward,Growing at +12.33pp/year,False
+GEN,4,yfinance,13.49,9.62,22.82,5.41,cyclical,"High volatility: 2 reversals, max drawdown 13.2pp",False
+GETY,4,yfinance,8.06,4.52,12.35,3.35,declining,Declining at -2.76pp/year,False
+GCT,4,yfinance,26.54,14.22,32.19,7.21,cyclical,"High volatility: 2 reversals, max drawdown 16.6pp",False
+HRB,4,yfinance,39.24,37.31,40.82,1.31,upward,Growing at +1.16pp/year,True
+HRMY,4,yfinance,20.12,17.26,21.6,1.73,declining,Declining at -1.09pp/year,False
+HPQ,4,yfinance,44.01,36.86,50.18,4.92,declining,Declining at -3.62pp/year,False
+IDT,4,yfinance,25.43,23.34,26.67,1.33,stable,"Stable (slope +0.25pp/yr, drawdown 3.1pp)",True
+INVA,4,yfinance,17.83,9.16,38.39,12.05,declining,Declining at -9.26pp/year,False
+IRWD,4,yfinance,25.82,16.56,47.88,12.91,cyclical,"High volatility: 2 reversals, max drawdown 30.9pp",False
+JILL,4,yfinance,31.97,27.64,35.55,2.84,stable,"Stable (slope -0.58pp/yr, drawdown 7.9pp)",True
+WLY,4,yfinance,9.52,5.95,14.78,3.27,upward,Growing at +1.30pp/year,False
+KROS,4,yfinance,-37.28,-50.43,-23.18,9.68,declining,Declining at -5.21pp/year,False
+KFY,4,yfinance,13.15,10.24,18.52,3.22,declining,Declining at -2.44pp/year,False
+MTCH,4,yfinance,21.92,18.57,24.32,2.26,declining,Declining at -1.83pp/year,False
+NL,4,yfinance,3.61,1.66,7.38,2.23,upward,Growing at +1.37pp/year,False
+OSPN,4,yfinance,-0.69,-11.89,23.17,13.92,upward,Growing at +10.47pp/year,False
+MD,4,yfinance,10.74,9.16,13.04,1.44,upward,Growing at +1.23pp/year,True
+PRDO,4,yfinance,18.1,15.32,21.88,2.39,declining,Declining at -1.87pp/year,False
+PXED,3,yfinance,47.37,33.71,65.87,13.57,upward,Growing at +16.08pp/year,True
+PBI,4,yfinance,9.16,3.1,12.35,3.65,upward,Growing at +2.84pp/year,False
+PLTK,4,yfinance,16.72,11.74,20.64,3.53,declining,Declining at -3.10pp/year,False
+PTCT,4,yfinance,-27.72,-42.61,-11.56,11.31,upward,Growing at +7.97pp/year,False
+PBYI,4,yfinance,13.58,1.36,20.69,7.66,upward,Growing at +6.22pp/year,True
+RIGL,4,yfinance,-64.35,-209.93,36.58,91.58,upward,Growing at +30.70pp/year,False
+RMNI,4,yfinance,269.01,-817.75,1544.43,841.69,declining,Declining at -298.86pp/year,False
+SBC,3,yfinance,19.87,9.24,26.9,7.64,upward,Growing at +8.83pp/year,True
+SSTK,4,yfinance,13.78,4.96,20.24,6.18,declining,Declining at -5.37pp/year,False
+SIGA,4,yfinance,29.3,19.28,39.74,7.73,cyclical,"High volatility: 2 reversals, max drawdown 20.5pp",False
+SIRI,4,yfinance,11.92,6.83,24.5,7.31,cyclical,"High volatility: 2 reversals, max drawdown 17.7pp",False
+STRA,4,yfinance,4.58,2.86,6.6,1.34,upward,Growing at +0.87pp/year,False
+CI,0,none,,,,,insufficient_data,Need at least 3 years of data,False
+TNET,4,yfinance,26.57,20.55,34.58,6.02,declining,Declining at -4.26pp/year,False
+UPWK,4,yfinance,0.99,-11.39,9.84,8.27,upward,Growing at +7.21pp/year,False
+VSNT,2,yfinance,,,,,insufficient_data,Need at least 3 years of data,False
+XPOF,4,yfinance,-10.3,-71.93,16.82,36.09,cyclical,"High volatility: 2 reversals, max drawdown 72.6pp",False
+YELP,4,yfinance,8.34,4.2,14.74,4.35,upward,Growing at +3.71pp/year,False

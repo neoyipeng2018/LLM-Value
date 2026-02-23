@@ -1,0 +1,427 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS 
+
+Our subsidiaries provide assisted and DIY tax preparation solutions through multiple channels (including in-person, online and mobile applications, virtual, and desktop software) and distribute H&R Block-branded services and products, including those of our bank partners, to the general public primarily in the U.S., Canada and Australia. Tax returns are either prepared by H&R Block tax professionals in one of our 6,701 company-owned or 2,013 franchise offices (as of March 31, 2025), virtually or via an online review or prepared and filed by our clients through our DIY tax solutions. We also offer small business solutions through our company-owned and franchise offices (including in-person, online and virtual) and online through Wave. We report a single segment that includes all of our continuing operations.
+
+A summary of our fiscal year 2025 results is as follows:
+
+•Revenue increased $150.6 million, or 4.2%, largely due to increases in U.S. company-owned net average charge and tax return volume coupled with increases in DIY online paid net average charge. These increases were partially offset by lower interest and fee income on Emerald Advance® due to a decrease in EA loans originated.
+
+•Operating expenses increased $128.0 million, or 4.6%, due to higher compensation and benefits, marketing, consulting, technology, and legal costs, partially offset by lower bad debt.
+
+•Pretax income increased $19.1 million, or 2.5%. 
+
+•Net income from continuing operations of $609.5 million increased 1.9% from the prior year.
+
+•EBITDA(1) of $976.3 million increased $13.2 million, or 1.4%.
+
+•Diluted earnings per share from continuing operations increased $0.28, or 6.8%, and adjusted diluted earnings per share from continuing operations(1) increased $0.25, or 5.7%.
+
+(1)    All non-GAAP measures are results from continuing operations. See "Non-GAAP Financial Information" at the end of this item for a reconciliation of non-GAAP measures. 
+
+24
+
+2025 Form 10-K | H&R Block, Inc.
+
+Consolidated – Financial Results(in 000s, except per share amounts)
+
+Year ended June 30,20252024$ Change% Change
+
+Revenues:
+
+U.S. tax preparation and related services:
+
+Assisted tax preparation$2,413,229 $2,274,835 $138,394 6.1 %
+
+Royalties192,877 204,802 (11,925)(5.8)%
+
+DIY tax preparation383,738 349,812 33,926 9.7 %
+
+Refund Transfers137,526 142,249 (4,723)(3.3)%
+
+Peace of Mind® Extended Service Plan87,326 93,087 (5,761)(6.2)%
+
+Tax Identity Shield®29,920 33,386 (3,466)(10.4)%
+
+Other58,318 51,555 6,763 13.1 %
+
+Total U.S. tax preparation and related services3,302,934 3,149,726 153,208 4.9 %
+
+Financial services:
+
+Emerald Card® and SpruceSM
+
+72,888 76,093 (3,205)(4.2)%
+
+Interest and fee income on Emerald Advance®28,958 40,933 (11,975)(29.3)%
+
+Total financial services101,846 117,026 (15,180)(13.0)%
+
+International 246,993 247,123 (130)(0.1)%
+
+Wave109,222 96,472 12,750 13.2 %
+
+Total revenues$3,760,995 $3,610,347 $150,648 4.2 %
+
+Compensation and benefits:
+
+Field wages927,360 869,002 (58,358)(6.7)%
+
+Other wages306,999 298,819 (8,180)(2.7)%
+
+Benefits and other compensation250,729 228,723 (22,006)(9.6)%
+
+1,485,088 1,396,544 (88,544)(6.3)%
+
+Occupancy438,868 432,461 (6,407)(1.5)%
+
+Marketing and advertising285,800 277,747 (8,053)(2.9)%
+
+Depreciation and amortization116,827 121,784 4,957 4.1 %
+
+Bad debt74,584 91,523 16,939 18.5 %
+
+Other531,858 485,011 (46,847)(9.7)%
+
+Total operating expenses2,933,025 2,805,070 (127,955)(4.6)%
+
+Other income (expense), net31,546 36,125 (4,579)(12.7)%
+
+Interest expense on borrowings(78,113)(79,080)967 1.2 %
+
+Income from continuing operations before income taxes781,403 762,322 19,081 2.5 %
+
+Income taxes171,953 164,359 (7,594)(4.6)%
+
+Net income from continuing operations609,450 597,963 11,487 1.9 %
+
+Net loss from discontinued operations(3,677)(2,646)(1,031)(39.0)%
+
+Net income$605,773 $595,317 $10,456 1.8 %
+
+DILUTED EARNINGS PER SHARE:
+
+Continuing operations$4.42 $4.14 $0.28 6.8 %
+
+Discontinued operations(0.03)(0.02)(0.01)(50.0)%
+
+Consolidated$4.39 $4.12 $0.27 6.6 %
+
+Adjusted diluted EPS(1)
+
+$4.66 $4.41 $0.25 5.7 %
+
+EBITDA(1)
+
+$976,343 $963,186 $13,157 1.4 %
+
+(1)    All non-GAAP measures are results from continuing operations. See "Non-GAAP Financial Information" at the end of this item for a reconciliation of non-GAAP measures. 
+
+H&R Block, Inc. | 2025 Form 10-K
+
+25
+
+FISCAL YEAR 2025 COMPARED TO FISCAL YEAR 2024
+
+Revenues increased $150.6 million, or 4.2%, from the prior year. U.S. assisted tax preparation revenues increased $138.4 million, or 6.1%, due to a 5.1% increase in net average charge combined with a 1.0% increase in company-owned tax return volumes in the current year. U.S. royalties revenue decreased $11.9 million, or 5.8%, due to lower franchise tax return volumes, which was primarily driven by franchise acquisitions. During the year we purchased franchise offices, which results in increasing tax preparation revenues and decreasing royalties as the revenues and returns become company-owned after the acquisition. During the year ended June 30, 2025 our total assisted tax return volume, which includes both company-owned and franchise offices, decreased 0.9% from the prior year.
+
+U.S. DIY tax preparation revenues increased $33.9 million, or 9.7%, due to a 9.8% increase in paid net average charge and higher desktop software revenues compared to the prior year. 
+
+Interest and fee income on Emerald Advance® decreased $12.0 million, or 29.3%, due to a decrease in EA loans originated during the current year. Wave revenues increased $12.8 million, or 13.2%, due to higher accounting, invoicing and receipts subscriptions and small business payments processing volumes. 
+
+Total operating expenses increased $128.0 million, or 4.6%, from the prior year. Field wages increased $58.4 million, or 6.7%, due to higher tax professional wages in the current year primarily resulting from an increase in U.S. assisted tax preparation revenues. Other wages increased $8.2 million, or 2.7%, due to higher corporate wages due to salary increases in the current year. Benefits and other compensation increased $22.0 million, or 9.6%, due to higher employee insurance, severance pay and payroll taxes in the current year. 
+
+Marketing and advertising expense increased $8.1 million, or 2.9%, primarily due to higher advertising agency and customer incentive expenses. Bad debt expense decreased $16.9 million, or 18.5%, due to lower EA bad debt rates coupled with a decrease in EA loans originated during the current year.
+
+Other operating expenses increased $46.8 million, or 9.7%. The components of other expenses are as follows:
+
+(in 000s)
+
+Year ended June 30,20252024$ Change% Change
+
+Consulting and outsourced services$104,003 $92,737 $(11,266)(12.1)%
+
+Bank partner fees32,152 28,856 (3,296)(11.4)%
+
+Client claims and refunds27,422 25,623 (1,799)(7.0)%
+
+Employee and travel expenses35,646 33,473 (2,173)(6.5)%
+
+Technology-related expenses119,241 108,694 (10,547)(9.7)%
+
+Credit card/bank charges109,202 102,377 (6,825)(6.7)%
+
+Insurance17,225 12,075 (5,150)(42.7)%
+
+Legal fees and settlements37,819 28,536 (9,283)(32.5)%
+
+Supplies20,777 23,090 2,313 10.0 %
+
+Other28,371 29,550 1,179 4.0 %
+
+$531,858 $485,011 $(46,847)(9.7)%
+
+Consulting and outsourced services expense increased $11.3 million, or 12.1%, due to higher Emerald Card® data processing and spend related to various strategic projects. Technology-related expenses increased by $10.5 million, or 9.7%, due to higher cloud-related technology spend. Legal fees and settlements expense increased $9.3 million, primarily due to higher outside counsel spend in the current year.
+
+We recorded income tax expense of $172.0 million in the current year compared to $164.4 million in the prior year. The increase is due to higher pretax income and effective tax rate in the current year. The effective tax rate for the year ended June 30, 2025, and 2024 was 22.0% and 21.6%, respectively. See Item 8, note 9 to the consolidated financial statements for additional discussion.
+
+FISCAL YEAR 2024 COMPARED TO FISCAL YEAR 2023
+
+The comparison of fiscal year 2024 to 2023 has been omitted from this Form 10-K, but can be found in our Form 10-K for the fiscal year ended June 30, 2024, filed on August 15, 2024.
+
+26
+
+2025 Form 10-K | H&R Block, Inc.
+
+FINANCIAL CONDITION
+
+These comments should be read in conjunction with the consolidated balance sheets and consolidated statements of cash flows included in Item 8.
+
+CAPITAL RESOURCES AND LIQUIDITY – 
+
+OVERVIEW – Our primary sources of capital and liquidity include cash from operations (including changes in working capital), draws on our CLOC, and issuances of debt. We use our sources of liquidity primarily to fund working capital, service and repay debt, pay dividends, repurchase shares of our common stock, and acquire businesses. 
+
+Our operations are highly seasonal and substantially all of our revenues and cash flow are generated during the period from February through April in a typical year. Therefore, we normally require the use of cash to fund losses and working capital needs, periodically resulting in a working capital deficit, from May through January. We typically have relied on available cash balances from the prior tax season and borrowings to meet liquidity needs.
+
+Given the likely availability of a number of liquidity options discussed herein, we believe that in the absence of any unexpected developments, our existing sources of capital as of June 30, 2025 are sufficient to meet our future operating and financing needs.    
+
+DISCUSSION OF CONSOLIDATED STATEMENTS OF CASH FLOWS – The following table summarizes our statements of cash flows for fiscal year 2025 and 2024. See Item 8 for the complete consolidated statements of cash flows for these periods.
+
+(in 000s)
+
+Year ended June 30,20252024
+
+Net cash provided by (used in):
+
+Operating activities$680,883 $720,860 
+
+Investing activities(105,373)(93,858)
+
+Financing activities(647,443)(564,311)
+
+Effects of exchange rates on cash(121)(2,814)
+
+Net increase (decrease) in cash and cash equivalents, including restricted balances$(72,054)$59,877 
+
+    Operating Activities. Cash provided by operating activities totaled $680.9 million for the year ended June 30, 2025 compared to $720.9 million in the prior year period. The decrease is primarily due to changes in income tax reserves and accounts payable.
+
+    Investing Activities. Cash used in investing activities totaled $105.4 million for the year ended June 30, 2025 compared to $93.9 million for the prior year period. The increase is primarily due to higher capital expenditures, partially offset by lower payments made for business acquisitions in the current year.
+
+    Financing Activities. Cash used in financing activities totaled $647.4 million for the year ended June 30, 2025 compared to $564.3 million for the prior year period. The increase is primarily due to higher repurchases of common stock and dividends in the current year.
+
+    CASH REQUIREMENTS – 
+
+    Dividends and Share Repurchase. Returning capital to shareholders in the form of dividends and the repurchase of outstanding shares has historically been a significant component of our capital allocation plan.
+
+    We have consistently paid quarterly dividends. Dividends paid totaled $197.3 million and $179.8 million in the years ended June 30, 2025 and 2024, respectively. Although we have historically paid dividends and plan to continue to do so, there can be no assurances that circumstances will not change in the future that could affect our ability or decisions to pay dividends.
+
+H&R Block, Inc. | 2025 Form 10-K
+
+27
+
+On August 15, 2024, the Board of Directors approved a $1.5 billion share repurchase program. The repurchase program does not have an expiration date and replaced the previously existing share repurchase program.
+
+During the year ended June 30, 2025, we repurchased $400.1 million of our common stock at an average price of $61.10 per share, excluding excise taxes in connection with such repurchases. In the prior year, we repurchased $350.1 million of our common stock at an average price of $43.66 per share, excluding excise taxes in connection with such repurchases. Our current share repurchase program has remaining authorization of $1.1 billion and does not have an expiration date. 
+
+Share repurchases are subject to prevailing market prices, may be made in open market transactions (some of which may be effectuated under SEC Rule 10b5-1) and remain subject to the discretion of our Board of Directors. The Company may cancel or suspend the repurchase of shares at any time. Any repurchases will be funded primarily through available cash and cash from operations. There can be no assurance that we will repurchase any shares.
+
+The following table summarizes our shares outstanding, shares repurchased, and annual dividends per share:
+
+(in 000s, except per share amounts)
+
+Year ended June 30,202520242023
+
+Shares outstanding133,947 139,591 146,150 
+
+Shares repurchased6,549 8,020 14,635 
+
+Dividends declared per share$1.50 $1.28 $1.16 
+
+    Capital Investment. Capital expenditures totaled $82.0 million and $63.7 million for the years ended June 30, 2025 and 2024, respectively. Our capital expenditures relate primarily to recurring improvements to retail offices, as well as investments in computers, software and related assets. In addition to our capital expenditures, we also made payments to acquire businesses. We acquired franchise and competitor businesses totaling $35.5 million and $43.4 million during the years ended June 30, 2025 and 2024, respectively. See Item 8, note 6 for additional information on our acquisitions. 
+
+   Contractual Obligations and Commercial Commitments. Effective October 18, 2024, we amended our Program Management Agreement (PMA) with Pathward®, N.A to extend the term of the PMA for two years until June 30, 2027. We are party to many contractual obligations involving commitments to make payments to third parties, which may impact our short-term and long-term liquidity and capital resource needs. Our contractual obligations primarily consist of operating leases, contingent acquisition payments, and long-term debt and related interest payments. See Item 8, note 7, 10, and 11 to the consolidated financial statements for additional information.
+
+    FINANCING RESOURCES – During fiscal year 2025, our existing CLOC had capacity of up to $1.5 billion and was scheduled to expire in June 2026. On July 11, 2025, we entered into a Fifth Amended and Restated Credit and Guarantee Agreement, which amended and restated our existing CLOC, extended the scheduled maturity date to July 11, 2030, maintained the aggregate principal amount of $1.5 billion, and revised the interest rate table. Other material terms remain substantially unchanged from the Fourth Amended and Restated Credit and Guarantee Agreement. Proceeds under the CLOC may be used for working capital needs or for other general corporate purposes. We were in compliance with our CLOC covenants as of June 30, 2025. As of June 30, 2025, amounts available to borrow under the CLOC were not limited by the debt-to-EBITDA covenant. We had no balance outstanding under our CLOC as of June 30, 2025.
+
+    See Item 8, note 7 to the consolidated financial statements for discussion of our CLOC and Senior Notes, including discussion of the amendment and restatement of our CLOC effective July 11, 2025.
+
+28
+
+2025 Form 10-K | H&R Block, Inc.
+
+The following table provides ratings for debt issued by Block Financial LLC (Block Financial) as of June 30, 2025 and 2024:
+
+As ofJune 30, 2025June 30, 2024
+
+Short-termLong-termOutlookShort-termLong-termOutlook
+
+Moody'sP-3Baa3StableP-3Baa3Stable
+
+S&PA-2BBBStableA-2BBBStable
+
+CASH AND OTHER ASSETS – As of June 30, 2025, we held cash and cash equivalents, excluding restricted amounts, of $983.3 million, including $205.9 million held by our foreign subsidiaries.
+
+Foreign Operations. Seasonal borrowing needs of our Canadian operations are typically funded by our U.S. operations. To mitigate foreign currency risk, we sometimes enter into foreign exchange forward contracts. There were no forward contracts outstanding as of June 30, 2025. 
+
+We do not currently intend to repatriate non-borrowed funds held by our foreign subsidiaries in a manner that would trigger a tax liability.
+
+The impact of changes in foreign exchange rates during the period on our international cash balances resulted in a decrease of $0.1 million and $2.8 million during the years ended June 30, 2025 and 2024, respectively. 
+
+SUMMARIZED GUARANTOR FINANCIAL STATEMENTS – Block Financial is a 100% owned indirect subsidiary of H&R Block, Inc. Block Financial is the Issuer and H&R Block, Inc. is the full and unconditional Guarantor of our Senior Notes, CLOC and other indebtedness issued from time to time. 
+
+The following table presents summarized financial information for H&R Block, Inc. (Guarantor) and Block Financial (Issuer) on a combined basis after intercompany eliminations and excludes investments in and equity earnings in non-guarantor subsidiaries.
+
+SUMMARIZED BALANCE SHEET(in 000s)
+
+As of June 30, 2025GUARANTOR AND ISSUER
+
+Current assets$38,254 
+
+Noncurrent assets1,836,847 
+
+Current liabilities432,139 
+
+Noncurrent liabilities1,148,806 
+
+SUMMARIZED STATEMENTS OF OPERATIONS(in 000s)
+
+Year ended June 30, 2025GUARANTOR AND ISSUER
+
+Total revenues$126,240 
+
+Income from continuing operations before income taxes58,596 
+
+Net income from continuing operations45,120 
+
+Net income41,443 
+
+The table above reflects $1.8 billion of non-current intercompany receivables due to the Issuer from non-guarantor subsidiaries.
+
+H&R Block, Inc. | 2025 Form 10-K
+
+29
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+We consider the estimates discussed below to be critical to understanding our financial statements, as they require the use of significant judgment and estimation in order to measure, at a specific point in time, matters that are inherently uncertain. Specific methods and assumptions for these critical accounting estimates are described in the following paragraphs. We have reviewed and discussed each of these estimates with the Audit Committee of our Board of Directors. For all of these estimates, we caution that future events rarely develop precisely as forecasted and estimates routinely require adjustment and may require material adjustment. 
+
+See Item 8, note 1 to the consolidated financial statements for discussion of our significant accounting policies.
+
+LITIGATION AND OTHER RELATED CONTINGENCIES – 
+
+Nature of Estimates Required. We accrue liabilities related to certain legal matters for which we believe it is probable that a loss has been incurred and the amount of such loss can be reasonably estimated. Assessing the likely outcome of pending or threatened litigation or other related loss contingencies, including the amount of potential loss, if any, is highly subjective. 
+
+Assumptions and Approach Used. We are subject to pending or threatened litigation and other related loss contingencies, which are described in Item 8, note 12 to the consolidated financial statements. It is our policy to routinely assess the likelihood of any adverse judgments or outcomes related to legal matters, as well as ranges of probable losses. A determination of the amount of the liability required to be accrued, if any, for these contingencies is made after analysis of each known issue and an analysis of historical experience. In cases where we have concluded that a loss is only reasonably possible or remote, or is not reasonably estimable, no liability is accrued. 
+
+Sensitivity of Estimate to Change. It is reasonably possible that pending or future litigation and other related loss contingencies may vary from the amounts accrued. Our estimate of the aggregate range of reasonably possible losses includes (1) matters where a liability has been accrued and there is a reasonably possible loss in excess of the amount accrued for that liability, and (2) matters where a liability has not been accrued but we believe a loss is reasonably possible. This aggregate range represents only those losses as to which we are currently able to estimate a reasonably possible loss or range of loss. It does not represent our maximum loss exposure. As of June 30, 2025, we believe the estimate of the aggregate range of reasonably possible losses in excess of amounts accrued, where the range of loss can be estimated, is not material.
+
+However, our judgments on whether a loss is probable, reasonably possible, or remote, and our estimates of probable loss amounts may differ from actual results due to difficulties in predicting changes in or interpretations of, laws, predicting the outcome of court trials, arbitration hearings, settlement discussions and related activity, predicting the outcome of class certification actions, and numerous other uncertainties. Due to the number of claims which are periodically asserted against us, and the magnitude of damages sought in those claims, actual losses in the future may significantly differ from our current estimates. 
+
+Our accrued liabilities for litigation and other related contingencies are disclosed in Item 8, note 12 to the consolidated financial statements.
+
+INCOME TAXES – UNCERTAIN TAX POSITIONS –
+
+Nature of Estimates Required. The income tax laws of jurisdictions in which we operate are complex and subject to different interpretations by the taxpayer and applicable government taxing authorities. Income tax returns filed by us are based on our interpretation of these rules. The amount of income taxes we pay is subject to ongoing audits by federal, state and foreign tax authorities, which may result in proposed assessments, including interest or penalties. We accrue a liability for unrecognized tax benefits arising from uncertain tax positions reflecting our judgment as to the ultimate resolution of the applicable issues. 
+
+Assumptions and Approach Used. Differences between a tax position taken or expected to be taken in our tax returns and the amount of benefit recorded in our financial statements result in uncertain tax positions. Uncertain tax positions are recorded in the balance sheet as either a liability or reductions to recorded tax assets as applicable. Our uncertain tax positions arise from items such as apportionment of income for state purposes, transfer pricing, and the deductibility of intercompany transactions. We evaluate each uncertain tax position based 
+
+30
+
+2025 Form 10-K | H&R Block, Inc.
+
+on its technical merits. For each position, we consider all applicable information including relevant tax laws, the taxing authorities' potential position, our tax return position, and the possible settlement outcomes to determine the amount of liability to record. In making this determination, we assume the tax authority has all relevant information at its disposal. 
+
+Sensitivity of Estimate to Change. Our assessment of the technical merits and measurement of tax benefits associated with uncertain tax positions is subject to a high degree of judgment and estimation. Actual results may differ from our current judgments due to a variety of factors, including changes in law, interpretations of law by taxing authorities that differ from our assessments, changes in the jurisdictions in which we operate and results of routine tax examinations. We believe we have adequately provided for any reasonably foreseeable outcomes related to these matters. However, our future results may include favorable or unfavorable adjustments to our estimated tax liabilities in the period the assessments are made or resolved, or when statutes of limitation on potential assessments expire. As a result, our effective tax rate may fluctuate on a quarterly basis. 
+
+A schedule of changes in our uncertain tax positions during the last three years is included in Item 8, note 9 to the consolidated financial statements.
+
+GOODWILL –
+
+Nature of Estimates Required. We test goodwill for impairment annually as of February 1 or more frequently if events occur or circumstances change which would, more likely than not, reduce the fair value of a reporting unit below its carrying value. We first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. If, based on a review of qualitative factors, it is more likely than not that the fair value of a reporting unit is less than its carrying value, we perform a quantitative analysis. Our goodwill impairment analysis utilizes both income and market approaches, which includes revenue and expense forecasts, selection of market multiples of comparable publicly traded companies and selection of a discount rate, all of which are highly subjective. 
+
+Assumptions and Approach Used. Our goodwill impairment analysis is performed at the reporting unit level. Our valuation methods include a discounted cash flow model for the income approach and the guideline public company method for the market approach. The income approach requires significant management judgment with respect to revenue and expense forecasts and selection of an appropriate discount rate. The market approach requires significant assumptions related to the selection of comparable publicly traded companies and the market multiples. Changes in projections or assumptions could materially affect our estimate of reporting unit fair values. The use of different assumptions could increase or decrease estimated discounted future operating cash flows and could affect our conclusion regarding the existence or amount of potential impairment.
+
+Sensitivity of Estimate to Change. Estimates of fair value may be adversely impacted by declining economic conditions and changes in the industries and markets in which we operate. Additionally, if future operating results of our reporting units are below our current modeled expectations, fair value estimates may decline. Any of these factors could result in future impairments, and those impairments could be significant.
+
+A schedule of changes in our goodwill balances, including any impairment charges, is included in Item 8, note 6 to the consolidated financial statements.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+See Item 8, note 1 to the consolidated financial statements for any recently issued accounting pronouncements.
+
+REGULATORY ENVIRONMENT 
+
+The federal government, various state, local, provincial and foreign governments, and some self-regulatory organizations have enacted statutes and ordinances, or adopted rules and regulations, regulating many aspects of our business. These aspects include, but are not limited to, commercial income tax return preparation, income tax courses, the electronic filing of income tax returns, the offering of RTs and RAs, privacy and data security, consumer protection, marketing and advertising, artificial intelligence, franchising, antitrust and competition, sales methods, and financial services and products. Regulatory attention in the area of financial services and products may in the future impact our program, our contractual arrangements with our bank partner or other partners, or the offering of financial services and products to our clients. We work to comply with those laws that are 
+
+H&R Block, Inc. | 2025 Form 10-K
+
+31
+
+applicable to us or our services or products, and we continue to monitor developments in the regulatory environment in which we operate. 
+
+    See further discussion of these items in our Item 1A. Risk Factors under "Legal and Regulatory Risks" of this Form 10-K.
+
+From time to time, we receive inquiries from governmental authorities regarding the applicability of laws to our services and products and other matters relating to our business. We cannot predict what effect future laws, changes in interpretations of existing laws or the results of future governmental inquiries with respect to services and products or other matters relating to our business may have on our consolidated financial position, results of operations and cash flows. We have received certain governmental inquiries related to the IRS Free File Program and our DIY tax preparation services. We may also be subject to future inquiries or other proceedings regarding these programs or other aspects of our business. Regulatory inquiries may result in us incurring additional expense, diversion of management's attention, adverse judgments, settlements, fines, penalties, injunctions or other relief. See additional discussion of legal matters in Item 8, note 12 to the consolidated financial statements.
+
+NON-GAAP FINANCIAL INFORMATION
+
+Non-GAAP financial measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. Because these measures are not measures of financial performance under GAAP and are susceptible to varying calculations, they may not be comparable to similarly titled measures for other companies.
+
+We consider our non-GAAP financial measures to be performance measures and a useful metric for management and investors to evaluate and compare the ongoing operating performance of our business. We make adjustments for certain non-GAAP financial measures related to amortization of intangibles from acquisitions and goodwill impairments. We may consider whether other significant items that arise in the future should be excluded from our non-GAAP financial measures.
+
+We measure the performance of our business using a variety of metrics, including earnings before interest, taxes, depreciation and amortization (EBITDA) from continuing operations, adjusted EBITDA from continuing operations, adjusted diluted earnings per share from continuing operations, free cash flow and free cash flow yield. We also use EBITDA from continuing operations and pretax income of continuing operations, each subject to permitted adjustments, as performance metrics in incentive compensation calculations for our employees.
+
+The following is a reconciliation of net income to EBITDA from continuing operations, which is a non-GAAP financial measure:
+
+(in 000s)
+
+Year endedJune 30, 2025June 30, 2024
+
+Net income - as reported$605,773 $595,317 
+
+Discontinued operations, net3,677 2,646 
+
+Net income from continuing operations - as reported609,450 597,963 
+
+Add back:
+
+Income taxes171,953 164,359 
+
+Interest expense78,113 79,080 
+
+Depreciation and amortization116,827 121,784 
+
+366,893 365,223 
+
+EBITDA from continuing operations$976,343 $963,186 
+
+32
+
+2025 Form 10-K | H&R Block, Inc.
+
+The following is a reconciliation of our results from continuing operations to our adjusted results from continuing operations, which is a non-GAAP financial measure:
+
+(in 000s, except per share amounts)
+
+Year endedJune 30, 2025June 30, 2024
+
+Net income from continuing operations - as reported$609,450 $597,963 
+
+Adjustments:
+
+Amortization of intangibles related to acquisitions (pretax)44,673 50,835 
+
+Tax effect of adjustments(1)
+
+(10,865)(11,751)
+
+Adjusted net income from continuing operations$643,258 $637,047 
+
+Diluted earnings per share from continuing operations - as reported$4.42 $4.14 
+
+Adjustments, net of tax0.24 0.27 
+
+Adjusted diluted earnings per share from continuing operations$4.66 $4.41 
+
+(1) The tax effect of adjustments is the difference between the tax provision calculation on a GAAP basis and on an adjusted non-GAAP basis.

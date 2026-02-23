@@ -1,0 +1,6 @@
+ticker,roic_years,avg,min,max,std,trend,trend_detail,passed
+AAPL,0,,,,,insufficient_data,Need at least 3 years of data,False
+MSFT,0,,,,,insufficient_data,Need at least 3 years of data,False
+AMZN,0,,,,,insufficient_data,Need at least 3 years of data,False
+META,0,,,,,insufficient_data,Need at least 3 years of data,False
+NVDA,0,,,,,insufficient_data,Need at least 3 years of data,False

@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "AAPL",
+    "score": null,
+    "confidence": 0,
+    "summary": "Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'",
+    "error": "FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'"
+  },
+  {
+    "ticker": "MSFT",
+    "score": null,
+    "confidence": 0,
+    "summary": "Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'",
+    "error": "FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'"
+  }
+]

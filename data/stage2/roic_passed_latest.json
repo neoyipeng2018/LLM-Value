@@ -1,0 +1,190 @@
+[
+  {
+    "ticker": "MO",
+    "roic_years": 4,
+    "roic_values": [
+      16.706109796340122,
+      29.747996018232303,
+      43.41745757837216,
+      52.51620925481837
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 35.6,
+    "min": 16.71,
+    "max": 52.52,
+    "std": 13.59,
+    "trend": "upward",
+    "trend_detail": "Growing at +12.11pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "GIB",
+    "roic_years": 4,
+    "roic_values": [
+      19.05661823463019,
+      21.05350468881207,
+      20.877355084507045,
+      17.859351305123198
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 19.71,
+    "min": 17.86,
+    "max": 21.05,
+    "std": 1.32,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.38pp/yr, drawdown 3.2pp)",
+    "passed": true
+  },
+  {
+    "ticker": "CCSI",
+    "roic_years": 4,
+    "roic_values": [
+      31.90451734485554,
+      30.65734410072499,
+      30.84529178085437,
+      28.526761783215914
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 30.48,
+    "min": 28.53,
+    "max": 31.9,
+    "std": 1.23,
+    "trend": "stable",
+    "trend_detail": "Stable (slope -0.99pp/yr, drawdown 3.4pp)",
+    "passed": true
+  },
+  {
+    "ticker": "HRB",
+    "roic_years": 4,
+    "roic_values": [
+      46.93743609583552,
+      53.271605776938436,
+      61.27937692407974,
+      55.96909547615986
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 54.36,
+    "min": 46.94,
+    "max": 61.28,
+    "std": 5.17,
+    "trend": "upward",
+    "trend_detail": "Growing at +3.51pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "HRMY",
+    "roic_years": 4,
+    "roic_values": [
+      41.817601910979306,
+      58.62877762742444,
+      67.6249146769386,
+      61.3433100474949
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 57.35,
+    "min": 41.82,
+    "max": 67.62,
+    "std": 9.54,
+    "trend": "upward",
+    "trend_detail": "Growing at +6.76pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "MTCH",
+    "roic_years": 4,
+    "roic_values": [
+      12.205663509188634,
+      16.83686329170563,
+      30.447034425145098,
+      28.551736055526288
+    ],
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 22.01,
+    "min": 12.21,
+    "max": 30.45,
+    "std": 7.7,
+    "trend": "upward",
+    "trend_detail": "Growing at +6.26pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "PXED",
+    "roic_years": 3,
+    "roic_values": [
+      52.254542691658045,
+      107.9827819203744,
+      108.8816005247622
+    ],
+    "years": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "source": "yfinance",
+    "avg": 89.71,
+    "min": 52.25,
+    "max": 108.88,
+    "std": 26.48,
+    "trend": "upward",
+    "trend_detail": "Growing at +28.31pp/year",
+    "passed": true
+  },
+  {
+    "ticker": "SBC",
+    "roic_years": 3,
+    "roic_values": [
+      30.076966571447457,
+      98.45007901486254,
+      94.78514830896994
+    ],
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "source": "yfinance",
+    "avg": 74.44,
+    "min": 30.08,
+    "max": 98.45,
+    "std": 31.4,
+    "trend": "upward",
+    "trend_detail": "Growing at +32.35pp/year",
+    "passed": true
+  }
+]

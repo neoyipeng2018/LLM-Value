@@ -1,0 +1,34 @@
+[
+  {
+    "rank": 1,
+    "ticker": "AAPL",
+    "name": "AAPL",
+    "market_cap": "",
+    "roic_avg": 44.75,
+    "roic_trend": "upward",
+    "roic_min": 38.93,
+    "roic_max": 51.97,
+    "roundaboutness_score": null,
+    "confidence": 0,
+    "capex_stance": null,
+    "rd_trajectory": null,
+    "management_horizon": null,
+    "summary": "Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'"
+  },
+  {
+    "rank": 2,
+    "ticker": "MSFT",
+    "name": "MSFT",
+    "market_cap": "",
+    "roic_avg": 23.58,
+    "roic_trend": "stable",
+    "roic_min": 22.02,
+    "roic_max": 26.59,
+    "roundaboutness_score": null,
+    "confidence": 0,
+    "capex_stance": null,
+    "rd_trajectory": null,
+    "management_horizon": null,
+    "summary": "Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'"
+  }
+]

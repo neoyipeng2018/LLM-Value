@@ -1,0 +1,101 @@
+ticker,roic_years,avg,trend,trend_detail,passed
+ANF,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/ANF?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+ATGE,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/ATGE?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+MO,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/MO?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+AMCX,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/AMCX?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+BMBL,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/BMBL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+CPRX,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CPRX?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+CRNC,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CRNC?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+GIB,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GIB?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+COLL,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/COLL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+CCSI,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CCSI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+CRMD,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CRMD?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+CROX,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CROX?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+EGHSF,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/EGHSF?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+EVER,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/EVER?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+GEN,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GEN?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+GETY,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GETY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+GCT,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/GCT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+HRB,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/HRB?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+HRMY,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/HRMY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+HPQ,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/HPQ?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+IDT,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/IDT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+INVA,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/INVA?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+IRWD,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/IRWD?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+JILL,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/JILL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+WLY,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/WLY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+KROS,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/KROS?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+KFY,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/KFY?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+MTCH,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/MTCH?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+NL,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/NL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+OSPN,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/OSPN?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+MD,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/MD?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+PRDO,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PRDO?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+PXED,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PXED?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+PBI,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PBI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+PLTK,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PLTK?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+PTCT,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PTCT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+PBYI,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/PBYI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+RIGL,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/RIGL?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+RMNI,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/RMNI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+SBC,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SBC?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+SSTK,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SSTK?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+SIGA,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SIGA?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+SIRI,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/SIRI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+STRA,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/STRA?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+CI,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/CI?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+TNET,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/TNET?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+UPWK,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/UPWK?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+VSNT,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/VSNT?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+XPOF,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/XPOF?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False
+YELP,0,,error,"Client error '403 Forbidden' for url 'https://financialmodelingprep.com/api/v3/key-metrics/YELP?period=annual&limit=10&apikey=uoatIeVZHTUxaofxiJ2HDZF9BX9sz9RH'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",False

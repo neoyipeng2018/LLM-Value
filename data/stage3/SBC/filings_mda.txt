@@ -1,0 +1,1052 @@
+Item
+7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion
+and analysis summarize the significant factors affecting our operating results, financial condition, liquidity, and cash flows for the
+periods presented below. The following discussion and analysis should be read in conjunction with the consolidated financial statements
+and related notes included elsewhere in this Annual Report. The forward-looking statements contained herein are based on management’s
+judgment, assumptions made by management and information currently available to it. Actual results could differ materially from those
+discussed or implied in the forward-looking statements as a result of various factors, including those described below and elsewhere in
+this Annual Report, particularly in “Part I, Item 1A. Risk Factors” and the section entitled “Cautionary Note Regarding
+Forward-Looking Statements.”
+
+Unless the
+context otherwise requires, any reference in this section of this Annual Report to the “Company,” “SBC,”
+“we,” “us” or “our” refers to Legacy SBC and its consolidated subsidiaries and variable interest
+entity (“VIE”), prior to the consummation of the Business Combination and to SBC Medical Group Holdings Incorporated, the Combined Entity and its consolidated subsidiaries and VIE following
+the Business Combination.
+
+Overview
+
+SBC
+Medical Group, Inc. (formerly known as SBC Medical Group Holdings Incorporated), a Delaware corporation and subsidiary of the Company
+(“Legacy SBC”) is a management company headquartered in Irvine, California and Tokyo, Japan, that provides management services
+to cosmetic treatment centers mainly in Japan. The Company and its subsidiaries are primarily focused on providing comprehensive management
+services to franchisee clinics, including but not limited to advertising and marketing needs across various platforms (such as social
+media networks), staff management (such as recruitment and training), booking reservations for franchisee clinic customers, assistance
+with franchisee employee housing rentals and facility rentals, construction and design of franchisee clinics, medical equipment and medical
+consumables procurement (resale), the provision of cosmetic products to franchisee clinics for resale to clinic customers, licensure
+of the use of patent-pending and non-patented medical technologies, trademark and brand use, IT software solutions (including but not
+limited to remote medical consultations), management of the franchisee clinic’s customer rewards program (customer loyalty point
+program), and payment tools for the franchisee clinics.
+
+Our
+wholly owned subsidiaries, SBC Medical Group Co., Ltd., a Japan corporation (“SBC Medical Sub”), L’Ange Cosmetique
+Co., Ltd., a Japan corporation (“Lange Sub”), and Shobikai Co., Ltd., a Japan corporation (“Shobikai Sub”), are
+each designated as a “medical service corporation” in Japan. In Japan, a medical service corporation is a legal entity that
+provides management service to “medical corporations”. The management services are conducted through franchisor-franchisee
+contracts and/or service contracts between certain subsidiaries of the Company (SBC Medical Sub, Lange Sub, and Shobikai Sub) and the
+medical corporations that own all 241 of the treatment centers in Japan. These clinics provide include but are not limited to breast
+augmentation, liposuction, rejuvenation treatments (including treatment of wrinkles, acne, scars, cellulite, excess fat, discoloration,
+and signs of aging), laser skin toning and spot removal, eyes double fold surgery, rhinoplasty, treatment of osmidrosis and hyperhidrosis,
+hair transplants, gynecological formation treatments, laser hair removal, face line surgeries, cosmetical dental procedures, tattoo removal,
+lasik eye surgery, lateral canthoplasty, brow lift procedures, androgenetic alopecia treatment, and cheek sagging prevention methods.
+
+There
+are currently six medical corporations that the Company’s subsidiaries have entered into franchisor-franchisee contracts and service
+contracts, consisting of Medical Corporation Shobikai, Medical Corporation Kowakai, Medical Corporation Nasukai, Medical Corporation
+Aikeikai, Medical Corporation Jukeikai and Medical Corporation Ritz Cosmetic Surgery. In addition, the Company has entered into service
+contracts since September 2023 with two additional medical corporations, Medical Corporation Association Furinkai and Medical Corporation
+Association Junikai (collectively with the six franchisee medical corporations, the “Medical Corporations” or “MCs”).
+All of the Medical Corporations are deemed to be related parties of the Company since relatives of the CEO of the Company are the members
+(or shain) of general meetings of members of the Medical Corporations. The CEO of the Company was previously a member of the six
+franchisee Medical Corporations until he ceased being a member in July 2023. The Company, through SBC Medical Sub, owns equity “deposit”
+interests (or mochibun) of the Medical Corporations (except Medical Corporation Association Furinkai and Medical Corporation Association
+Junikai). Although the Company, through SBC Medical Sub, has an equity “deposit” interest to the rights to receive a distribution
+of residual assets in proportion to the amount of contribution in certain circumstances as provided in the articles of incorporation
+of each of the Medical Corporations (except Medical Corporation Association Furinkai and Medical Corporation Association Junikai), the
+Company or SBC Medical Sub does not have voting control over the corporate actions at general meetings of members (or shain) of
+the Medical Corporations per the requirements of the Japanese Medical Care Act.
+
+Financial
+Overview
+
+For
+the years ended December 31, 2024 and 2023, we generated revenues of $205,415,542 and $193,542,423, respectively, we reported net income
+attributable to SBC Medical Group Holdings Incorporated of $46,614,275 and $39,370,036, respectively, and cash flow provided by operating
+activities of $20,582,933 and $50,670,322, respectively. As of December 31, 2024, we had retained earnings of $ 189,463,007.
+
+Our
+primary mission is to provide quality comprehensive management services to the Medical Corporations and expand our “Shonan Beauty
+Clinic” brand. We plan to achieve the mission by maintaining and strengthening our market position and brand in the cosmetic medical
+treatment management market in Japan, Vietnam, and the United States, and by growing our presence globally.
+
+Further
+information regarding our business is provided in “Part 1, Item 1. Business” of this Annual Report.
+
+Results
+of Operations
+
+Comparison
+of Results of Operations for the Years Ended December 31, 2024 and 2023
+
+The
+following table summarizes our operating income as reflected in our audited consolidated statements of operations and comprehensive income
+for the years ended December 31, 2024 and 2023, and presents information regarding amounts and percentage changes during those periods.
+
+    For
+    the Years Ended December 31,  
+
+    2024  
+    2023  
+    Variance 
+
+    Amount  
+    %
+    of revenue  
+    Amount  
+    %
+    of revenue  
+    Amount  
+    % 
+
+    Revenues, net (including net revenues
+    provided to related parties) 
+    $205,415,542  
+     100.00% 
+    $193,542,423  
+     100.00% 
+    $11,873,119  
+     6.13%
+
+    Cost of revenues 
+     49,365,035  
+     24.03% 
+     56,238,385  
+     29.06% 
+     (6,873,350) 
+     (12.22)%
+
+    Gross profit 
+     156,050,507  
+     75.97% 
+     137,304,038  
+     70.94% 
+     18,746,469  
+     13.65%
+
+    Operating expenses 
+     85,746,797  
+     41.74% 
+     66,643,972  
+     34.43% 
+     19,102,825  
+     28.66%
+
+    Income from operations 
+     70,303,710  
+     34.23% 
+     70,660,066  
+     36.51% 
+     (356,356) 
+     (0.50)%
+
+    Other income 
+     3,152,107  
+     1.53% 
+     2,919,269  
+     1.51% 
+     232,838  
+     7.98%
+
+    Income before income
+    taxes 
+     73,455,817  
+     35.76% 
+     73,579,335  
+     38.02% 
+     (123,518) 
+     (0.17)%
+
+    Income tax expense 
+     26,765,925  
+     13.03% 
+     35,018,729  
+     18.09% 
+     (8,252,804) 
+     (23.57)%
+
+    Net income 
+     46,689,892  
+     22.73% 
+     38,560,606  
+     19.93% 
+     8,129,286  
+     21.08%
+
+    Less: net income (loss)
+    attributable to non-controlling interests 
+     75,617  
+     0.04% 
+     (809,430) 
+     (0.41)% 
+     885,047  
+     (109.34)%
+
+    Net
+    income attributable to SBC Medical Group Holdings Incorporated 
+    $46,614,275  
+     22.69% 
+    $39,370,036  
+     20.34% 
+    $7,244,239  
+     18.40%
+
+Revenues,
+Net
+
+Revenues,
+net generated from different revenue streams consist of the following:
+
+    For
+                                            the Years Ended
+
+ December
+                                            31,
+
+    Variance 
+
+    2024  
+    2023  
+    Amount  
+    % 
+
+    Franchising revenue 
+    $61,033,032  
+    $42,103,380  
+    $18,929,652  
+     44.96%
+
+    Procurement revenue 
+     54,814,399  
+     53,186,662  
+     1,627,737  
+     3.06%
+
+    Management services revenue 
+     53,113,155  
+     72,282,549  
+     (19,169,394) 
+     (26.52)%
+
+    Rental services revenue 
+     16,141,714  
+     7,336,768  
+     8,804,946  
+     120.01%
+
+    Others  
+     20,313,242  
+     18,633,064  
+     1,680,178  
+     9.02%
+
+    Total 
+    $205,415,542  
+    $193,542,423  
+    $11,873,119  
+     6.13%
+
+Revenues,
+net, increased by 6.13% from $193,542,423 for the year ended December 31, 2023 to $205,415,542 for the year ended December 31, 2024.
+
+Japanese
+Yen (“JPY”) against the U.S. dollar depreciated during the year ended December 31, 2024, compared to the year ended December
+31, 2023. The spot rate against the dollar was 156.7890 yen on December 31, 2024 compared to 141.0350 yen on December 31, 2023 and the
+average rate against the dollar was 151.4405 yen for the year ended December 31, 2024 compared to 140.5261 yen for the same period in
+2023. For the years ended December 31, 2024 and 2023, we generated net revenues of $205,415,542 (JPY31,108 million) and $193,542,423
+(JPY 27,198 million), respectively. For the years ended December 31, 2024 and 2023, we reported net income of $46,689,892 (JPY7,059 million)
+and $38,560,606 (JPY 5,419 million), respectively. Overall, the unfavorable impacts of the year-to-year foreign exchange rate changes
+on net revenues and net income were $15,954,241 and $3,545,053, respectively, for the year ended December 31, 2024.
+
+The
+main reasons for the variance of $11,873,119 in revenues, net per revenue stream are as follows:
+
+Franchising
+Revenue
+
+Franchising
+revenue for the year ended December 31, 2024 increased to $61,033,032 by $18,929,652 or 44.96% from $42,103,380 for the same period in
+2023. This increase was mainly due to (i) a change in the billing base of royalty fees from a percentage of sales of MCs to a fixed amount
+for each clinic of MCs since April 2023 combined with an increase in the number of clinics operated by MCs, (ii) authorizing the six
+MCs, which are our main recurring customers, to use our patents and trademarks starting from September 2023, and (iii) the business expansion
+of the MCs, partially offset by the depreciation of JPY.
+
+Procurement
+Revenue
+
+The
+procurement revenue for the year ended December 31, 2024 increased to $54,814,399 by $1,627,737 or 3.06% from $53,186,662 for the same
+period in 2023. This increase was mainly due to the increase in the demand on medical materials due to the business expansion of MCs,
+partially offset by the depreciation of JPY.
+
+Management
+Services Revenue
+
+The
+management services revenue for the year ended December 31, 2024 decreased to $53,113,155 by $19,169,394 or 26.52% from $72,282,549 for
+the same period in 2023. This decrease was mainly due to (i) the discontinuation of clinic operation staff supporting services provided
+by Shobikai Sub to MCs since the third quarter of 2024, because the Company plans to merge Shobikai Sub with and into Lange Sub and the
+related business license, held by Shobikai Sub, will be invalid upon the merger, (ii) a significant decline in loyalty program management
+services revenue compared with 2023, primarily because the charge rate of handling fee decreased from 5% to 4%, and there were more free
+point redemptions, and (iii) the depreciation of JPY, partially offset by (i) the increase in revenue generated from management consulting
+services and loyalty program management services provided to two MCs that the Company started to conduct business since September 2023
+(Medical Corporation Association Furinkai and Medical Corporation Association Junikai), (ii) the business expansion of MCs and (iii)
+the increase in the number of the clinics of MCs.
+
+Rental
+Services Revenue
+
+The
+rental services revenue for the year ended December 31, 2024 increased to $16,141,714 by $8,804,946 or 120.01% from $7,336,768 for the
+same period in 2023. This increase was mainly due to the increased demand for medical equipment from MCs due to the business expansion
+of MCs, partially offset by the depreciation of JPY.
+
+Others
+
+The
+other revenues for the year ended December 31, 2024 increased to $20,313,242 by $1,680,178 or 9.02% from $18,633,064 for the same period
+in 2023. This increase was mainly due to the business expansion of the subsidiary acquired in April 2023, partially offset by the depreciation
+of JPY.
+
+Cost
+of Revenues
+
+Cost
+of revenues, for the year ended December 31, 2024, was $49,365,035 compared to $56,238,385 for the same period in 2023. The decrease
+by $6,873,350 or 12.22% was mainly due to the Company’s effort of the cost reduction for the year ended December 31, 2024, as well
+as the discontinuation of clinic operation supporting services provided by Shobikai Sub to MCs since the third quarter of 2024, and the
+Company then terminated the employment of the related staff. As a result, labor cost significantly decreased.
+
+Gross
+Profit
+
+Gross
+profit, for the year ended December 31, 2024, was $156,050,507 compared to $137,304,038 for the same period in 2023. The increase in
+gross profit by $18,746,469 or 13.65% was mainly due to the increase in franchising revenue with a relatively high gross margin as a
+result of the factors described above, offset by the decrease in management services revenue as a result of the factors described above.
+
+Operating
+Expenses
+
+Operating
+expenses for the years ended December 31, 2024 and 2023 were as follows:
+
+    For
+                                            the Years Ended 
+
+ December
+                                            31,
+
+    Variance 
+
+    2024  
+    2023  
+    Amount  
+    % 
+
+    Salaries and welfare 
+    $26,843,524  
+    $26,847,863  
+    $(4,339) 
+     (0.02)%
+
+    Depreciation and amortization expense 
+     2,258,364  
+     10,924,452  
+     (8,666,088) 
+     (79.33)%
+
+    Impairment loss on intangible asset 
+     15,058,965  
+     —  
+     15,058,965  
+     100.00%
+
+    Consulting and professional service fees 
+     14,555,087  
+     9,481,719  
+     5,073,368  
+     53.51%
+
+    Advertising expense 
+     2,782,944  
+     3,367,608  
+     (584,664) 
+     (17.36)%
+
+    Taxes and dues 
+     596,122  
+     1,904,967  
+     (1,308,845) 
+     (68.71)%
+
+    Recruiting expense 
+     1,570,299  
+     2,038,591  
+     (468,292) 
+     (22.97)%
+
+    Lease expense 
+     2,369,666  
+     2,897,683  
+     (528,017) 
+     (18.22)%
+
+    Office, utility and other expenses 
+     6,689,134  
+     8,772,059  
+     (2,082,925) 
+     (23.74)%
+
+    Misappropriation loss 
+     —  
+     409,030  
+     (409,030) 
+     (100.00)%
+
+    Stock-based compensation 
+     13,022,692  
+     —  
+     13,022,692  
+     100.00%
+
+    Total 
+    $85,746,797  
+    $66,643,972  
+    $19,102,825  
+     28.66%
+
+The
+operating expenses increased to $85,746,797 for the year ended December 31, 2024 by $19,102,825 or 28.66% from $66,643,972 for the same
+period in 2023.The increase in operating expenses was mainly attributed to the increase in impairment loss on intangible asset, the
+increase in stock-based compensation, and the increase in consulting and professional service fees, partially offset by the decrease
+in depreciation and amortization expenses.
+
+Depreciation
+and amortization expense decreased to $2,258,364 by $8,666,088 or 79.33% for the year ended December 31, 2024 from $10,924,452 for the
+same period in 2023, mainly because the decrease in amortization expense incurred from the intangible assets owned by Cell Pro Japan
+Co., Ltd. (“Cellpro”), a former subsidiary of the Company, due to the disposal of Cellpro on January 1, 2024.
+
+Consulting
+and professional service fees increased to $14,555,087 by $5,073,368 or 53.51% for the year ended December 31, 2024 from $9,481,719 for
+the same period in 2023, mainly due to the increase of the professional service fees incurred related to the business combination transaction.
+
+Stock-based
+compensation relates to the warrants issued to the service provider that supported SBC’s listing process. These warrants were issued
+in November 2022 and became exercisable upon the consummation of business combination with Pono Two Capital, Inc., and the fair value
+was recognized as an expense.
+
+For
+the year ended December 31, 2024, the Company fully impaired an intangible asset, patent use right, because the estimated cash flows
+from the use and its eventual disposal of this intangible asset were determined to be negligible. This conclusion was reached through a careful decision-making process and was approved by the Company’s board
+of directors.
+
+Other
+Income (Expenses)
+
+Other
+income (expenses) for the years ended December 31, 2024 and 2023, were as follows:
+
+    For
+                                            the Years ended 
+
+ December
+                                            31,
+
+    Variance 
+
+    2024  
+    2023  
+    Amount  
+    % 
+
+    Interest income 
+    $19,943  
+    $86,748  
+    $(66,805) 
+     (77.01)%
+
+    Interest expense 
+     (28,300) 
+     (45,292) 
+     16,992  
+     (37.52)%
+
+    Other income 
+     4,810,008  
+     3,623,332  
+     1,186,676  
+     32.75%
+
+    Other expenses 
+     (5,463,153) 
+     (745,519) 
+     (4,717,634) 
+     632.80%
+
+    Gain on disposal of subsidiary 
+     3,813,609  
+     —  
+     3,813,609  
+     100.00%
+
+    Total 
+    $3,152,107  
+    $2,919,269  
+    $232,838  
+     7.98%
+
+Although
+an unrealized loss was recognized from the Company’s investment in a public entity with readily determinable fair value under other expenses, a gain on disposal of subsidiary was recorded due to the disposal of Cellpro on January 1, 2024. The total other
+income (expenses) for the year ended December 31, 2024 was $3,152,107, compared to $2,919,269 for the same period in 2023, reflecting
+only a minor overall fluctuation.
+
+Income
+Tax Expense
+
+Income
+tax expense, for the year ended December 31, 2024, was $26,765,925 compared to $35,018,729 for the same period in 2023. The decrease
+in income tax expense by $8,252,804 or 23.57% was mainly due to the increase in the deferred tax benefit as no valuation allowance on
+deferred tax assets of Lange Sub was reserved during the year ended December 31, 2024. It was mainly due to the merger among SBC Medical
+Sub, Lange Sub and Shobikai Sub, with Lange Sub as the surviving entity after the merger, that expected to be effective in January 2025,
+resulting in the potential ability of Lange Sub to generate income and utilize the carried forward net operating loss.
+
+The
+effective tax rate for the fiscal year ended December 31, 2024 was 36.44%, a decrease of 11.16% compared to the 47.59% rate for the fiscal
+year ended December 31, 2023. This decrease was mainly due to a reduction in valuation allowance on deferred tax assets as described
+in the income tax expense comparison above.
+
+Net
+Income
+
+As
+a result of the foregoing, we reported a net income of $46,689,892 for the year ended December 31, 2024, representing an increase of
+$8,129,286 from $38,560,606 for the year ended December 31, 2023.
+
+Net
+Income (Loss) Attributable to Non-controlling Interests
+
+Net
+Income attributable to non-controlling interests was $75,617 for the year ended December 31, 2024, as compared to the net loss attributable
+to non-controlling interests of $809,430 for the year ended December 31, 2023, which was mainly due to the disposal of Cellpro on January
+1, 2024.
+
+Liquidity
+and Capital Resources
+
+As
+of December 31, 2024, the Company had $125,044,092 in cash and cash equivalents compared to $103,022,932 as of December 31, 2023. In
+addition, the Company had $30,260,113 in accounts receivable as of December 31, 2024 compared to $35,113,749 as of December 31, 2023.
+The Company’s accounts receivable includes balances due from customers for the services and goods provided by the Company and accepted
+by customers.
+
+As
+of December 31, 2024, the Company’s working capital balance was $123,259,130. In assessing liquidity, management monitors and analyzes
+the Company’s cash and cash equivalents, ability to generate sufficient future earnings, and operating and capital investment commitments.
+The Company believes that its current cash and cash equivalents from operations and borrowings from banks will be sufficient to meet
+its working capital needs for the next 12 months from the date of issuance of the audited financial statements included in this Annual
+Report.
+
+To
+the extent additional funds are necessary to meet our long-term liquidity needs as we continue to execute our business strategy, we anticipate
+that they will be obtained through the incurrence of indebtedness, equity financings or a combination of these potential sources of funds.
+While we face uncertainties regarding the size and timing of our fundraising, which will be affected by general economic, financial,
+and other factors that may be beyond our control, we believe that we will be able to continue to meet our current business needs through
+the use of cash flows generated from operations and stockholder working capital, as needed.
+
+The
+Company evaluates its capital allocation practices with the objective of enhancing shareholder value, while considering performance,
+the business environment, macroeconomic conditions and other relevant factors. The Company expects to deploy capital for investment opportunities
+that align with its growth strategy, selectively pursuing prospects in the expanding global medical aesthetics market.
+
+Cash
+Flows for the Years Ended December 31, 2024 and 2023
+
+The
+following table provides a summary of our cash flows for the years indicated.
+
+    For
+    the Years ended December 31,  
+    Variance 
+
+    2024  
+    2023  
+    Amount  
+    % 
+
+    Net cash provided by operating
+    activities 
+    $20,582,933  
+    $50,670,322  
+    $(30,087,389) 
+     (59.38)%
+
+    Net cash provided by (used in) investing activities 
+     (10,102,410) 
+     1,793,631  
+     (11,896,041) 
+     (663.24)%
+
+    Net cash provided by financing activities 
+     22,965,400  
+     6,135,368  
+     16,830,032  
+     274.31%
+
+    Effect of changes in foreign
+    currency exchange rate 
+     (11,424,763) 
+     (7,314,383) 
+     (4,110,380) 
+     56.20%
+
+    Net change in cash and cash equivalents 
+     22,021,160  
+     51,284,938  
+     (29,263,778) 
+     (57.06)%
+
+    Cash and cash equivalents
+    as of the beginning of the period 
+     103,022,932  
+     51,737,994  
+     51,284,938  
+     99.12%
+
+    Cash and cash equivalents
+    as of the end of the period 
+    $125,044,092  
+    $103,022,932  
+    $22,021,160  
+     21.38%
+
+Operating
+Activities
+
+Net
+cash provided by operating activities for the year ended December 31, 2024 was $20,582,933, compared to net cash provided in operating
+activities of $50,670,322 for the year ended December 31, 2023, reflecting a decrease of $30,087,389. The decrease was mainly due to
+a decrease in changes in notes payable - related parties of $34.7 million, finance lease receivables – related parties of $22.6
+million and accounts payable of $21.8 million, partially offset by an increase in changes in accounts receivable - related parties of
+$23.8 million and accrued retirement compensation expense – related party of $22.1 million.
+
+Investing
+Activities
+
+During
+the year ended December 31, 2024, net cash used in investing activities of $10,102,410 was mainly the result of payments made on behalf
+of a related party of $5.6 million, cash paid for acquisition of a subsidiary, net of cash received of $4.2 million, purchase of property
+and equipment of $2.6 million and purchase of convertible note of $1.7 million, partially offset by repayments from related parties of
+$6.6 million. During the year ended December 31, 2023, net cash provided by investing activities of $1,793,631 was mainly the result
+of proceeds from disposal of property and equipment of $8.0 million, sales of short-term investments of $4.1 million, and proceeds from
+surrender of life insurance policies of 4.0 million, and offset by payments made for the purchase of property and equipment of $8.5 million,
+purchase of short-term investments of $2.1 million and advances to related parties of $2.3 million.
+
+Financing
+Activities
+
+During
+the year ended December 31, 2024, net cash provided by financing activities of $22,965,400 was the result of proceeds from reverse recapitalization,
+net of transaction costs of $11.7 million, borrowings from a long-term loan of $6.6 million and borrowings from related parties of $5.5
+million. During the year ended December 31, 2023, net cash provided by financing activities of $6,135,368 was the result of borrowings
+from related parties of $12.3 million and deemed contribution in connection with disposal of property and equipment of $9.6 million and
+offset by repayments of long-term loans of $8.7 million and repayments to related parties of $7.7 million.
+
+Recent
+Developments
+
+Upcoming
+Changes to Service Fee Structure
+
+The Company has decided to
+revise the fee structure to pursue a long-term growth strategy aimed at expanding and stabilizing the business foundation by creating
+an environment that can better facilitate the establishment of new clinics by MCs.
+
+If
+the revised fee structure had been applied starting in April 2024, it is estimated that total revenues for fiscal year 2024 would have
+decreased by approximately 10%. However, the Company expects the impact on total revenues and income from operations for fiscal year
+2025 to be offset by the absence of one-time losses that were recorded in fiscal year 2024, which were impairment loss on intangible
+asset and stock-based compensation. Nevertheless, the ultimate financial impact remains uncertain and will depend on a number of factors,
+many of which are beyond the Company’s control.
+
+Upcoming
+Insurance Policy Maturing
+
+Certain
+corporate-owned life insurance policies that the Company purchased to insure its CEO and a key officer will mature on March 29, 2025,
+according to the contract term.
+
+The
+policies of these life insurances were structured so that the surrender value was equivalent to 50% of the initial premium before
+the maturity of the contract and the initial premium was paid out in a lump sum at the inception of the contract. The surrender
+value as of the contract mature date agreed to be the initial premium or accumulated initial premium amount considering interest, which is larger. As
+of December 31, 2024, the insurance policies were recorded at their cash surrender values, included in other assets in the
+consolidated balance sheets with changes in cash surrender value during the period recorded in selling, general and administrative
+expenses.
+
+The
+Company expected the maturity of these policies would result in a gain on surrender of life insurance policies of approximately $9.3
+million in the first quarter of fiscal year 2025.
+
+Misappropriations
+of Funds
+
+In
+January 2024, before the issuance of the Company’s consolidated financial statements as of December 31, 2023 and for the year
+then ended, in connection with a routine tax examination of the Company’s income tax returns, the Japanese tax authority
+discovered misappropriations of Company funds by a former director of general affairs and legal department of L’Ange
+Cosmetique Co., Ltd., which is a subsidiary of the Company (the “former director”), not a relative of the CEO of the
+Company or any identified related party, who received kickbacks from multiple vendors of SBC Japan (collectively with the former
+director, the “participants”) possibly beginning as early as 2012 until the misappropriations were discovered. The
+former director was suspended immediately upon the discovery and was terminated effective February 23, 2024. The Company has
+commenced a criminal complaint in Tokyo against the participants, which was accepted by the police on February 25, 2025.
+
+Shortly
+after this discovery, the Company engaged independent legal counsel and forensic consultants to investigate the misappropriations. The
+investigation, which was completed in March 2024, revealed that the participants had misappropriated approximately JPY632 million ($5.6
+million), including consumption tax, from the Company of which the former director received approximately JPY335 million ($3.0 million),
+between April 2016 and the discovery of the misappropriations in January 2024. The amount misappropriated prior to April 2016 could not
+be accurately determined because certain data for the period prior to April 2016 was unavailable, the Company does not expect such amount
+to be material based on current estimates.
+
+The
+Company found no evidence that any other employee of the Company was aware of, or colluded in, the misappropriations of Company
+funds or that there was any unlawful activity apart from that associated with the participants’ misappropriations of Company
+funds. The misappropriated amounts, excluding the consumption tax, representing advertising services purchased on behalf of a
+related-party MC, were originally included in the revenues reported on a net basis. After discovery of the misappropriations, the
+amounts were reported as a misappropriation loss. For the year ended December 31, 2023, the Company recorded
+a misappropriation loss of $409,030. 
+
+Contractual
+Obligations
+
+Lease
+Agreements
+
+The
+Company has 95 leases classified as operating leases for offices and sublease purposes.
+
+As
+of December 31, 2024, the future maturity of lease liabilities is as follows:
+
+    Years ending
+    December 31, 
+    Lease
+
+ Payment
+
+    2025 
+    $4,361,879 
+
+    2026 
+     712,869 
+
+    2027 
+     263,412 
+
+    2028 
+     109,906 
+
+    2029 
+     109,906 
+
+    Thereafter 
+     54,950 
+
+    Total undiscounted lease
+    payments 
+     5,612,922 
+
+    Less: imputed interest 
+     (29,874)
+
+    Total
+    operating lease liabilities 
+    $5,583,048 
+
+Bank
+and Other Borrowings
+
+The
+Company borrowed loans from various banks and a financial institution for working capital purpose.
+
+As
+of December 31, 2024, future minimum borrowing payments are as follows:
+
+    Years ending
+    December 31, 
+    Principal
+
+ Repayment
+
+    2025 
+    $96,824 
+
+    2026 
+     66,580 
+
+    2027 
+     6,436,102 
+
+    2028 
+     — 
+
+    2029 and thereafter 
+     — 
+
+    Total 
+    $6,599,506 
+
+Off-Balance
+Sheet Arrangements (Off-Balance Sheet Transactions)
+
+There
+are no off-balance sheet arrangements as of December 31, 2024 and 2023.
+
+Foreign
+Exchange Rate Risk
+
+We
+are exposed to foreign currency exchange rate fluctuations because our business is primarily conducted in Japan and most of our revenues
+and costs are denominated in Japanese yen, whereas our reporting currency is U.S. dollar. The weakening of the Japanese yen against the
+U.S. dollar would have a negative impact on our financial results and vice versa.
+
+Critical
+Accounting Policies and Estimates
+
+We
+prepare our consolidated financial statements in conformity with U.S. GAAP, which requires us to make judgments, estimates and assumptions.
+We continually evaluate these estimates and assumptions based on the most recently available information, our own historical experiences
+and various other assumptions that we believe to be reasonable under the circumstances. Since the use of estimates is an integral component
+of the financial reporting process, actual results could differ from our expectations as a result of changes in our estimates. Some of
+our accounting policies require a higher degree of judgment than others in their application and require us to make significant accounting
+estimates. We believe that critical accounting policies as disclosed in this Annual Report reflect the more significant judgements and
+estimates used in preparation of our consolidated financial statements.
+
+The
+following descriptions of critical accounting policies and estimates should be read in conjunction with our consolidated financial statements
+and other disclosures included in this Annual Report. When reviewing our consolidated financial statements, you should consider our selection
+of critical accounting policies, the judgments and other uncertainties affecting the application of such policies and the sensitivity
+of reported results to changes in conditions and assumptions.
+
+Revenue
+Recognition
+
+The
+Company recognizes revenue from franchising services, procurement services, management services and other services under ASC Topic 606,
+“Revenue from Contracts with Customers”.
+
+To
+determine revenue recognition for contracts with customers, the Company performs the following five steps: (i) identify the contract(s)
+with the customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, including variable
+consideration to the extent that it is probable that a significant future reversal will not occur, (iv) allocate the transaction price
+to the respective performance obligations in the contract, and (v) recognize revenue when (or as) the Company satisfies the performance
+obligation. Revenue amount represents the invoiced value, net of consumption tax and applicable local government levies, if any. The
+consumption tax on sales is calculated at 10% of gross sales. The Company does not have significant remaining unfulfilled performance
+obligations or contract balances.
+
+The
+Company reports revenue on a gross or net basis based on management’s assessment of whether the Company acts as a principal or
+agent in the transaction. The determination of whether the Company acts as a principal or an agent in a transaction is based on the evaluation
+of whether (i) the Company is primarily responsible for fulfilling the promise to provide the specified goods or service, (ii) the Company
+has inventory risk before the specified good or service has been transferred to a customer or after transfer of control to the customer
+and (iii) the Company has discretion in establishing the price for the specified good or service. If the terms of a transaction do not
+indicate the Company is acting as a principal in the transaction, then the Company is acting as an agent in the transaction and the associated
+revenues are recognized on a net basis.
+
+The
+Company recognizes revenue from rental services under ASC Topic 842, “Leases”.
+
+The
+Company currently generates its revenue from the following main sources:
+
+Franchising
+Revenue
+
+The
+Company generates franchising revenue (royalty income) by licensing its intellectual properties, including but not limited to the Company’s
+brand name (“Shonan Beauty Clinic”), trade name, patents, and trademarks, as a franchisor pursuant to franchise agreements
+with certain MCs (the “MCs”) in Japan. Prior to April 2023, Franchising Revenue is based on a percentage of sales and recognized
+at the time when the related sales occurred; since April 2023, it is based on a fixed amount to each clinic of the MCs; since September
+2023, it is based on a fixed amount to each MC and a fixed amount to each clinic of the MCs and recognized over time as services are
+rendered.
+
+Procurement
+Revenue
+
+The
+Company generates procurement revenue by purchasing primarily advertising services and medical materials from qualified vendors on behalf
+of MCs to maintain brand quality consistency. Procurement revenue is recognized at the point in time upon the delivery of products or
+over time as services are performed. Occasionally, the Company receives vendor discounts on certain large purchases. It recognizes revenue
+based on actual payments and will return the over-collection resulting from such discounts to MCs.
+
+Management
+Services Revenue
+
+The
+Company provides loyalty program management services, labor supporting services, function supporting services and management consulting
+services to MCs.
+
+●Loyalty
+                                            program management services
+
+The
+Company awards loyalty points on behalf of MCs to MCs’ customers, who earn loyalty points from each qualified purchase made at
+the loyalty program participating clinics of MCs, in exchange for a handling fee. The revenue is based on a percentage of the related
+payment amount made by MCs’ customers and is recognized when the loyalty points are awarded.
+
+At
+the time loyalty points are awarded, a MC pays the Company cash in an amount equivalent to the awarded loyalty points, which is recorded
+as advances from customers. When a MC’s customers redeem the loyalty points, the Company returns the cash back to the MC in an
+amount equivalent to the redeemed loyalty points. The awarded loyalty points expire if a MC’s customer does not make any additional
+qualified purchase at a participating clinic within a year. The Company accumulates and tracks the points on behalf of MCs until the
+loyalty points expire, at which time the Company recognizes an amount equivalent to the expired loyalty points as revenue, which is normally
+not significant.
+
+The
+Company also awards certain points to MCs’ customers on behalf of MCs for free in order to increase the volume of MC’s sales,
+from which the Company earns other types of revenues, such as franchising revenue. When a MC’s customers redeem such points, the
+Company reimburses MC in an amount equivalent to the used free points and records it as a reduction of the revenue recognized.
+
+The
+Company is an agent in the management of loyalty programs, and as a result, revenues are recognized net of the cost of redemptions.
+
+●Labor
+                                            supporting services
+
+The
+Company generates revenue by dispatching staff to MCs to provide a range of services, primarily including clinic operation, IT, and administrative
+services, among which, clinic operation service has been fully terminated since October 2024. The Company recognizes the revenue over
+the time when services are rendered.
+
+●Function
+                                            supporting services
+
+The
+revenue is derived from providing functional supporting services to MCs, such as accounting and human resources services. The Company
+recognizes the revenue over the time when services are rendered.
+
+●Management
+                                            consulting services
+
+The
+Company generates revenue by providing consulting services to MCs in relation to business operations of cosmetic dermatology. The Company
+recognizes the revenue over the time when services are rendered.
+
+Rental
+Services Revenue
+
+The
+Company generates rental income from operating leases and sales-type leases, which is accounted for under ASC Topic 842. Operating lease
+revenue is generally recognized on straight-line basis over the terms of the lease agreements and sales-type leases revenue is generally
+recognized on the lease commitment date.
+
+Other
+Revenues
+
+The
+Company generates other miscellaneous revenues such as accommodation services income, medicine dispensed sales revenue, brokerage services
+revenue, construction services revenue, pilot training services revenue, interest income, etc. These revenues are recognized when the
+Company satisfies performance obligations.
+
+Long-term
+Investments in MCs — Related Parties
+
+Long-term
+investments in MCs — related parties represent the payments to obtain equity interests of the MCs in Japan, made by the Company
+through SBC Japan, a company designated as a MSC in Japan. In accordance with the Japanese Medical Care Act and articles of incorporation
+of the MCs, which are non-profit organizations, the equity interest holders of MCs are prohibited from receiving any profit distribution
+from MCs but have the right to receive distribution of the residual assets of the MCs in proportion to the amount of their contribution.
+As of the balance sheet dates, the investments represent probable future benefit to be realized at the time of dissolution of MCs or
+the equity interests being sold. The payments made for such investments are classified as investing activities in the consolidated statements
+of cash flows. The MCs are considered related parties as the relatives of the Chief Executive Officer (“CEO”) of the Company
+being the Members of the MCs.
+
+The
+investments in MCs — related parties are accounted for using a measurement alternative, under which the investments are measured
+at cost, less impairment, and adjusted for observable price changes. The Company reviews the investments in MCs for impairment whenever
+events or changes in circumstances indicate that the carrying amount may not be recoverable, especially the investments in Medical Corporation
+Jukeikai (“MC Jukeikai”) and Medical Corporation Ritz Cosmetic Surgery (“MC Ritz”), which represent the vast
+majority of the Company’s investments in MCs balance.
+
+Impairment
+Consideration of Investments in MC Jukeikai and MC Ritz
+
+Although
+these two MCs are non-profit entities, their principal operations are providing health care services and they derive primary source of
+their revenue from the sale of goods and services, rather than the fund contributions.
+
+No
+indicator of impairment was noticed based on the Company’s qualitative assessment of impairment. As the Company provides comprehensive
+management services to these two MCs, including accounting and bookkeeping services, the Company has access to MCs’ unaudited financial
+information. In addition to the external market conditions and trends within the MCs’ industry, the Company considered the MCs’
+operating performance, such as sales, increase in sales, and net income (loss) when performing its qualitative assessment. As of December
+31, 2024, the carrying value of the investments in the two MCs was higher than their net assets, respectively, because the Company acquired
+the equity interests with the considerations paid higher than the net asset values at the respective purchase dates due to the expected
+growth and expansion of the MCs.
+
+For
+management’s additional internal analysis purposes, the Company estimates the residual values of the two MCs at dissolution when
+needed, using the income approach with the discounted cash flow method, which estimates the fair values of the MCs by the present worth
+of the net economic benefit to be received by MCs. Management applies significant judgment and assumptions related to estimation, including
+but not limited to the forecasted revenues, the selection of an expected EBITDA margin assumption for the forecast period, forecasted
+future cash flows, and the discounted rate. The Company currently expects the residual values at the dissolution of the MCs will not
+be less than the carrying values of the investments in MCs. The management is not aware of any legal or regulatory limitations on the
+Company’s ability to realize the full amount of proceeds generated from a liquidation of the MCs.
+
+Stock
+Based Compensation
+
+The
+Company accounts for stock-based compensation awards in accordance with ASC Topic 718, “Compensation — Stock Compensation”,
+under which the Company determines whether stock-based compensation awards should be classified and accounted for as an equity award.
+There were no liability awards granted during any of the periods stated herein. For all grants of stock-based compensation classified
+as equity awards, the cost of services received from employees and non-employees in exchange for awards is recognized in the consolidated
+statements of operations and comprehensive income based on the estimated fair value of those awards on the grant date and amortized on
+a straight-line basis over the requisite service period or vesting period. The Company records forfeitures and cancellations as they
+occur.
+
+The
+Company, with the assistance of an independent valuation specialist, determined the fair value of the warrants recognized in the consolidated
+financial statements using the binomial option pricing model, and the equity value as of the grant date was estimated using 1) income
+approach with the discounted cash flow valuation method, which requires management to make significant estimates and assumptions related
+to forecasted revenues and cash flows and the discount rates, and 2) market approach with metrics of publicly traded companies or historically
+completed transactions of comparable businesses. The Company applied a weighting to the income approach and market approach to determine
+the fair value. We believe the accounting estimate for valuation of stock-based compensation is a critical accounting estimate because
+our estimates of fair value of stock-based compensation are based upon assumptions believed to be reasonable, but which are inherently
+uncertain and, as a result, actual results may differ from estimates.
+
+Emerging
+Growth Company
+
+We
+are an “emerging growth company,” as defined in Section 2(a) of the Securities Act, as modified by the JOBS Act, and we will
+take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging
+growth companies including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404
+of the Sarbanes-Oxley Act, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements,
+and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any
+golden parachute payments not previously approved.
+
+Further,
+Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting
+standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do
+not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting
+standards. The JOBS Act provides that a company can elect to opt out of the extended transition period and comply with the requirements
+that apply to non-emerging growth companies but any such election to opt out is irrevocable. We have elected not to opt out of such extended
+transition period, which means that when a standard is issued or revised and it has different application dates for public or private
+companies, we, as an emerging growth company, can adopt the new or revised standard at the time private companies adopt the new or revised
+standard.
+
+Smaller
+Reporting Company
+
+Additionally,
+we are a “smaller reporting company,” as defined in Item 10(f)(1) of Regulation S-K. Smaller reporting companies may take
+advantage of certain reduced disclosure obligations, including, among other things, providing only two years of audited financial statements.
+We will remain a smaller reporting company until the last day of the fiscal year in which (i) the market value of our common stock held
+by non-affiliates exceeds $250 million as of the last business day of our second fiscal quarter, or (ii) our annual revenue exceeded
+$100 million during such completed fiscal year and the market value of our common stock held by non-affiliates exceeds $700 million as
+of the last business day of our second fiscal quarter. If we continue to be a smaller reporting company at the time we cease to be an
+emerging growth company, we may continue to rely on exemptions from these certain reduced disclosure requirements that are available
+to smaller reporting companies.

@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "MO",
+    "company_name": "ALTRIA GROUP, INC.",
+    "transcript_source": "available",
+    "transcript_chars": 38965,
+    "transcript_score": 7,
+    "transcript_decision": "PASS",
+    "filings_tenk_date": "2025-02-26",
+    "filings_proxy_date": "2025-04-03",
+    "filings_score": -2,
+    "filings_decision": "FAIL",
+    "combined_decision": "FAIL",
+    "errors": []
+  }
+]

@@ -1,0 +1,3 @@
+ticker,score,confidence,capex_stance,rd_trajectory,management_horizon,summary
+AAPL,,0,,,,Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'
+MSFT,,0,,,,Error: FMPClient.get_earnings_transcripts() got an unexpected keyword argument 'limit'

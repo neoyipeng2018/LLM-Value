@@ -1,0 +1,67 @@
+[
+  {
+    "ticker": "AAPL",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "MSFT",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "AMZN",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "META",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  },
+  {
+    "ticker": "NVDA",
+    "roic_years": 0,
+    "roic_values": [],
+    "years": [],
+    "avg": null,
+    "min": null,
+    "max": null,
+    "std": null,
+    "trend": "insufficient_data",
+    "trend_detail": "Need at least 3 years of data",
+    "passed": false
+  }
+]
